@@ -1,0 +1,611 @@
+{
+  "id": "RH",
+  "name": "Rangerský horizont",
+  "parts": [
+    {
+      "id": "RH-OR1",
+      "name": "Osobný rast I.",
+      "requiredMinutes": 360,
+      "optionalChapters": 1,
+      "chapters": [
+        {
+          "id": "CH1",
+          "name": "Skautské ideály",
+          "goal": "Viem si uvedomiť postavenie skautských ideálov vo svojom živote. Vediem príkladom mladších a som schopný priblížiť im skautské ideály.",
+          "challenge": "Mladšiemu skautovi zaujímavou aktivitou alebo rozhovorom priblížim skautské ideály pri príprave na jeho nováčikovskú skúšku, skautský sľub alebo iný rituál.",
+          "suggestedActivities": [
+            {
+              "text": "Prečítam si niektorú z hodnotných skautských kníh."
+            },
+            {
+              "text": "Vyrobím pre družinu maličkosť (plagátik, medailón), ktorá jej členom bude pripomínať skautské ideály každý deň."
+            },
+            {
+              "text": "V rámci oddielovej rady prehodnotím spoluprácu s ostatnými, v ktorej časti skautskej metódy môže môj oddiel viac zabrať. Sformulujem aj konkrétne kroky, ako to docieliť."
+            },
+            {
+              "text": "Spolu s ďalšími rangermi či rovermi som pripravil obnovu skautského sľubu pre svoj oddiel."
+            }
+          ]
+        },
+        {
+          "id": "CH2",
+          "name": "Vedenie skupiny a tímu",
+          "goal": "Zlepším sa vo vedení tímu. Dokážem rozoznať svoju rolu v tíme a vnímať dôležitosť vzťahov v tíme.",
+          "challenge": "Zorganizujem 1 dlhšiu (2 hodiny) alebo 2 kratšie (hodinové) teambuildingové aktivity pre oddielovú radu, družinu alebo iný tím. Po aktivite vediem diskusiu s tímom, ako sa mu darilo a čo by sa dalo zlepšiť. Porozprávam sa so svojím vodcom alebo roverom, ktorú rolu v tíme zvyknem zastávať ja sám.",
+          "suggestedActivities": [
+            {
+              "text": "Zlepším tímového ducha vytvorením jedinečnej insígnie nášho tímu, ktorá bude spájať všetkých členov, alebo prípravou zážitku, na ktorý bude celý tím spomínať."
+            },
+            {
+              "text": "Zorganizujem a vediem dvojdňový výlet. Prerozdelím úlohy jednotlivým členom a budem viesť niekoľko aktivít."
+            },
+            {
+              "text": "Pripravím a budem viesť workshop v klubovni na tému skupina vs. tím. Nájdem si potrebnú literatúru a prípadne zavolám hosťa."
+            },
+            {
+              "text": "Vediem oddiel, družinu alebo pravidelné stretnutie radcov a oživím ich novým nápadom."
+            },
+            {
+              "text": "Z programovej ponuky:",
+              "items": [
+                "Splním vybrané body z odborky Organizátor hier.",
+                "Vediem tím pri zdolávaní výzvy 36 hodín služby, 24 hodín na strome alebo Tri vrcholy."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CH3",
+          "name": "Profesionálne zručnosti",
+          "goal": "Snažím sa objaviť svoje životné povolanie. Viem využívať vhodné príležitosti na osobný rozvoj.",
+          "challenge": "Pre skautov a rangerov pripravím premietanie filmu spojené s diskusiou o niekom, kto našiel svoje povolanie (Ratatouille, Steve Jobs...), spojené s diskusiou alebo inú, obdobnú aktivitu.",
+          "suggestedActivities": [
+            {
+              "text": "Prečítam si knihu o voľbe povolania."
+            },
+            {
+              "text": "S roverom alebo dospelým skautom sa porozprávam o jeho rozhodnutiach a povolaní."
+            },
+            {
+              "text": "Nájdem si brigádu podobnú povolaniu, o ktorom som uvažoval."
+            },
+            {
+              "text": "Spýtam sa ďalších ľudí, aké povolanie je podľa nich pre mňa vhodné. Zapojím rodinu, skautov, kamarátov."
+            },
+            {
+              "text": "Vytvorím si životopis (napr. Europass, na profesia.sk) a zaradím doň aj skúsenosti zo skautingu."
+            },
+            {
+              "text": "Z programovej ponuky:",
+              "items": [
+                "Splním vybrané body z odboriek Matematik, Fyzik, Chemik, Právnik, Informatik."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CH4",
+          "name": "Rozvoj talentu",
+          "goal": "Viem si nájsť koníček pre svoj život. Som schopný dlhodobo sa nejakému koníčku venovať.",
+          "challenge": "Zistím od mladšieho člena svojho oddielu, akému koníčku sa venuje, a poprosím ho, aby mi ho vysvetlil a naučil ma jeho základy.",
+          "suggestedActivities": [
+            {
+              "text": "Pre svoj oddiel zorganizujem workshop týkajúci sa koníčka, ktorému sa venujem."
+            },
+            {
+              "text": "Stretnem sa s \"odborníkom\" na koníček, ktorý ma zaujal, a porozprávam sa s ním o ňom."
+            },
+            {
+              "text": "Vyberiem si tri koníčky, ktoré by som chcel skúsiť, a v priebehu najbližších troch mesiacov ich vyskúšam. Zhodnotím, ktorý ma zaujal a rozvíjal najviac."
+            },
+            {
+              "text": "Z programovej ponuky:",
+              "items": [
+                "Splním vybrané body z odborky zameranej na nejaký koníček (Práca s drevom, Genealóg, Kuchár…)."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CH5",
+          "name": "Šport bez rizika",
+          "goal": "Pravidelne sa venujem športovým aktivitám a rozvíjam svoju telesnú kondíciu. Dokážem pomôcť pri organizovaní športovej hry, činnosti pre oddiel.",
+          "challenge": "Pripravím a vediem 3 kratšie fyzické aktivity (napr. rozcvička) alebo jednu náročnejšiu aktivitu pre oddiel alebo inú väčšiu skupinu – od zahriatia cez samotnú aktivitu až po záverečné upokojenie organizmu a strečing.",
+          "suggestedActivities": [
+            {
+              "text": "Vyskúšam športovú aktivitu, ktorú som doteraz neskúsil."
+            },
+            {
+              "text": "Vyberiem si jednu športovú aktivitu a zlepším sa v nej."
+            },
+            {
+              "text": "Pravidelne začínam deň rannou rozcvičkou."
+            },
+            {
+              "text": "Z programovej ponuky:",
+              "items": [
+                "Splním vybrané body z odborky zameranej na šport (Korčuliar, Cyklista, Lezec…).",
+                "Splním expertskú odborku Šport."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CH6",
+          "name": "Dobrovoľníctvo",
+          "goal": "Spoznávam možnosti dobrovoľníctva a priblížim ich ostatným. Som ochotný slúžiť dobrovoľníckou formou.",
+          "challenge": "Pre členov oddielu zorganizujem dobrovoľnícku činnosť na aspoň 3 hodiny pre naše mesto alebo komunitu. Na záver im priblížim skautské výzvy a odborky, ktoré vedú k dobrovoľníctvu.",
+          "suggestedActivities": [
+            {
+              "text": "Vyberiem si z nápadov na dobrovoľníctvo z tejto kapitoly a pomôžem tam, kde to je potrebné."
+            },
+            {
+              "text": "Odpracujem niekoľko dobrovoľníckych hodín alebo dní v skautskom centre."
+            },
+            {
+              "text": "Kamaráta, ktorý chce zažiť dobrý pocit z dobrovoľníctva, pozvem a pomôžem mu ho zažiť v našom oddiele alebo zbore."
+            },
+            {
+              "text": "Z programovej ponuky:",
+              "items": [
+                "Splním vybrané body z odboriek zameraných na dobrovoľníctvo - Miništrant, Oddielový tajomník, Oddielový hospodár, Sprievodca, Babysitter, Tlmočník a prekladateľ…",
+                "Splním výzvu Uzol dobrého skutku, 36 hodín služby, Betlehemské svetlo."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CH7",
+          "name": "Vzťahy a ja",
+          "goal": "Som schopný rozvíjať zdravé priateľstvá a vzťahy.",
+          "challenge": "Svojmu priateľovi alebo bližšej osobe dobrovoľne a ochotne ponúknem svoju pozornosť (s osamelým kamarátom strávim čas, navrhnem kamarátke, že sa naučíte nejakú zručnosť...).",
+          "suggestedActivities": [
+            {
+              "text": "Naplánujem s priateľom alebo skupinou priateľov spoločnú aktivitu (expedíciu, divadelný večer), kde budeme venovať čas hlavne rozvoju našich vzťahov a nie výkonu."
+            },
+            {
+              "text": "Prečítam si dobrú knihu o priateľstve medzi ľuďmi (beletria, motivačná literatúra…). Pokúsim sa vybrať si z nej jeden tip alebo návyk, ako priateľstvo rozvíjať."
+            },
+            {
+              "text": "So svojím priateľom sa dohodnem na vybraných návykoch, ktoré budeme dodržiavať najbližšie mesiace, aby sa naše priateľstvo rozvíjalo."
+            },
+            {
+              "text": "Vytvorím anketu na tému \"Ľúbostné vzťahy v mladosti\" a zapojím do nej ľudí rôzneho veku zo svojho okolia. V otázkach zisťujem prínosy, riziká, skúsenosti, dĺžku vzťahu opýtaných…"
+            },
+            {
+              "text": "Z programovej ponuky:",
+              "items": [
+                "Splním vybrané body z odborky Svetové priateľstvo.",
+                "Splním výzvu Uzol dobrého skutku."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CH8",
+          "name": "Šetrne, jednoducho, zodpovedne",
+          "goal": "Aktívne prispievam k ochrane prírody a k svete o nej. Učím mladších o aktívnom šetrení energie a separovaní.",
+          "challenge": "Plním výzvu Zelený život s ďalšími rangermi aspoň 17 dní. Na záver sa porozprávame, ktoré časti nám robili problém a ktoré boli najprínosnejšie. Pripravíme pár odporúčaní pre mladších.",
+          "suggestedActivities": [
+            {
+              "text": "Pre družinu alebo oddiel pripravím na tábore nové aktivity zamerané na poznávanie a ochranu prírody."
+            },
+            {
+              "text": "Vytriedim nepotrebné veci a oblečenie zo svojej izby a darujem ich, predám alebo vyhodím (v tomto poradí)."
+            },
+            {
+              "text": "Pripravím s ďalšími skautmi (v rámci napr. oddielovky) malú oslavu jedného z medzinárodných dní súvisiacich s prírodou, spojenú s informáciami a aktivitami o ochrane životného prostredia a šetrnom správaní."
+            },
+            {
+              "text": "Z programovej ponuky:",
+              "items": [
+                "Splním vybrané body z odboriek Ochranca prírody, Lesník.",
+                "Príprava na výzvu Zelený život (ušitie vreciek na nakupovanie, príprava košov na separovanie…)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RH-OR2",
+      "name": "Osobný rast II.",
+      "requiredMinutes": 720,
+      "optionalChapters": 1,
+      "chapters": [
+        {
+          "id": "CH1",
+          "name": "Líderstvo a nasledovníctvo",
+          "goal": "Dokážem nájsť miesto v živote, kde som lídrom – rodina, skauting, škola, komunita, práca, a osvojiť si správanie lídra.",
+          "challenge": "Stretnem sa s človekom, ktorého ja pokladám za lídra, a porozprávam sa s ním, ako by som mohol rozvíjať svoje líderstvo a čo to preňho znamená byť lídrom.",
+          "suggestedActivities": [
+            {
+              "text": "Prečítam si knihu o líderstve, zozbieram z nej najdôležitejšie myšlienky a pripravím pre oddiel alebo inú skupinu debatu."
+            },
+            {
+              "text": "Prijmem funkciu na určité obdobie a správam sa ako skutočný líder - vodca oddielu, oddielový radca a pod."
+            },
+            {
+              "text": "Zlepším sa v empatickom správaní - pripravím si zoznam pravidiel a žijem podľa nich istý čas."
+            },
+            {
+              "text": "Z programovej ponuky:",
+              "items": [
+                "Vediem s tímom Projekt v Rangerskom horizonte.",
+                "Naplánujem a vediem s tímom Expedíciu v Rangerskom horizonte.",
+                "Pomôžem inému členovi oddielu pracovať na získaní Rytierskych stužiek.",
+                "K výzve Modrý život si pripíšem ešte dve úlohy na každodenný rozvoj líderstva.",
+                "Získam odborku Oddielový hospodár alebo Oddielový tajomník."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CH2",
+          "name": "Životospráva",
+          "goal": "Dokážem si pripraviť zdravý a pestrý jedálny a pitný režim. Dokážem mladším vysvetliť, prečo je dôležité sa zdravo stravovať. Pravidelnou všestrannou telesnou aktivitou rozvíjam svoju fyzickú kondíciu a vediem k tomu mladších.",
+          "challenge": "Jeden deň na skautskej akcii (víkendovka, tábor) si vezmem na starosť pitný a stravovací režim. Pripravím jedálniček zohľadňujúci program. Pred, počas a po fyzicky náročnejších aktivitách zabezpečím účastníkom vhodnú stravu a pitie. Snažím sa popritom účastníkom vysvetliť dôležitosť správnej životosprávy.",
+          "suggestedActivities": [
+            {
+              "text": "Zlepším svoj výkon v určitej športovej aktivite."
+            },
+            {
+              "text": "Naučím sa variť výživne vyvážené jedlo a pripravím ho pre svoju rodinu."
+            },
+            {
+              "text": "Vyberiem si športovú aktivitu a pripravím si tréningový plán na dva mesiace."
+            },
+            {
+              "text": "Nájdem si informácie o benefitoch a rizikách športu, ktorému sa najčastejšie venujem."
+            },
+            {
+              "text": "Z programovej ponuky:",
+              "items": [
+                "Splním body športovo zameraných odboriek (Lyžiar, Plavec…).",
+                "Splním výzvu Trident či Vlčí dych a Gazelie nohy.",
+                "Splním expertskú odborku Šport."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CH3",
+          "name": "Aktívne občianstvo",
+          "goal": "Som ochotný stať sa aktívnym občanom: dodržiavať zákony, platiť dane, voliť a angažovať sa, zlepšovať svoju spoločnosť. Mladších vediem k tomu, aby sa zaujímali o svoje okolie a spoločnosť, v ktorej žijú. Budujem si vzťah k vlastnému národu.",
+          "challenge": "Spolu s ďalšími rangermi alebo mladšími skautmi vytvorím koncept novej politickej strany alebo občianskej iniciatívy – vymyslíme názov, zadefinujeme si svoje hodnoty a najdôležitejšie body, za ktoré by sme bojovali. Spýtame sa roverov a iných dospelých na spätnú väzbu – čo ich na našom programe oslovilo a či by nás volili.",
+          "suggestedActivities": [
+            {
+              "text": "Naštudujem si, aké sú najsilnejšie politické strany na Slovensku a v čom sa odlišujú."
+            },
+            {
+              "text": "Poprosím rovera alebo dospelého skauta, aby mi priblížil, ako sa rozhodoval pri nedávnych voľbách."
+            },
+            {
+              "text": "Zúčastním sa zasadnutia obecného/mestského zastupiteľstva či parlamentu."
+            },
+            {
+              "text": "Prečítam si knihu o vybranom politikovi, politickej kauze alebo o politickom režime."
+            },
+            {
+              "text": "Ak v mojej obci či v blízkom okolí objavím vec, ktoré mi vadí (nelegálna skládka odpadu, nebezpečné miesta…), upovedomím o tom obecný či mestský úrad."
+            },
+            {
+              "text": "Z programovej ponuky:",
+              "items": [
+                "Splním vybrané body z odborky Občan, Občan Európskej únie, Právnik, Novinár.",
+                "Splním vybrané body z voľného programového modulu Pamäť národa."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CH4",
+          "name": "Talentom k lepšiemu životu",
+          "goal": "Viem si nájsť oblasť záujmu pre svoj život. Som schopný dlhodobo sa nejakej činnosti venovať a vysvetliť jej základy iným.",
+          "challenge": "Pre menšiu skupinu zorganizujem malý workshop, na ktorom vysvetlím, čomu sa vo svojom voľnom čase mimo skautingu venujem, a túto skupinu tiež naučím základy svojho koníčka.",
+          "suggestedActivities": [
+            {
+              "text": "Zúčastním sa workshopu, kurzu či prednášky zameranej na moje hobby či na novú oblasť, ktorú nepoznám."
+            },
+            {
+              "text": "Do zborového, oblastného či iného časopisu napíšem článok o oblasti, ktorá ma zaujíma. Prípadne napíšem blog, natočím video…"
+            },
+            {
+              "text": "Z programovej ponuky:",
+              "items": [
+                "Splním vybrané body z odborky zameranej na nejaký koníček (Modelár, Cukrár, Ručné práce…).",
+                "Splním výzvu Knižnica.",
+                "Splním vodácke výzvy: Zlaňovanie do lode, Noc na lodi, Splavenie pereje."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CH5",
+          "name": "Vzťahy môjho života",
+          "goal": "Som schopný rozlišovať a budovať zdravé vzťahy. Uvedomujem si dôležitosť manželského zväzku a aktívne sa naň pripravujem.",
+          "challenge": "Spíšem si, ktoré vlastnosti sú pre mňa u životného partnera dôležité a ako si predstavujem náš ideálny spoločný bežný deň. Zistím, čo bolo dôležité pre mojich rodičov či iné páry, ktoré poznám.",
+          "suggestedActivities": [
+            {
+              "text": "Určím si svoj jazyk lásky a jazyk svojho partnera či rodičov."
+            },
+            {
+              "text": "Starším priateľom ponúknem, že im postrážim na večer malé dieťa, pričom si vyskúšam rodičovské zručnosti."
+            },
+            {
+              "text": "Prečítam si knihu o zdravých vzťahoch, rozdieloch medzi mužmi a ženami či o rodičovstve."
+            },
+            {
+              "text": "Z programovej ponuky:",
+              "items": [
+                "Dospelým skautom odporučím a vysvetlím voľný programový modul Rodinka."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CH6",
+          "name": "Svet za šedou oponou",
+          "goal": "Uvedomujem si dôležitosť duchovného plánu a aktívne ho žijem.",
+          "challenge": "Vytvorím si vlastný duchovný plán na dva mesiace, v ktorom budem mať jeden každodenný duchovný návyk (napríklad čítanie duchovnej knihy, večerná modlitba), jeden týždňový návyk (pokojná meditácia v lese, svätá omša počas týždňa) a jeden celodenný duchovný deň (výlet do prírody osamote, návšteva kláštora). Do jednej aktivity sa pokúsim zapojiť aj iného skauta.",
+          "suggestedActivities": [
+            {
+              "text": "Prečítam si duchovnú knihu alebo vybrané časti z Biblie."
+            },
+            {
+              "text": "S partiou rangerov sa vyberieme na viacdenné putovanie aj s duchovným obsahom."
+            },
+            {
+              "text": "Nájdem si duchovného vodcu a pravidelne sa s ním stretávam."
+            },
+            {
+              "text": "Vytvorím pre zbor knižnicu duchovnej literatúry aj s krátkymi recenziami a odporúčaniami."
+            },
+            {
+              "text": "Zúčastním sa duchovnej obnovy alebo duchovných cvičení."
+            },
+            {
+              "text": "Z programovej ponuky:",
+              "items": [
+                "Splním body odborky zameranej na duchovno: Znalec náboženstiev, Miništrant, Koledník, Pútnik.",
+                "Splním výzvu, v ktorej budem vedome rozvíjať duchovno: Tri orlie perá, Putovanie, Biely štít, Knižnica, Betlehemské svetlo.",
+                "Splním body voľného programového modulu Ľaliový kríž."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "optionalChapters": [
+    {
+      "id": "OPT01",
+      "name": "Znalosť prírody",
+      "goal": "Systematicky sa venujem ďalšiemu spoznávaniu prírody. Svoje vedomosti prakticky využívam a odovzdávam mladším.",
+      "suggestedActivities": [
+        {
+          "text": "Splním vybrané body z odboriek zameraných na spoznávanie prírody, napríklad Botanik, Geológ, Herpetológ, Ornitológ, Zoológ."
+        },
+        {
+          "text": "Mladších skautov naučím niečo nové o prírodnej téme, ktorú ovládam."
+        },
+        {
+          "text": "Som aktívnym členom klubu alebo spolku, ktorý sa zaujíma o prírodu."
+        }
+      ]
+    },
+    {
+      "id": "OPT02",
+      "name": "Asertivita a empatia",
+      "goal": "Vystupujem zrozumiteľne, asertívne a zároveň bez agresivity. Vediem mladších k asertívnemu správaniu. Podporujem spoluprácu, mier a bratstvo medzi národmi.",
+      "suggestedActivities": [
+        {
+          "text": "Prečítam si vybranú knihu o asertívnom a empatickom správaní."
+        },
+        {
+          "text": "Nájdem si cvičenia na asertivitu a s ďalšími rangermi ich spoločne vyskúšame."
+        },
+        {
+          "text": "Vytvorím zoznam 3 asertívnych a 3 empatických návykov, podľa ktorých žijem aspoň jeden mesiac."
+        }
+      ]
+    },
+    {
+      "id": "OPT03",
+      "name": "Komunikačné zručnosti",
+      "goal": "Dokážem zrozumiteľne komunikovať, formulovať svoje argumenty a zároveň sa viem adekvátne správať vo vyhrotených situáciách. Viem aktívne počúvať a vediem k tomu aj mladších.",
+      "suggestedActivities": [
+        {
+          "text": "Splním vybrané body z odboriek Sprievodca alebo Tlmočník a prekladateľ."
+        },
+        {
+          "text": "Zúčastním sa rétorickej súťaže a získam dobré ohodnotenie od porotcov."
+        },
+        {
+          "text": "Som aktívnym členom debatného klubu a pre oddiel pripravím krátky workshop."
+        },
+        {
+          "text": "Pre oddiel alebo svoju rodinu pripravím krátky zoznam pravidiel dobrej komunikácie a aktívneho počúvania. Aspoň pri dvoch debatách sa snažím, aby sa tieto pravidlá dodržiavali."
+        }
+      ]
+    },
+    {
+      "id": "OPT04",
+      "name": "História",
+      "goal": "Snažím sa spoznávať svoju krajinu, jej históriu a osobnosti. Poznám základné historické udalosti sveta a najdôležitejšie udalosti vývinu skautského hnutia.",
+      "suggestedActivities": [
+        {
+          "text": "Splním vybrané body z odboriek Historik či Skautská história."
+        },
+        {
+          "text": "Pre mladších skautov si pripravím prezentáciu predmetov, ktorých účel, vzhľadom na ich vek, nepoznajú."
+        },
+        {
+          "text": "Pripravím si zaujímavé otázky pre svojich starých rodičov alebo staršieho skauta o ich mladosti."
+        },
+        {
+          "text": "Navštívim pre mňa neznámu kultúrnu alebo historickú pamiatku vo svojej obci."
+        },
+        {
+          "text": "Zistím, kedy a za akých podmienok začal v mojom meste skauting."
+        }
+      ]
+    },
+    {
+      "id": "OPT05",
+      "name": "Cezhraničné priateľstvá",
+      "goal": "Som schopný čeliť rasovým, etnickým, vekovým, kultúrnym a sociálnym stereotypom, nacionalizmu a netolerancii. Dokážem mladších poučiť, ako a prečo majú byť tolerantní voči iným kultúram a náboženstvám. Nadväzujem kontakty so zahraničnými skautmi.",
+      "suggestedActivities": [
+        {
+          "text": "Splním vybrané body z odborky Svetové priateľstvo."
+        },
+        {
+          "text": "Skontaktujem sa so zahraničnými skautmi."
+        },
+        {
+          "text": "Na zahraničnej expedícii alebo jamboree si vymením kontakt so zahraničným skautom a porozprávam sa s ním o skautingu v jeho krajine."
+        },
+        {
+          "text": "Zúčastním sa JOTA-JOTI (jamboree na internete a rádiových vlnách). Zapojím tiež mladších skautov."
+        },
+        {
+          "text": "Ukážem mladším skautom príklady internetových stránok, ktoré šíria nenávistné príspevky, a vysvetlím, prečo sa im treba vyvarovať."
+        }
+      ]
+    },
+    {
+      "id": "OPT06",
+      "name": "Prvá pomoc",
+      "goal": "Ovládam pravidlá prvej pomoci a jej základy dokážem naučiť mladších.",
+      "suggestedActivities": [
+        {
+          "text": "Zúčastním sa kurzu prvej pomoci."
+        },
+        {
+          "text": "Pripravím pre oddiel aktivitu zameranú na základy alebo precvičovanie prvej pomoci."
+        },
+        {
+          "text": "Zúčastním sa súťaže mladých zdravotníkov."
+        },
+        {
+          "text": "Vytvorím si osobnú lekárničku, nosím ju so sebou a viem jej obsah správne použiť."
+        },
+        {
+          "text": "Splním vybrané body z odborky Prvá pomoc."
+        }
+      ]
+    },
+    {
+      "id": "OPT07",
+      "name": "Pozitívny prístup k životu",
+      "goal": "Pristupujem k životu pozitívne a so zmyslom pre humor. Teším sa z maličkostí a viem byť oporou tým ľuďom, ktorí to potrebujú.",
+      "suggestedActivities": [
+        {
+          "text": "Pomôžem s prípravou vtipného predstavenia pre deti z detského domova alebo pre domov dôchodcov."
+        },
+        {
+          "text": "Pripravím malé prekvapenie pre človeka, ktorý to z môjho okolia najviac potrebuje - rodič, priateľ, niekto neznámy…"
+        },
+        {
+          "text": "Mám malý každodenný zvyk či rituál, ktorý praktizujem a ktorý ma povzbudzuje k pozitívnemu prístupu."
+        },
+        {
+          "text": "Na konci dňa si vyhradím 15 minút na jeho rekapituláciu, spomeniem si na príjemné veci, ktoré som zažil."
+        }
+      ]
+    },
+    {
+      "id": "OPT08",
+      "name": "Street art",
+      "goal": "Poznám základné formy street artu a systematicky robím osvetu, že street art neznamená vždy vandalizmus. Vytvorím vlastné streetartové diela na papier alebo na legálnu stenu.",
+      "suggestedActivities": [
+        {
+          "text": "Na legálnej stene alebo s povolením majiteľa objektu vytvorím grafity."
+        },
+        {
+          "text": "Oboznámim sa so základnými pojmami street artu a vysvetlím ich ďalším."
+        },
+        {
+          "text": "Ľudí, o ktorých viem, že sprejujú na súkromné stavby či vlaky, poučím o nezodpovednosti ich správania."
+        }
+      ]
+    },
+    {
+      "id": "OPT09",
+      "name": "Masmédiá",
+      "goal": "Dokážem vyhľadať rôzne zdroje informácií, systematicky zbierať nové informácie a posúdiť ich dôveryhodnosť. Na základe zistení dokážem spraviť rozhodnutie.",
+      "suggestedActivities": [
+        {
+          "text": "Splním vybrané body z odboriek Občan alebo Novinár."
+        },
+        {
+          "text": "Na internete si prečítam aspoň 4 články o tom, ako sa vyhnúť hoaxom, konšpiračným teóriám a ako získať pravdivé informácie."
+        },
+        {
+          "text": "Navštívim knižnicu a oboznámim sa s jej delením informačných zdrojov. Nájdem vybranú informáciu s odvolaním sa na viaceré dôveryhodné zdroje."
+        }
+      ]
+    },
+    {
+      "id": "OPT10",
+      "name": "Literatúra",
+      "goal": "Pravidelne si rozširujem svoje obzory čítaním novej literatúry a dokážem mladším vysvetliť dôležitosť čítania.",
+      "suggestedActivities": [
+        {
+          "text": "Prečítam vybranú časť kníh z výzvy Knižnica a svoj výber kníh predstavím rangerskej družine."
+        },
+        {
+          "text": "Splním vybrané body z odboriek Spisovateľ, Čitateľ alebo Kronikár."
+        },
+        {
+          "text": "Nájdem na internete zoznam odporúčanej literatúry, ktorú by mal prečítať každý človek, a vyberiem si niekoľko kníh, ktoré ma zaujali."
+        },
+        {
+          "text": "Vytvorím si vlastný zoznam literatúry, ktorú odporučím prečítať iným (priateľom, členom oddielovej rady)."
+        },
+        {
+          "text": "Vytvorím pre oddiel alebo miestnu komunitu malú knižničku na verejnom priestore, v ktorej sa budú dať nájsť zaujímavé knihy."
+        }
+      ]
+    },
+    {
+      "id": "OPT11",
+      "name": "Prežitie v prírode",
+      "goal": "Pravidelne navštevujem prírodu aj v nepriaznivých podmienkach. Rozvíjam svoje zálesácke zručnosti a odovzdávam ich mladším.",
+      "suggestedActivities": [
+        {
+          "text": "Pripravím sa a prežijem bivak v nepriaznivom počasí."
+        },
+        {
+          "text": "Mladšieho skauta naučím určitú zálesácku zručnosť (brúsenie noža, sekery, zapaľovanie ohňa kresadlom…)."
+        },
+        {
+          "text": "Vyskúšam si plnenie voľného programového modulu NOX."
+        },
+        {
+          "text": "Na neskautskej akcii (branné cvičenie v škole) ostatným účastníkom vysvetlím určitú zálesácku zručnosť."
+        },
+        {
+          "text": "Splním vybrané body z odborky Turista, Zálesák, Táborník…"
+        }
+      ]
+    },
+    {
+      "id": "OPT12",
+      "name": "Umenie",
+      "goal": "Oceňujem umenie v jeho rôznorodých podobách a objavujem aj nové formy. Vediem mladších k objavovaniu umeleckých schopností a k ich zlepšovaniu.",
+      "suggestedActivities": [
+        {
+          "text": "Splním vybrané body z odboriek zameraných na umenie: Kultúra, Výtvarník, Spevák, Hudobník…"
+        },
+        {
+          "text": "Zúčastním sa pre mňa novej umeleckej udalosti (koncert, výstava, divadlo…)."
+        },
+        {
+          "text": "Naučím sa novú umeleckú zručnosť (základy hry na hudobnom nástroji, nová technika maľby, spevu…)."
+        }
+      ]
+    }
+  ]
+}

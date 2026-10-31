@@ -1,0 +1,74 @@
+# Checks every content change, and on main announces the new version to the
+# app through Firestore (config/app -> content.<schema> = {version, commit}).
+#
+# The app downloads schema-<n>/ at exactly the commit written here, so a
+# version is live as soon as this job finishes, and the files behind it never
+# change afterwards.
+#
+# Needs the FIREBASE_SERVICE_ACCOUNT_JSON secret in the "firebase" environment:
+# a service account key for project scoutpath-759d7 with the
+# "Cloud Datastore User" role (the same key the app repo uses).
+name: Publish content
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+# One publish at a time, in push order. set_content_version.py also refuses to
+# lower the version, so a slow older run can never roll users back.
+concurrency:
+  group: publish-content-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  check:
+    name: Validate content
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Validate every schema folder
+        env:
+          BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: |
+          shopt -s nullglob
+          dirs=(schema-*/)
+          [ ${#dirs[@]} -gt 0 ] || { echo "No schema-* folders."; exit 1; }
+          for dir in "${dirs[@]}"; do
+            schema="${dir#schema-}"; schema="${schema%/}"
+            args=(--schema "$schema" --check)
+            if [ -n "$BASE" ] && git cat-file -e "$BASE^{commit}" 2>/dev/null; then
+              args+=(--base-ref "$BASE")
+            fi
+            python3 -I tool/build_manifest.py "${args[@]}"
+          done
+
+  publish:
+    name: Announce in Firestore
+    needs: check
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment: firebase
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - id: auth
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+          token_format: access_token
+      - name: Update config/app
+        env:
+          ACCESS_TOKEN: ${{ steps.auth.outputs.access_token }}
+          COMMIT: ${{ github.sha }}
+        run: |
+          for manifest in schema-*/manifest.json; do
+            schema=$(python3 -I -c 'import json,sys; print(json.load(open(sys.argv[1]))["schemaVersion"])' "$manifest")
+            version=$(python3 -I -c 'import json,sys; print(json.load(open(sys.argv[1]))["version"])' "$manifest")
+            python3 -I tool/set_content_version.py --project scoutpath-759d7 \
+              --schema "$schema" --version "$version" --commit "$COMMIT"
+          done

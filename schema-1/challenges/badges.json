@@ -1,0 +1,597 @@
+[
+  {
+    "name": "24 hodín na strome",
+    "age": "scouts",
+    "levels": [
+      {
+        "name": "",
+        "image": "24_hodin_na_strome.png",
+        "description": "Výzvu je možné plniť po splnení kategórie Zdravie a sila v príručke Neznáme cesty.\nPri plnení tejto výzvy nemožno lámať živé konáre ani inak ubližovať stromom. Možno ju plniť samostatne i skupinovo. Kontakt s ľuďmi „na zemi“ je povolený, takisto prísun jedla. Na plnenie výzvy sa možno pripraviť i vopred zhotovením provizórneho posedu či prístrešku. Plnenie výzvy musí odsúhlasiť oddielový vodca a on i určí zodpovednú osobu.",
+        "tasks": [
+          {
+            "description": "Prežijem na strome 24 hodín, počas ktorých sa nedotknem zeme.",
+            "id": "CHA110-LEV1-TAS2"
+          }
+        ],
+        "id": "CHA110-LEV1"
+      }
+    ],
+    "id": "CHA110"
+  },
+  {
+    "name": "36 hodín služby",
+    "age": "scouts",
+    "levels": [
+      {
+        "name": "",
+        "image": "36_hodin_sluzby.png",
+        "description": "Výzvu je možné plniť po splnení kategórie Služba v príručke Neznáme cesty.\nPlnenie výzvy je časovo ohraničené na jeden rok, t. j. 365 dní.\nVykonám 36 hodín služby v priebehu jedného roka v troch kategóriách:",
+        "tasks": [
+          {
+            "description": "S vodcom alebo radcom sa dohodnem, kde a ako dlho budem slúžiť. V rámci jednej kategórie môžem mať aj viac cieľov a môžem si tak 12 hodín rozdeliť aj na menšie časti. Napríklad v kategórii služba prírode spoločne s družinou venujem 6 hodín obnoveniu studničky, 4 hodiny stavaniu vtáčích búdok a 2 hodiny prezentácii pre škôlku. Slúžiť môžem sám alebo aj s družinou. Do hodín služby sa ráta len aktívne úsilie – preto ak som čistil studničku 2 hodiny a potom ďalšie 4 hodiny opekal špekáčiky, zarátam si len 2 hodiny a nie 6 hodín. Je už na skautskej cti, ako si nakoniec čas zarátam. Dobrým pravidlom je radšej mať o polhodinu viac služby ako výčitky svedomia.",
+            "id": "CHA111-LEV1-TAS3"
+          }
+        ],
+        "id": "CHA111-LEV1"
+      }
+    ],
+    "id": "CHA111"
+  },
+  {
+    "name": "Biely štít",
+    "age": "scouts",
+    "levels": [
+      {
+        "name": "",
+        "image": "biely_stit.png",
+        "description": "Výzvu je možné plniť po splnení kategórie Charakter v príručke Neznáme cesty.\nNa začiatku plnenia výzvy si vyrobím desať drevených placiek (krúžkov) a na každú jednu napíšem „1 P“. Spoločne s oddielovým vodcom mi pridelia osobného tútora na túto výzvu. Následne sa každý večer na tábore počas plnenia výzvy rozprávam so svojím tútorom, ako sa mi darilo, respektíve nedarilo dodržiavať 10 P zásady. Za každé porušenie jednej z 10 P zásad musím spáliť jednu placku. Ak som porušil počas dňa viac 10 P zásad – musím spáliť za každé jedno porušenie jednu placku.",
+        "tasks": [
+          {
+            "description": "Po dobu celého tábora (minimálne 10 dní) budem dodržiavať zásady skautského života charakterizované 10 P zásadami tak, aby mi na konci tábora zostala aspoň jedna z desiatich placiek. Výzva sa plní počas letného tábora. Nie ju možné plniť počas roka.",
+            "id": "CHA112-LEV1-TAS2"
+          }
+        ],
+        "id": "CHA112-LEV1"
+      }
+    ],
+    "id": "CHA112"
+  },
+  {
+    "name": "Krotiteľ displejov",
+    "age": "scouts",
+    "levels": [
+      {
+        "name": "",
+        "image": "krotitel_displejov.png",
+        "description": "Túto výzvu nie je možné plniť počas letného tábora.\nKonkrétny príklad:Ak mám práve 13 rokov, môžem splniť výzvu Krotiteľ displejov tak, že 13 týždňov obmedzím čas strávený pred obrazovkami na maximálne 13 hodín týždenne.\nRáta sa medzi čas strávený pri displejoch…?\nMnoho smartfónov má funkciu digitálnej rovnováhy, vďaka ktorej môžeš priradiť maximálny čas používania jednotlivým aplikáciám, resp. aj celému telefónu.",
+        "tasks": [
+          {
+            "description": "Obmedzím sledovanie displejov na toľko týždňov, koľko mám rokov. Počas tohto obdobia budem každý týždeň pred displejmi maximálne toľko hodín, koľko mám rokov.",
+            "id": "CHA113-LEV1-TAS1"
+          }
+        ],
+        "id": "CHA113-LEV1"
+      }
+    ],
+    "id": "CHA113"
+  },
+  {
+    "name": "Modrý život",
+    "age": "scouts",
+    "levels": [
+      {
+        "name": "",
+        "image": "modry_zivot.png",
+        "description": "Výzvu je možné plniť po splnení kategórie Charakter v príručke Prvý skaut.\nKaždý deň sa budem snažiť splniť všetkých sedem predsavzatí. Pripravím si alebo sistiahnemtabuľku na celý mesiac a každý deň večer si vyfarbím modrou farbou políčka, ktoré som za tento deň splnil. Budem sa snažiť stále zlepšovať, aby som mal čím viac políčok v tabuľke modrých. Ak splním podmienky výzvy, prijmem predsavzatie – každý pondelok budem opäť plniť Modrý život, aby som sa udržal v „modrej“ kondícii.\n…Jiří byl udivený.\n„Čemu říkáš Modrý život? Je to zase nějaký tvůj nápad, o kterém jsem ještě neslyšel?“„Ale není to nic zvláštního,“ pravil odmítavě Láďa. „Pokusím se ti to vysvětlit. Snad víš, že se o aristokratech říká, že mají modrou krev?“\n„Ano, to vím,“ přisvědčil Jiří poněkud rozpačitě. „Ale jak to spolu souvisí?“„Velmi dobře,“ hovořil dále Láďa. „Snažím se žít jako aristokrat. Praví a správní aristokraté jsou a byli přece lidé vzácných a krásných vlastností, pro které byli právě do šlechtického stavu povyšováni. Nu – a já chci být takový aristokrat. Ne z nějakého děděného šlechtického titulu, který by na mě přešel bez mé zásluhy, ale abych si ho zasloužil vším, co dělám.A tak jsem si utvořil takový vzorný Modrý život a snažím se jím žít.“",
+        "tasks": [
+          {
+            "description": "30 dní sa budem snažiť žiť čo najlepšie podľa siedmich pravidiel Modrého života. Za tento čas nebudem mať viac ako 30 bielych políčok.\nV knižke „Přístav volá“ od Jaroslava Foglara žil výnimočne dobrý a ušľachtilý chlapec Láďa Vilemín, ktorý si zostavil niekoľko pravidiel, ktoré každodenne plnil a dodržiaval. Tomuto každodennému systému začal hovoriťModrý život, ako pripomienku morálnych i fyzických vlastností každého chlapca a dievčaťa, po vzore šľachticov s modrou krvou. Podľa neho si potom zariadili svoj denný program i jeho kamaráti a aj mnoho čitateľov, ktorí sa podrobnosti o Modrom živote dozvedeli z knihy „Kronika Ztracené stopy“.\n",
+            "id": "CHA114-LEV1-TAS2"
+          }
+        ],
+        "id": "CHA114-LEV1"
+      }
+    ],
+    "id": "CHA114"
+  },
+  {
+    "name": "Putovanie",
+    "age": "scouts",
+    "levels": [
+      {
+        "name": "",
+        "image": "putovanie.png",
+        "tasks": [
+          {
+            "description": "Výzvu je možné plniť po splnení kategórie Charakter v príručke Posledný vrchol.",
+            "id": "CHA115-LEV1-TAS1"
+          },
+          {
+            "description": "Vyrazím na cestu a budem putovať 24 hodín s minimálnou výbavou. Výzvu môžem plniť sám alebo vo dvojici.  Putovanie trvá 24 hodín. Na začiatok si so svojím vodcom dohodnem presné pravidlá a  bezpečnostné postupy pre plnenie tejto výzvy. Okrem toho dostanem mapu s cieľovým bodom, ku ktorému mám doputovať. Miesto vyberie vodca (podľa mojej kondície, miesto vzdialené približne 20 km, cesta späť rovnako). Cesta k miestu a späť sa nesmie zhodovať.",
+            "id": "CHA115-LEV1-TAS2"
+          },
+          {
+            "description": "Vyrazím na cestu vybavený len absolútne nevyhnutnými potrebami na prespanie a putovanie. Nevezmem si žiadne potraviny ani nápoje, mojou jedinou potravou bude to, čo si pripravím z kila múky čistej vody. Obsah môjho batoha skontroluje vodca a zbytočné veci vyradí, prípadne doplní chýbajúce nutné potreby. Podmienkou splnenia je, že sa musím do 24 hodín vrátiť späť na miesto, z ktorého som vyrazil. Počas celého dňa aj noci sa budem maximálne snažíť vyhýbať ľuďom. Každé stretnutie, ktorému sa nepodarí vyhnúť, si zaznačím. Počas môjho putovania vo chvíľach oddychu si budem čítať texty, knihy alebo úryvky z kníh a premýšľať nad nimi. Texty mi pripraví vodca alebo organizátor výzvy, alebo si ich vyberiem sám. V prípade, že putujeme ako dvojica, budeme striedať chvíle ticha a premýšľania s chvíľami rozhovorov a diskusií.",
+            "id": "CHA115-LEV1-TAS3"
+          },
+          {
+            "description": "Vo výbave na putovanie by nemala chýbať zalepená obálka s mobilným telefónom a nutnou hotovosťou na prípadnú prepravu, ak dôjde k nečakanej udalosti. Túto obálku môže dvojica alebo jednotlivec otvoriť len v prípade núdze. Rovnako by vo výbave nemala chýbať lekárnička a KPZ.",
+            "id": "CHA115-LEV1-TAS4"
+          },
+          {
+            "description": "Vodca alebo organizátor tejto výzvy si pred jej plnením musí prejsť s účastníkom/účastníkmi všetky pravidlá a bezpečnostné postupy. Zároveň sa musí uistiť, či je účastník/účastníci v dobrom fyzickom aj psychickom stave, a či majú so sebou všetky nevyhnutné veci.",
+            "id": "CHA115-LEV1-TAS5"
+          },
+          {
+            "description": "Už od nepamäti sa ľudia vydávali hľadať do hôr samotu, v samote mohli premýšľať a ak sa k tomu pripojila námaha a vyčerpanie, potom nachádzali aj pravdu o sebe, svojich možnostiach a limitoch. Táto výzva bude práve takouto cestou za objavovaním tvojich možností, vytrvalosti a schopnosti prekonať slabosť.",
+            "id": "CHA115-LEV1-TAS6"
+          }
+        ],
+        "id": "CHA115-LEV1"
+      }
+    ],
+    "id": "CHA115"
+  },
+  {
+    "name": "Rytierske stužky",
+    "age": "scouts",
+    "levels": [
+      {
+        "name": "",
+        "image": "rytierske_stuzky.png",
+        "tasks": [
+          {
+            "description": "Výzvu je možné plniť po splnení kategórie Charakter v príručke Posledný vrchol.",
+            "id": "CHA116-LEV1-TAS1"
+          },
+          {
+            "description": "Rytierske stužky mi môže udeliť oddielová rada pri jednotnom názore, že vynikám priateľskosťou, obetavosťou, spoľahlivosťou, disciplínou a moje správanie je pre ostatných vzorom. O udelenie Rytierskych stužiek je možné požiadať oddielovú radu.",
+            "id": "CHA116-LEV1-TAS2"
+          },
+          {
+            "description": "Rytierske stužky sú jedným z najčestnejších skautských ocenení. Je možnosť požiadať oddielovú radu, aby prehodnotila žiadateľovo správanie a v prípade potreby mu určila body, v ktorých sa má zlepšiť za určené obdobie. Ak by nastal eventuálny prípad, že nositeľ Rytierskych stužiek svojím nevhodným správaním znižuje ich hodnotu, oddielový vodca ho na to upozorní, v krajnom prípade ho požiada o odšitie stužiek, čo musí rešpektovať.",
+            "id": "CHA116-LEV1-TAS3"
+          }
+        ],
+        "id": "CHA116-LEV1"
+      }
+    ],
+    "id": "CHA116"
+  },
+  {
+    "name": "Školský prospech",
+    "age": "scouts",
+    "levels": [
+      {
+        "name": "",
+        "image": "skolsky_prospech.png",
+        "tasks": [
+          {
+            "description": "Výzvu je možné plniť po splnení kategórie Zručnosti a schopnosti v príručke Prvý skaut.",
+            "id": "CHA117-LEV1-TAS1"
+          },
+          {
+            "description": "Nášivku Školský prospech môžem nosiť polrok od vysvedčenia, ak skončím s vyznamenaním alebo ak som si priemer svojich známok výrazne zlepšil, minimálne o hodnotu 0,4.",
+            "id": "CHA117-LEV1-TAS2"
+          },
+          {
+            "description": "Výzva Školský prospech je špecifická v tom, že nosenie dosiahnutej nášivky je časovo obmedzené do nasledujúceho vysvedčenia, ktoré potvrdí buď oprávnenosť nosenia nášivky, alebo nutnosť odšiť si ju dole.",
+            "id": "CHA117-LEV1-TAS3"
+          },
+          {
+            "description": "Nášivku Školský prospech je možné si nechať našitú natrvalo pri súčasnom splnení dvoch podmienok:",
+            "id": "CHA117-LEV1-TAS4"
+          }
+        ],
+        "id": "CHA117-LEV1"
+      }
+    ],
+    "id": "CHA117"
+  },
+  {
+    "name": "Tri orlie perá",
+    "age": "scouts",
+    "levels": [
+      {
+        "name": "",
+        "image": "tri_orlie_pera.png",
+        "tasks": [
+          {
+            "description": "Výzvu je možné plniť po splnení kategórie Zručnosti a schopnosti v príručke Neznáme cesty.",
+            "id": "CHA118-LEV1-TAS1"
+          },
+          {
+            "description": "Získam orlie pero mlčania, hladu a samoty.",
+            "id": "CHA118-LEV1-TAS2"
+          },
+          {
+            "description": "Túto výzvu možno skladať len na letnom skautskom tábore. Jeden bod je možné pokúsiť sa splniť na jednom tábore maximálne trikrát. Tri orlie perá celkovo možno skúsiť na 3 táboroch. Kontrolou je skautská česť. Plnenie orlieho pera nemožno kombinovať s plnením iného orlieho pera. Pri orlom pere samoty si môže oddiel stanoviť bezpečnostnú doplňujúcu podmienku, napríklad aby bol skaut vo vzdialenosti na dohľad alebo dosluch píšťalky od tábora.",
+            "id": "CHA118-LEV1-TAS3"
+          }
+        ],
+        "id": "CHA118-LEV1"
+      }
+    ],
+    "id": "CHA118"
+  },
+  {
+    "name": "Tri vrcholy",
+    "age": "scouts",
+    "levels": [
+      {
+        "name": "",
+        "image": "tri_vrcholy.png",
+        "tasks": [
+          {
+            "description": "Výzvu je možné plniť po splnení kategórie Zdravie a sila v príručke Prvý skaut.",
+            "id": "CHA119-LEV1-TAS1"
+          },
+          {
+            "description": "Vystúpim na 3 vrcholy vyššie ako 1600 m nad morom. Každý vrchol treba dobýjať zospodu, čiže z poslednej podhorskej obce alebo strediska. Najvhodnejšie je každý vrchol zdolať na jednej samostatnej výprave. Prebehnutie z kopca na kopec počas jednej horskej hrebeňovky sa neráta za dosiahnutie 2 vrcholov. Takisto sa neráta dovezenie sa lanovkou, či doprava autom blízko vrcholu.",
+            "id": "CHA119-LEV1-TAS2"
+          },
+          {
+            "description": "Rangeri, rangerky a starší si môžu splniť náročnejšiu verziu výzvy Tri vrcholy. Všetky podmienky ostávajú rovnaké s tým rozdielom, že je potrebné dobyť vrcholy  vyššie ako 2000 m nad morom. Príslušná nášivka sa líši iba farbou vlajočiek na vrcholoch – sú červené.",
+            "id": "CHA119-LEV1-TAS3"
+          }
+        ],
+        "id": "CHA119-LEV1"
+      }
+    ],
+    "id": "CHA119"
+  },
+  {
+    "name": "Trident",
+    "age": "scouts",
+    "levels": [
+      {
+        "name": "",
+        "image": "trident.png",
+        "tasks": [
+          {
+            "description": "Výzvu je možné plniť po splnení kategórie Zdravie a sila v príručke Posledný vrchol.",
+            "id": "CHA120-LEV1-TAS1"
+          },
+          {
+            "description": "Získam vo fitness teste 1000 (chlapci) alebo 600 (dievčatá) bodov.",
+            "id": "CHA120-LEV1-TAS2"
+          },
+          {
+            "description": "V ľubovoľnom poradí odcvičím:",
+            "id": "CHA120-LEV1-TAS3"
+          },
+          {
+            "description": "Medzi opakovaniami v rámci jedného cviku možno odpočívať, ale pri zhyboch len za podmienky, že počas oddychu stále ostávam visieť na hrazde a nohami sa nedotýkam zeme. Medzi jednotlivými cvikmi (čiže napr. medzi kľukmi a drepmi) nesmiem odpočívať dlhšie než 10 minút. V každom cviku sa počítajú iba bezchybné opakovania.",
+            "id": "CHA120-LEV1-TAS4"
+          },
+          {
+            "description": "Pred plnením výzvy si prečítajte metodiku k výzve, aby ste dané cviky vedeli robiť správne. Vyhnete sa tak problémom, ktoré môže so sebou niesť dlhodobé nesprávne cvičenie. Metodiku nájdetena tomto odkaze.",
+            "id": "CHA120-LEV1-TAS5"
+          }
+        ],
+        "id": "CHA120-LEV1"
+      }
+    ],
+    "id": "CHA120"
+  },
+  {
+    "name": "Uzol dobrého skutku",
+    "age": "scouts",
+    "levels": [
+      {
+        "name": "",
+        "image": "uzol_dobreho_skutku.png",
+        "tasks": [],
+        "id": "CHA121-LEV1"
+      }
+    ],
+    "id": "CHA121"
+  },
+  {
+    "name": "Výsadok",
+    "age": "scouts",
+    "levels": [
+      {
+        "name": "",
+        "image": "vysadok.png",
+        "tasks": [
+          {
+            "description": "Výzvu je možné plniť po splnení kategórie Zručnosti a schopnosti v príručke Posledný vrchol.",
+            "id": "CHA122-LEV1-TAS1"
+          },
+          {
+            "description": "Túto výzvu plnia dievčatá aj chlapci vždy po dvojiciach. V prípade chlapcov a dievčat starších ako 18 rokov môže vodca zvážiť výnimky a dovoliť plnenie výzvy aj jednotlivcovi, podľa vyspelosti účastníkov a náročnosti výzvy.",
+            "id": "CHA122-LEV1-TAS2"
+          },
+          {
+            "description": "Vodca alebo organizátor výzvy zadá večer 30 minút na prípravu nevyhnutných vecí. Naša výbava by mala byť len minimálna – pršiplášť, baterka, lekárnička, voda, KPZ a mobil pre prípad núdze. Okrem toho nesmie chýbať šatka, ktorou si zaviažeme oči. Vodca nám pred odchodom ukáže na päť minút mapu okolia tábora, pozorne si ju prezrieme a zapamätáme si, aké hlavné prístupové cesty sú okolo nášho tábora, rovnako aj to, ktoré dediny sa nachádzajú v okolí. Potom nastúpime do auta a zaviažeme si oči. Auto nás odvezie na neznáme miesto a tam vystúpime. Až keď sa zvuk auta stratí v diaľke, môžeme sa vydať na cestu naspäť. Budeme využívať orientáciu podľa hviezd a značiek. Počas celej cesty sa budeme vyhýbať stretnutiam s ľuďmi (autá a vozidlá sa nerátajú). Našou úlohou je dostať sa do tábora pred východom slnka.",
+            "id": "CHA122-LEV1-TAS3"
+          },
+          {
+            "description": "Pri výbere účastníkov je dôležité posúdiť ich fyzickú a psychickú pripravenosť. Vzdialenosť od tábora treba citlivo zvoliť, od desať do dvadsať kilometrov. Rovnako treba dobre vybrať aj čas konania skúšky, vyhýbajte sa piatkovým a víkendovým večerom, keď je v dedinách väčší ruch. Veľmi pozorne účastníkom vysvetlite pokyny a pravidlá bezpečnosti, skontrolujte výbavu aj baterku v mobile a baterku na svietenie. V prípade, že účastníci pôjdu po cestách s premávkou, je nutné, aby boli vybavení reflexnými prvkami a stále svietili baterkou.",
+            "id": "CHA122-LEV1-TAS4"
+          }
+        ],
+        "id": "CHA122-LEV1"
+      }
+    ],
+    "id": "CHA122"
+  },
+  {
+    "name": "Intertriatlon",
+    "age": "rangers",
+    "levels": [
+      {
+        "name": "",
+        "image": "intertriatlon.png",
+        "tasks": [],
+        "id": "CHA123-LEV1"
+      }
+    ],
+    "id": "CHA123"
+  },
+  {
+    "name": "Klub 500",
+    "age": "rangers",
+    "levels": [
+      {
+        "name": "",
+        "image": "klub_500.png",
+        "tasks": [
+          {
+            "description": "Prispejem na fungovanie skautingu v priebehu jedného roka prostriedkami v hodnote minimálne500 €.",
+            "id": "CHA124-LEV1-TAS1"
+          },
+          {
+            "description": "Na splnenie výzvy je potrebné využiť aspoň 2 rôzne formy z nasledujúcich:",
+            "id": "CHA124-LEV1-TAS2"
+          },
+          {
+            "description": "Cena práce dobrovoľníckej činnosti, zapožičanie a opotrebovanie materiálu sa do cieľovej sumy nezapočítava.",
+            "id": "CHA124-LEV1-TAS3"
+          },
+          {
+            "description": "Získanými peniazmi podporím skautský oddiel, zbor, oblasť alebo národnú úroveň. Je možné podporiť nižšou sumou aj viacero organizačných jednotiek, dokopy ale príspevky musia mať hodnotu aspoň 500 €.",
+            "id": "CHA124-LEV1-TAS4"
+          }
+        ],
+        "id": "CHA124-LEV1"
+      }
+    ],
+    "id": "CHA124"
+  },
+  {
+    "name": "Knižnica",
+    "age": "rangers",
+    "levels": [
+      {
+        "name": "",
+        "image": "kniznica.png",
+        "tasks": [
+          {
+            "description": "Prečítam všetkých dvadsať kníh z hlavného regálu a desať z bočného regálu. Knihy, ktoré je potrebné prečítať, sú rozdelené do dvoch regálov – hlavného a bočného. K jednej knihe je možné priradiť len jednu špecifikáciu, čiže je potrebné na splnenie výzvy prečítať minimálne 30 kníh. Do výzvy sa nezapočítavajú knihy, ktoré boli prečítané pred začatím plnenia výzvy. Výzvu je možné plniť neobmedzene dlhý čas.",
+            "id": "CHA125-LEV1-TAS1"
+          }
+        ],
+        "id": "CHA125-LEV1"
+      }
+    ],
+    "id": "CHA125"
+  },
+  {
+    "name": "Krotiteľ displejov",
+    "age": "rangers",
+    "levels": [
+      {
+        "name": "",
+        "image": "krotitel_displejov.png",
+        "tasks": [
+          {
+            "description": "Obmedzím sledovanie displejov na toľko týždňov, koľko mám rokov. Počas tohto obdobia budem každý týždeň pred displejmi maximálne toľko hodín, koľko mám rokov.",
+            "id": "CHA126-LEV1-TAS1"
+          },
+          {
+            "description": "Túto výzvu nie je možné plniť počas letného tábora.",
+            "id": "CHA126-LEV1-TAS2"
+          },
+          {
+            "description": "Konkrétny príklad:Ak mám práve 16 rokov, môžem splniť výzvu Krotiteľ displejov tak, že 16 týždňov obmedzím čas strávený pred obrazovkami na maximálne 16 hodín týždenne.",
+            "id": "CHA126-LEV1-TAS3"
+          },
+          {
+            "description": "Ráta sa medzi čas strávený pri displejoch…?",
+            "id": "CHA126-LEV1-TAS4"
+          },
+          {
+            "description": "Mnoho smartfónov má funkciu digitálnej rovnováhy, vďaka ktorej môžeš priradiť maximálny čas používania jednotlivým aplikáciám, resp. aj celému telefónu.",
+            "id": "CHA126-LEV1-TAS5"
+          }
+        ],
+        "id": "CHA126-LEV1"
+      }
+    ],
+    "id": "CHA126"
+  },
+  {
+    "name": "Krotiteľ cukru",
+    "age": "rangers",
+    "levels": [
+      {
+        "name": "",
+        "image": "krotitel_cukru.png",
+        "tasks": [
+          {
+            "description": "6 mesiacov nebudem jesť cukor ani nič, čo obsahuje cukor, glukózu, či glukózový sirup (vrátane koláčov, sladkých tyčiniek, sladených malinoviek, sladených jogurtov, sladeného müsli…).",
+            "id": "CHA127-LEV1-TAS1"
+          },
+          {
+            "description": "Výnimky:",
+            "id": "CHA127-LEV1-TAS2"
+          },
+          {
+            "description": "V dnešnom svete je veľmi jednoduché stravovať sa nezdravo – jedlá plné tukov a cukrov bez skutočnej nutričnej hodnoty sú dostupné a lacné, avšak zdravotné problémy s nimi spojené zas časté a nebezpečné. Odoprieť si cukor a výrobky, ktoré ho obsahujú vo vysokom množstve, teda neposilňuje len pevnú vôľu ale chráni telo od komplikácií.",
+            "id": "CHA127-LEV1-TAS3"
+          }
+        ],
+        "id": "CHA127-LEV1"
+      }
+    ],
+    "id": "CHA127"
+  },
+  {
+    "name": "Vlčí dych a gazelie nohy",
+    "age": "rangers",
+    "levels": [
+      {
+        "name": "",
+        "image": "vlci_dych_a_gazelie_nohy.png",
+        "tasks": [
+          {
+            "description": "Počas 90 dní si aspoň 45-krát pôjdem zabehať von (nie v hale a ani na bežeckom páse). Môžem behať aj v meste, ale najlepšie to je v lesoch a kopcoch. Beh musí trvať minimálne 30 minút bez prestávok v bežeckom tempe, ktoré mi vyhovuje. Nezáleží na vzdialenosti, ktorú prebehnem. Nemal by som sa však prechádzať. Za jeden deň sa ráta maximálne jeden beh. Beh nenahradzuje turistika ani iné športy.",
+            "id": "CHA128-LEV1-TAS1"
+          },
+          {
+            "description": "Pred začatím si prečítaj staťHra na vlčí dych a gazelie nohyz knihy od Miloslava NevrléhoKarpatské hry. V behu tak nájdeš možno viac ako len posilnenie tela.",
+            "id": "CHA128-LEV1-TAS2"
+          },
+          {
+            "description": "Běhej proto po lesích jako vlk, skákej jako gazela po planinách. Usmíváš se, lenivý veletlustý bratříčku, příliš shovívavě na to, že nevíš čemu. Nic o bězích nevíš! Lesní běh ti zase postaví duši na nohy. A tělo? Na zlaté nožičky! Nejtěžší je začít. Nebát se únavy, výsměchu. Jen houšť a větší kapky – nejkrásnější zásada. Půl hodiny denně, stejně bys ji doma mátožně prolelkoval, provzdychal. Ráno nebo večer, v zimě či v létě, za slunce i deště. Běh je králem dne, často tím jediným pořádným, co za celý den uděláš.",
+            "id": "CHA128-LEV1-TAS3"
+          },
+          {
+            "description": "Tabuľka na stiahnutie a tlač:",
+            "id": "CHA128-LEV1-TAS4"
+          }
+        ],
+        "id": "CHA128-LEV1"
+      }
+    ],
+    "id": "CHA128"
+  },
+  {
+    "name": "Zelený život",
+    "age": "rangers",
+    "levels": [
+      {
+        "name": "",
+        "image": "zeleny_zivot.png",
+        "tasks": [
+          {
+            "description": "45 dní sa budem snaž žiť čo najlepšie podľa siedmich pravidiel Zeleného života. Za tento čas nebudem mať viac ako 45 bielych políčok.",
+            "id": "CHA129-LEV1-TAS1"
+          },
+          {
+            "description": "Každý deň sa budem snažiť splniť všetkých sedem predsavzatí. Pripravím si alebo sistiahnemtabuľku na celý mesiac a každý deň večer si vyfarbím zelenou farbou políčka, ktoré som za tento deň splnil. Budem sa snažiť stále zlepšovať, aby som mal čím viac políčok v tabuľke zelených. Ak splním podmienky výzvy, prijmem predsavzatie – každú stredu budem opäť plniť Zelený život, aby som sa udržal v „zelenej“ kondícii i naďalej.",
+            "id": "CHA129-LEV1-TAS2"
+          },
+          {
+            "description": "Výzva vedie k vytvoreniu návyku k udržateľnému životu. Pomáha plniteľom uvedomiť si, že aj malá drobnosť vie pomôcť udržateľnejšiemu svetu – “konaj lokálne, mysli globálne”. Plnitelia sú vzorom v udržateľnom prístupe v živote.",
+            "id": "CHA129-LEV1-TAS3"
+          }
+        ],
+        "id": "CHA129-LEV1"
+      }
+    ],
+    "id": "CHA129"
+  },
+  {
+    "name": "Kvapka krvi",
+    "age": "rovers",
+    "levels": [
+      {
+        "name": "",
+        "image": "kvapka_krvi.png",
+        "tasks": [
+          {
+            "description": "V priebehu roka a pol darujem krv:",
+            "id": "CHA130-LEV1-TAS1"
+          },
+          {
+            "description": "Na udržanie si výzvy darujem krv minimálne raz ročne v každom nasledujúcom roku. Ak z objektívnych dôvodov (dlhodobá choroba, tehotenstvo…) nemôžem takto výzvu v daný rok obnoviť, nemusím si nášivku odšívať.",
+            "id": "CHA130-LEV1-TAS2"
+          },
+          {
+            "description": "Výzvu Kvapka krvi môžem nosiť trvalo v prípade, že mám nárok na bronzovú Jánskeho plaketu (10 odberov).",
+            "id": "CHA130-LEV1-TAS3"
+          },
+          {
+            "description": "Kvapka krvi je výzva, ktorá slúži hlavne na poukázanie hesla roverov„Služim!“. Toto je konkrétne služba blížnym a služba vlasti. Pre rovera by nemala byť motivácia získania tejto výzvy nášivka. Darcovstvo krvi by malo byť preňho samozrejmou záležitosťou, ak mu to zdravotný stav dovoľuje. Avšak jej získaním, našitím na rovnošatu a nosením bude hlavne poukazovať na dôležitosť darcovstva krvi.",
+            "id": "CHA130-LEV1-TAS4"
+          }
+        ],
+        "id": "CHA130-LEV1"
+      }
+    ],
+    "id": "CHA130"
+  },
+  {
+    "name": "Malý Ironman",
+    "age": "rovers",
+    "levels": [
+      {
+        "name": "",
+        "image": "maly_ironman.png",
+        "tasks": [
+          {
+            "description": "V priebehu 10 dní:",
+            "id": "CHA131-LEV1-TAS1"
+          },
+          {
+            "description": "Jednotlivé aktivity splním bez prestávky, vcelku. Poradie, v akom aktivity splním, môžem zmeniť. V prípade technických problémov alebo podobných situácií je krátke prerušenie v poriadku. Plávanie je možné vykonať na plavárni alebo v prírode. Bicykel a beh nie je možné nahradiť stacionárnym bicyklom a bežeckým pásom.",
+            "id": "CHA131-LEV1-TAS2"
+          }
+        ],
+        "id": "CHA131-LEV1"
+      }
+    ],
+    "id": "CHA131"
+  },
+  {
+    "name": "Manemus",
+    "age": "rovers",
+    "levels": [
+      {
+        "name": "",
+        "image": "manemus.png",
+        "tasks": [
+          {
+            "description": "V priebehu jedného roka strávim 75 hodín pobytom v prírode pri splnení nasledovných podmienok:",
+            "id": "CHA132-LEV1-TAS1"
+          },
+          {
+            "description": "Výzva ťahá do lesov, do prírody, za pokojom. Ponúka chvíľu na zamyslenie, zhodnotenie života, hľadanie správnej cesty. Cieľom teda nie je čítať si či fotografovať okolie popri pobyte v prírode. Cieľom je vnímať prítomný okamih a užívať si okolitú prírodu.",
+            "id": "CHA132-LEV1-TAS2"
+          }
+        ],
+        "id": "CHA132-LEV1"
+      }
+    ],
+    "id": "CHA132"
+  },
+  {
+    "name": "Zlatý život",
+    "age": "rovers",
+    "levels": [
+      {
+        "name": "",
+        "image": "zlaty_zivot.png",
+        "tasks": [
+          {
+            "description": "60 dní sa budem snažiť žiť čo najlepšie podľa siedmich pravidiel Zlatého života. Za tento čas nebudem mať viac ako 60 bielych políčok.",
+            "id": "CHA133-LEV1-TAS1"
+          },
+          {
+            "description": "Každý deň sa budem snažiť splniť všetkých sedem predsavzatí. Pripravím si alebosi stiahnemtabuľku na celý mesiac a každý deň večer si vyfarbím zlatou (žltou) farbou políčka, ktoré som za tento deň splnil. Budem sa snažiť stále zlepšovať, aby som mal čím viac políčok v tabuľke zlatých. Ak splním podmienky výzvy, prijmem predsavzatie – každý štvrtok budem opäť plniť Zlatý život, aby som sa udržal v „zlatej kondícii“ i naďalej.",
+            "id": "CHA133-LEV1-TAS2"
+          },
+          {
+            "description": "Využiť tu môžem aj mobilné aplikácie.",
+            "id": "CHA133-LEV1-TAS3"
+          }
+        ],
+        "id": "CHA133-LEV1"
+      }
+    ],
+    "id": "CHA133"
+  }
+]

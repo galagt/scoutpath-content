@@ -1,0 +1,3838 @@
+[
+  {
+    "name": "Prvý skaut",
+    "parts": [
+      {
+        "name": "Charakter",
+        "color": {
+          "red": 80,
+          "green": 162,
+          "blue": 217
+        },
+        "chapters": [
+          {
+            "name": "Tímový duch",
+            "tasks": [
+              {
+                "name": "Funkcie v tíme",
+                "description": "S družinou si rozdelíme funkcie. Dohodneme sa, kto má aké povinnosti a prečo je pre družinu dôležitý – po mesiaci skontrolujeme plnenie týchto funkcií a oceníme dobrú prácu.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART1-CHAP1-TASK1"
+              },
+              {
+                "name": "Identita",
+                "description": "S družinou vymyslím a vyrobím družinové insígnie a symboly, ak ich družina ešte nemá.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART1-CHAP1-TASK2"
+              }
+            ],
+            "id": "PATH1-PART1-CHAP1"
+          },
+          {
+            "name": "Zodpovednosť a vytrvalosť",
+            "tasks": [
+              {
+                "name": "Tik-tak",
+                "description": "Najbližšie dva mesiace bez vážneho dôvodu nemeškám na družinovku.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "id": "PATH1-PART1-CHAP2-TASK1"
+              }
+            ],
+            "id": "PATH1-PART1-CHAP2"
+          },
+          {
+            "name": "Ľudia vo svete",
+            "tasks": [
+              {
+                "name": "Spoza hraníc",
+                "description": "Nájdem fotky skautov zo zahraničnej krajiny a predstavím družine, v čom sa od nás líšia – rovnošata, nášivky, pozdrav...",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART1-CHAP3-TASK1"
+              }
+            ],
+            "id": "PATH1-PART1-CHAP3"
+          },
+          {
+            "name": "Môj názor",
+            "tasks": [
+              {
+                "name": "Myšlienky",
+                "description": "S družinou spravím prieskum názorov na jednu tému (napr. Sú sociálne siete pomocníkmi alebo požieračmi času? Sú dva týždne tábora dosť? Je neskautské dať spolužiakovi opísať domácu úlohu?…) O výsledkoch prieskumu sa porozprávam s družinou a snažím sa pochopiť tie názory, ktoré sú iné ako moje.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "id": "PATH1-PART1-CHAP4-TASK1"
+              },
+              {
+                "name": "Článok",
+                "description": "Z vybraného článku v skautských časopisoch dokážem nájsť a vypísať najdôležitejšie myšlienky. Moje poznámky si porovnám s družinou.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART1-CHAP4-TASK2"
+              }
+            ],
+            "id": "PATH1-PART1-CHAP4"
+          },
+          {
+            "name": "Patrón skautov",
+            "tasks": [
+              {
+                "name": "Film Juraj",
+                "description": "Spoločne s družinou kreatívne spracujem novodobé stvárnenie legendy o svätom Jurajovi. Náš výtvor (film, komiks, obraz...) odprezentujeme.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART1-CHAP5-TASK1"
+              }
+            ],
+            "id": "PATH1-PART1-CHAP5"
+          },
+          {
+            "name": "Čas stíšenia",
+            "tasks": [
+              {
+                "name": "Čas vďačnosti",
+                "description": "Dva týždne si každý večer polhodinu pred spaním vytvorím pokojnú atmosféru. Vypnem mobil a počítač a tento čas venujem rodine, čítaniu dobrej knihy alebo krátkej dumke o uplynulom dni – aké pekné veci som zažil a som za ne vďačný a čo očakávam od ďalšieho dňa.",
+                "validators": [
+                  "me"
+                ],
+                "id": "PATH1-PART1-CHAP6-TASK1"
+              }
+            ],
+            "id": "PATH1-PART1-CHAP6"
+          },
+          {
+            "name": "Som šťastný?",
+            "tasks": [
+              {
+                "name": "Nástenka radosti",
+                "description": "Vytvorím spolu s družinou v klubovni nástenku radosti alebo iný výtvor, zobrazujúci šťastie v mojom živote.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART1-CHAP7-TASK1"
+              }
+            ],
+            "id": "PATH1-PART1-CHAP7"
+          },
+          {
+            "name": "Priateľstvo",
+            "tasks": [
+              {
+                "name": "Rovnaký rozdiel",
+                "description": "Nájdem si s desiatimi členmi oddielu aspoň dve spoločné veci – veľkosť topánky, meno súrodenca, obľúbené jedlo, počet absolvovaných táborov...",
+                "validators": [
+                  "me"
+                ],
+                "id": "PATH1-PART1-CHAP8-TASK1"
+              },
+              {
+                "name": "Malé prekvapenie",
+                "description": "Pripravím pre družinu malé prekvapenie, ktorým sa im zaujímavou formou poďakujem za všetko, čo sme spolu zažili (zarámovaná družinová fotka, torta, list pre každého člena...).",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "id": "PATH1-PART1-CHAP8-TASK2"
+              }
+            ],
+            "challenge": {
+              "name": "výzva Modrý život"
+            },
+            "id": "PATH1-PART1-CHAP8"
+          }
+        ],
+        "id": "PATH1-PART1"
+      },
+      {
+        "name": "Služba",
+        "color": {
+          "red": 220,
+          "green": 68,
+          "blue": 101
+        },
+        "chapters": [
+          {
+            "name": "Zvyky našich predkov",
+            "tasks": [
+              {
+                "name": "Legenda, báj a povesť",
+                "description": "Nájdem jednu slovenskú legendu, báj alebo povesť, ktorá ma zaujala. V družine máme vytvorenú zbierku našich obľúbených legiend, bájí a povestí.",
+                "validators": [
+                  "me"
+                ],
+                "id": "PATH1-PART2-CHAP1-TASK1"
+              }
+            ],
+            "id": "PATH1-PART2-CHAP1"
+          },
+          {
+            "name": "Moja rodina",
+            "tasks": [
+              {
+                "name": "Rodinná fotogaléria",
+                "description": "Vyfotografujem sa s členmi svojej rodiny alebo nájdem fotky jednotlivých členov rodiny. Fotografie si dám vytlačiť a vytvorím si rodinný album.",
+                "validators": [
+                  "parent",
+                  "me"
+                ],
+                "id": "PATH1-PART2-CHAP2-TASK1"
+              }
+            ],
+            "id": "PATH1-PART2-CHAP2"
+          },
+          {
+            "name": "Dobré skutky denne",
+            "tasks": [
+              {
+                "name": "Uzol",
+                "description": "Rozumiem symbolike uzla dobrého skutku a viem ho uviazať. Pamätám na Príkaz dňa vo svojom bežnom živote.",
+                "validators": [
+                  "me"
+                ],
+                "id": "PATH1-PART2-CHAP3-TASK1"
+              }
+            ],
+            "id": "PATH1-PART2-CHAP3"
+          },
+          {
+            "name": "Štátne symboly",
+            "tasks": [
+              {
+                "name": "Vlajková čata",
+                "description": "Aspoň raz som na tábore členom vlajkovej čaty, ak to zvyk oddielu dovoľuje. Vlajku dokážem správne niesť, vztýčiť, sňať zo stožiara a poskladať. Viem, aká úcta sa má vlajke preukazovať.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "id": "PATH1-PART2-CHAP4-TASK1"
+              },
+              {
+                "name": "Nástup",
+                "description": "Počas všetkých nástupov na tábore sa správam príkladne – mám oblečenú rovnošatu, stojím v pozore, spievam hymny a poslúcham povely radcu a vodcu. Vodca tábora mi potvrdí moje správanie.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART2-CHAP4-TASK2"
+              }
+            ],
+            "id": "PATH1-PART2-CHAP4"
+          },
+          {
+            "name": "Myslím eko-logicky",
+            "tasks": [
+              {
+                "name": "Ochranca prírody",
+                "description": "Splním aspoň jeden ľubovoľný bod z odborky Ochranca prírody.",
+                "validators": [
+                  "me"
+                ],
+                "id": "PATH1-PART2-CHAP5-TASK1"
+              }
+            ],
+            "id": "PATH1-PART2-CHAP5"
+          },
+          {
+            "name": "Základy slušnosti",
+            "tasks": [
+              {
+                "name": "Dámy/Gentlemani",
+                "description": "Pri predstavení sa a stretnutí sa vždy pozdravím a usmejem. Pri stretnutí so skautom mu hneď podám ľavú ruku.",
+                "validators": [
+                  "me",
+                  "parent"
+                ],
+                "id": "PATH1-PART2-CHAP6-TASK1"
+              }
+            ],
+            "id": "PATH1-PART2-CHAP6"
+          },
+          {
+            "name": "V meste",
+            "tasks": [
+              {
+                "name": "Cestná premávka",
+                "description": "Poznám základné pravidlá cestnej premávky a  úspešne zvládnem kvíz alebo úlohu, ktorú mi pripraví radca.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART2-CHAP7-TASK1"
+              },
+              {
+                "name": "Mapka mesta",
+                "description": "Spoločne s družinou zaznačím do pripravenej mapy našej obce jej významné a orientačné body.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "id": "PATH1-PART2-CHAP7-TASK2"
+              }
+            ],
+            "challenge": {
+              "name": "výzva Uzol dobrého skutku"
+            },
+            "id": "PATH1-PART2-CHAP7"
+          }
+        ],
+        "id": "PATH1-PART2"
+      },
+      {
+        "name": "Zdravie a sila",
+        "color": {
+          "red": 242,
+          "green": 210,
+          "blue": 92
+        },
+        "chapters": [
+          {
+            "name": "Ideálny deň",
+            "tasks": [
+              {
+                "name": "14 zdravých dní",
+                "description": "Dva týždne plním Modrý život a snažím sa dodržiavať 4 základné piliere zdravého životného štýlu. Dohodnem si s rodičmi čas plnenia (od – do) a vediem si o plnení záznam.",
+                "validators": [
+                  "parent"
+                ],
+                "id": "PATH1-PART3-CHAP1-TASK1"
+              }
+            ],
+            "id": "PATH1-PART3-CHAP1"
+          },
+          {
+            "name": "Čistota - pol života",
+            "tasks": [
+              {
+                "name": "Čistá izba",
+                "description": "Počas 1 mesiaca si vo svojej izbe udržujem vzorný poriadok. Rodič mi potvrdí splnenie úlohy.",
+                "validators": [
+                  "parent"
+                ],
+                "id": "PATH1-PART3-CHAP2-TASK1"
+              },
+              {
+                "name": "Rovnošata",
+                "description": "Rovnošatu si udržujem čistú a mám ju uloženú na čestnom mieste. Nosím ju podľa rovnošatového predpisu.",
+                "validators": [
+                  "me"
+                ],
+                "id": "PATH1-PART3-CHAP2-TASK2"
+              }
+            ],
+            "id": "PATH1-PART3-CHAP2"
+          },
+          {
+            "name": "V zdravom tele zdravý duch",
+            "tasks": [
+              {
+                "name": "V zdravom tele",
+                "description": "Aspoň 1 mesiac sa 2-krát týždenne venujem vybranému pohybovému športu alebo aktivite, ktorá ma baví (plávanie, beh, korčuľovanie, bicykel...).",
+                "validators": [
+                  "me"
+                ],
+                "id": "PATH1-PART3-CHAP3-TASK1"
+              },
+              {
+                "name": "Zdravý duch",
+                "description": "Zahrám si spolu s družinou aspoň dve športové hry a minimálne jedna z nich je pre mňa nová (ringo, slackline, frisbee...). Hráme celý čas podľa pravidiel fair-play a skautského zákona.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART3-CHAP3-TASK2"
+              }
+            ],
+            "id": "PATH1-PART3-CHAP3"
+          },
+          {
+            "name": "Ľudské telo a ja",
+            "tasks": [
+              {
+                "name": "Ľudské telo",
+                "description": "Z rôznych mechanických pomôcok alebo prírodných materiálov vytvorím spolu s družinou model ľudského tela a orgánov. Poznám funkciu jednotlivých orgánov v tele.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART3-CHAP4-TASK1"
+              }
+            ],
+            "id": "PATH1-PART3-CHAP4"
+          },
+          {
+            "name": "Pohyb v prírode",
+            "tasks": [
+              {
+                "name": "Top 10",
+                "description": "Zúčastním sa na dvoch celodenných výpravách alebo jednej viacdňovej výpravy s prespaním v prírode s plnou výbavou TOP 10 a na všetky ostatné výpravy túto výbavu nosím.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART3-CHAP5-TASK1"
+              }
+            ],
+            "challenge": {
+              "name": "výzva Tri vrcholy"
+            },
+            "id": "PATH1-PART3-CHAP5"
+          }
+        ],
+        "id": "PATH1-PART3"
+      },
+      {
+        "name": "Schopnosti a zručnosti",
+        "color": {
+          "red": 138,
+          "green": 191,
+          "blue": 85
+        },
+        "chapters": [
+          {
+            "name": "Kreativita",
+            "tasks": [
+              {
+                "name": "Vynovenie klubovne",
+                "description": "Vytvorím zo starého (napr. vešiaku) alebo iného predmetu niečo užitočné do našej klubovne alebo domu (kalendár, krabičku na čaje, vešiak, kartotéku hier, zborovú poštu a podobne...).",
+                "validators": [
+                  "leader",
+                  "parent"
+                ],
+                "id": "PATH1-PART4-CHAP1-TASK1"
+              }
+            ],
+            "id": "PATH1-PART4-CHAP1"
+          },
+          {
+            "name": "Objavovanie",
+            "tasks": [
+              {
+                "name": "Obľúbená odborka",
+                "description": "Nájdem si tri odborky, ktoré ma zaujímajú a chcel by som ich splniť. Jednu z nich si vyberiem a vytvorím plán jej splnenia. Na dokončenie tejto úlohy nie je potrebné získať danú odborku.",
+                "validators": [
+                  "leader",
+                  "parent"
+                ],
+                "id": "PATH1-PART4-CHAP2-TASK1"
+              }
+            ],
+            "id": "PATH1-PART4-CHAP2"
+          },
+          {
+            "name": "Pamäť",
+            "tasks": [
+              {
+                "name": "Kimova hra",
+                "description": "V aspoň dvoch Kimových hrách úspešne vymenujem stanovený počet vecí.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "id": "PATH1-PART4-CHAP3-TASK1"
+              }
+            ],
+            "id": "PATH1-PART4-CHAP3"
+          },
+          {
+            "name": "Mapa a kompas",
+            "tasks": [
+              {
+                "name": "Mapa",
+                "description": "Poznám význam vrstevníc na mape a význam jednotlivých značiek v legende mapy. Poznatky dokážem tak, že zakreslím mapu vybraného miesta (okolie tábora, obľúbené miesto...) aj s legendou.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "id": "PATH1-PART4-CHAP4-TASK1"
+              },
+              {
+                "name": "Družinový výlet",
+                "description": "S jedným alebo dvoma členmi mojej družiny a za pomoci radcu naplánujem trasu družinovej výpravy, ktorú aj povediem. Družine ukážem zaujímavé miesta a vyhliadky.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART4-CHAP4-TASK2"
+              }
+            ],
+            "id": "PATH1-PART4-CHAP4"
+          },
+          {
+            "name": "Práca s nožom",
+            "tasks": [
+              {
+                "name": "Majster noža",
+                "description": "Radcovi alebo rodičovi vysvetlím základné typy nožov, ich časti a využitie.",
+                "validators": [
+                  "leader",
+                  "parent"
+                ],
+                "id": "PATH1-PART4-CHAP5-TASK1"
+              },
+              {
+                "name": "Vlastný výrobok",
+                "description": "Pomocou mäkkého dreva a noža vyrobím jednoduchý predmet (kocka, lyžica, srdce...). Radca mi skontroluje správne používanie noža a jeho nabrúsenie.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART4-CHAP5-TASK2"
+              }
+            ],
+            "id": "PATH1-PART4-CHAP5"
+          },
+          {
+            "name": "Stromy",
+            "tasks": [
+              {
+                "name": "Znalec stromov",
+                "description": "V prírode rozpoznám 10 druhov stromov, ktoré mi vyberie radca alebo vodca, podľa celkového vzhľadu, listov, plodov, kôry a iných ukazovateľov. Poznám, na čo sa používajú rôzne druhy dreva.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "id": "PATH1-PART4-CHAP6-TASK1"
+              },
+              {
+                "name": "Sadič",
+                "description": "Zasadím spolu s družinou jeden strom, starám sa oň a pozorujem, ako rastie.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART4-CHAP6-TASK2"
+              }
+            ],
+            "id": "PATH1-PART4-CHAP6"
+          },
+          {
+            "name": "Základy rúbania a pílenia",
+            "tasks": [
+              {
+                "name": "Varúj!",
+                "description": "Ak mi to možnosti dovoľujú, tak sa aktívne s  družinou podieľam na zrúbaní jedného suchého stromu. Strom je vyrúbaný s povolením majiteľa a podľa všetkých zásad.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART4-CHAP7-TASK1"
+              },
+              {
+                "name": "Drevorubač",
+                "description": "Odstránim z kmeňa stromu konáre a v jednom mieste prerúbem kmeň stromu na polovicu. Skúsim si pílenie sám aj vo dvojici.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART4-CHAP7-TASK2"
+              },
+              {
+                "name": "Štiepky",
+                "description": "Rozrúbem klát dreva od hrubších polienok až po malé štiepky na podpal. V\n\n* všetky tieto úlohy vykonávam pod dozorom radcu, staršieho rovera alebo vodcu",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART4-CHAP7-TASK3"
+              }
+            ],
+            "id": "PATH1-PART4-CHAP7"
+          },
+          {
+            "name": "Keď dochádza dych",
+            "tasks": [
+              {
+                "name": "Dýchaj",
+                "description": "Predvediem správne poskytnutý Heimlichov a Gordonov manéver a viem, aké príznaky má dusenie.",
+                "validators": [
+                  "leader"
+                ],
+                "id": "PATH1-PART4-CHAP8-TASK1"
+              }
+            ],
+            "challenge": {
+              "name": "výzva Školský prospech"
+            },
+            "id": "PATH1-PART4-CHAP8"
+          }
+        ],
+        "id": "PATH1-PART4"
+      }
+    ],
+    "id": "PATH1"
+  },
+  {
+    "name": "Neznáme cesty",
+    "parts": [
+      {
+        "name": "Charakter\nCesta ľadu",
+        "color": {
+          "red": 80,
+          "green": 162,
+          "blue": 217
+        },
+        "requiredPoints": 600,
+        "chapters": [
+          {
+            "name": "Priatelia v oddiele",
+            "tasks": [
+              {
+                "name": "Druhá rodina",
+                "description": "Spoločne s kamarátom z družiny pripravím pre oddiel ďakovný list alebo iný predmet, v ktorom vyjadríme, prečo je oddiel moja druhá rodina a ako by som chcel prispieť, aby sa v ňom ostatní cítili dobre a prijatí.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "points": 30,
+                "id": "PATH2-PART1-CHAP1-TASK1"
+              },
+              {
+                "name": "Jediný svojho druhu",
+                "description": "Vytvorím s družinou plagát, kde popíšem všetko, čím je môj oddiel špecifický. Použijem fotografie z akcií, spomienkové predmety, symboly a potom svoj plagát predstavím oddielu.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH2-PART1-CHAP1-TASK2"
+              },
+              {
+                "name": "Gratulant",
+                "description": "Do kalendára si zaznačím narodeniny a meniny všetkých členov oddielu. V ich sviatočný deň im zablahoželám telefónom, esemeskou alebo cez sociálnu sieť.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH2-PART1-CHAP1-TASK3"
+              },
+              {
+                "name": "Spoločný záťah",
+                "description": "Spolu s družinou sa dohodnem s inou družinou svojho oddielu a vydáme sa na spoločnú výpravu alebo kultúrnu udalosť.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH2-PART1-CHAP1-TASK4"
+              }
+            ],
+            "id": "PATH2-PART1-CHAP1"
+          },
+          {
+            "name": "Krajší svet medzi nami",
+            "tasks": [
+              {
+                "name": "Družinové prekvapenie",
+                "description": "S družinou si rozdelím úlohy a spolu s ňou pripravím prekvapenie pre inú družinu svojho zboru alebo oblasti (spoločný výlet s programom, malá párty s koláčom, filmový večer...).",
+                "validators": [
+                  "leader"
+                ],
+                "points": 100,
+                "id": "PATH2-PART1-CHAP2-TASK1"
+              },
+              {
+                "name": "Neznámy priateľ",
+                "description": "Vytvorím drobnosť, ktorá poteší (napr. povzbudzujúci list, origami, handmade sviečku...), a venujem ju mne menej známemu človeku.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH2-PART1-CHAP2-TASK2"
+              },
+              {
+                "name": "Dobré noviny",
+                "description": "Z novín, časopisov alebo internetu vyberiem dva príklady, kedy si ľudia navzájom pomohli alebo sa za niekoho obetovali. Predstavím ich družine a sám poviem, ako chcem zlepšiť svoje vzťahy.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH2-PART1-CHAP2-TASK3"
+              }
+            ],
+            "id": "PATH2-PART1-CHAP2"
+          },
+          {
+            "name": "Čestný život",
+            "tasks": [
+              {
+                "name": "Anketa",
+                "description": "Urobím medzi známymi aj neznámymi ľuďmi anketu na otázku „Čo je to česť a ako ju človek získa?“. Oslovím pritom aspoň 8 osôb. Najzaujímavejšie výsledky porovnám s výsledkami ostatných členov družiny.",
+                "validators": [
+                  "leader"
+                ],
+                "points": 50,
+                "id": "PATH2-PART1-CHAP3-TASK1"
+              },
+              {
+                "name": "Moje vzory",
+                "description": "Do svojho zápisníka si napíšem tri osoby, ktoré sú mi vzorom a prečo. Pridám aj ich fotografie a stručne opíšem ich život.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 20,
+                "id": "PATH2-PART1-CHAP3-TASK2"
+              },
+              {
+                "name": "Dobrá kniha",
+                "description": "Dospelý človek, ktorého rešpektujem (rodič, rover, učiteľ...), mi odporučí životopisnú knihu o inšpiratívnom človeku, ktorú prečítam.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH2-PART1-CHAP3-TASK3"
+              },
+              {
+                "name": "Stretnutie",
+                "description": "Spolu s družinou sa stretnem s človekom, ktorý niečo užitočné alebo správne dokázal. Pripravím si rôzne otázky a zistím tiež, ako sa mu jeho úspech podarilo splniť.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH2-PART1-CHAP3-TASK4"
+              }
+            ],
+            "id": "PATH2-PART1-CHAP3"
+          },
+          {
+            "name": "Moje emócie",
+            "tasks": [
+              {
+                "name": "(Seba)pozorovateľ",
+                "description": "V priebehu dvoch týždňov si zapisujem, akú mám náladu ja a jeden môj spolužiak, kamarát alebo rodič, ktorého denne stretávam, a ako sa prejavovala. Pozorujem, ako sa naše nálady vzájomne ovplyvňujú a snažím sa byť oporou.",
+                "validators": [
+                  "me"
+                ],
+                "points": 70,
+                "id": "PATH2-PART1-CHAP4-TASK1"
+              },
+              {
+                "name": "Zbierka pocitov",
+                "description": "Vytvorím si zápisník alebo galériu na internete, kde k aspoň 6 emóciám nájdem obrázky z časopisov a internetu vyjadrujúce danú emóciu. Pri každej emócii pridám aj 2 spomienky z vlastného života, kedy som ju pocítil.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH2-PART1-CHAP4-TASK2"
+              },
+              {
+                "name": "Emotívne dielo",
+                "description": "Vytvorím umelecké dielo (maľbu, kresbu, skladbu, pieseň, báseň...), ktoré vyjadruje nejakú emóciu. Predstavím ho družine.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH2-PART1-CHAP4-TASK3"
+              },
+              {
+                "name": "Zdieľanie",
+                "description": "Podelím sa s prežívaním silnej emócie (šťastie, hnev, smútok...) s blízkou osobou.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH2-PART1-CHAP4-TASK4"
+              },
+              {
+                "name": "Pantomíma",
+                "description": "S družinou si zahrám pantomimickú hru. Predvediem v nej niekoľko emócií, ktoré mi radca vyberie.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 10,
+                "id": "PATH2-PART1-CHAP4-TASK5"
+              }
+            ],
+            "id": "PATH2-PART1-CHAP4"
+          },
+          {
+            "name": "Kritické myslenie",
+            "tasks": [
+              {
+                "name": "Čo je správne?",
+                "description": "S družinou som prečítal príbeh o Petrovi a Samovi a spolu sme viedli diskusiu, v ktorej sme riešili otázky pod príbehom.",
+                "validators": [
+                  "leader"
+                ],
+                "points": 40,
+                "id": "PATH2-PART1-CHAP5-TASK1"
+              },
+              {
+                "name": "Zdravý rozum",
+                "description": "Nájdem 2 prípady v družine alebo oddiele, kedy sa stala nejaká nehoda alebo niečo nefungovalo. Zistím, či pri týchto udalostiach chýbalo kritické myslenie.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH2-PART1-CHAP5-TASK2"
+              },
+              {
+                "name": "Názory",
+                "description": "Na vybranú tému som v médiách alebo knihách našiel aspoň dva rôzne názory a argumenty. Spíšem ich, predstavím družine a poviem, aký názor mám na túto tému ja.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH2-PART1-CHAP5-TASK3"
+              },
+              {
+                "name": "Argumentačná sútaž",
+                "description": "V družine sme zorganizovali argumentačnú súťaž, kde dvaja oponenti obhajujú svoj názor na vybranú tému.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH2-PART1-CHAP5-TASK4"
+              }
+            ],
+            "id": "PATH2-PART1-CHAP5"
+          },
+          {
+            "name": "Ovládam svoje pocity",
+            "tasks": [
+              {
+                "name": "Zoznam",
+                "description": "Spíšem si zoznam aspoň piatich vecí, ktoré ma rozčuľujú. Pod zoznam si tiež napíšem tri spôsoby, ako sa pri hneve ovládnem.",
+                "validators": [
+                  "me"
+                ],
+                "points": 30,
+                "id": "PATH2-PART1-CHAP6-TASK1"
+              },
+              {
+                "name": "Môj plot",
+                "description": "Inšpirujem sa príbehom z kapitoly a vytvorím si vlastný „plot“ (drevená doska), kde zatlčiem klinec, keď som svoje emócie neovládol. Pri ovládnutí sa jeden klinec vytiahnem. „Plot“ budem používať jeden mesiac.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 100,
+                "id": "PATH2-PART1-CHAP6-TASK2"
+              },
+              {
+                "name": "Pocity a príčiny",
+                "description": "Počas dvoch týždňov si každý večer si zapíšem pocity, ktoré som v daný deň pocítil a porozmýšľam nad príčinami, ktoré k tomu viedli.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH2-PART1-CHAP6-TASK3"
+              },
+              {
+                "name": "Emotívne video",
+                "description": "Nájdem a pozriem si video na internete, v ktorom človek nezvládol ovládnuť svoje emócie. Ukázal som ho aspoň dvom ďalším ľuďom.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 10,
+                "id": "PATH2-PART1-CHAP6-TASK4"
+              }
+            ],
+            "id": "PATH2-PART1-CHAP6"
+          },
+          {
+            "name": "Hľadanie odpovedí",
+            "tasks": [
+              {
+                "name": "Spolupútnik",
+                "description": "Stretnem sa s človekom, ktorý ma zaujal svojim duchovným prežívaním, a porozprávam sa s ním o vlastnom prežívaní. Môže to byť starší ranger alebo rover, oddielový vodca, rodič či miestna duchovná autorita.",
+                "validators": [
+                  "me"
+                ],
+                "points": 70,
+                "id": "PATH2-PART1-CHAP7-TASK1"
+              },
+              {
+                "name": "Pátrač",
+                "description": "Zistím, ktoré náboženstvá a vierovyznania sa vyskytli a vyskytujú v mojej rodine. Pátram po nich aspoň 3 generácie dozadu.",
+                "validators": [
+                  "parent"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH2-PART1-CHAP7-TASK2"
+              },
+              {
+                "name": "Nová tradícia",
+                "description": "Zavediem v rodine alebo družine novú tradíciu spoločného začatia stolovania, ranného zamyslenia alebo večerného ďakovania za deň. Ak už tieto tradície máme, tak ich ozvláštnim. Najprv sa o tom porozprávam s rodičom alebo radcom.",
+                "validators": [
+                  "leader",
+                  "parent"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH2-PART1-CHAP7-TASK3"
+              },
+              {
+                "name": "Vzor pokory",
+                "description": "Nájdem človeka, ktorý bol vzorom pokory. Z jeho života vyberiem dva návyky, ktoré uplatním vo vlastnom živote počas aspoň 2 týždňov. Tento vzor predstavím svojej družine.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH2-PART1-CHAP7-TASK4"
+              },
+              {
+                "name": "Odkaz do budúcnosti",
+                "description": "Napíšem alebo umelecky stvárnim svoje aktuálne duchovné prežívanie a vyznanie, v ktoré verím. Odložím tento odkaz do schránky, pri ktorej si určím aj dátum otvorenia.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH2-PART1-CHAP7-TASK5"
+              },
+              {
+                "name": "Hudba hĺbky",
+                "description": "Vypočujem si aspoň tri piesne rôznych žánrov s hlbokým textom. O jednej z nich sa porozprávam s rodičom.",
+                "validators": [
+                  "me",
+                  "parent"
+                ],
+                "required": false,
+                "points": 20,
+                "id": "PATH2-PART1-CHAP7-TASK6"
+              },
+              {
+                "name": "Ľaliový kríž",
+                "description": "Vyberiem si a splním niektorú úlohu z voľného programového modulu Ľaliový kríž.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH2-PART1-CHAP7-TASK7"
+              }
+            ],
+            "challenge": {
+              "name": "výzva Bielý štít ",
+              "points": null
+            },
+            "id": "PATH2-PART1-CHAP7"
+          }
+        ],
+        "id": "PATH2-PART1"
+      },
+      {
+        "name": "Služba\nCesta lúkou",
+        "color": {
+          "red": 220,
+          "green": 68,
+          "blue": 101
+        },
+        "requiredPoints": 640,
+        "chapters": [
+          {
+            "name": "Obdivuj a rešpektuj",
+            "tasks": [
+              {
+                "name": "Skutok namiesto sľubov",
+                "description": "Po dohode s radcom si nájdem konkrétny spôsob, ako môžem pomôcť životnému prostrediu a mesiac sa ho snažím dodržiavať (separovanie, šetrenie, skrášľovanie...).",
+                "validators": [
+                  "leader"
+                ],
+                "points": 80,
+                "id": "PATH2-PART2-CHAP1-TASK1"
+              },
+              {
+                "name": "Kúpime si strom",
+                "description": "Urobíme v  družine alebo oddiele zbierku a  kúpime si svoj strom napríklad v súkromnej prírodnej rezervácii, kde nikdy nebude vyrúbaný. S družinou sa k nemu potom môžeme vydať aj na výlet.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH2-PART2-CHAP1-TASK2"
+              },
+              {
+                "name": "Rekordman",
+                "description": "Vyskúšam, za aký najkratší čas sa dokážem celý plnohodnotne osprchovať a výsledky porovnám s družinou. Aspoň dva týždne sa vôbec nekúpem a sprchujem sa kratšie ako 4 minúty.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH2-PART2-CHAP1-TASK3"
+              },
+              {
+                "name": "Film s posolstvom",
+                "description": "Pozriem si film, ktorý sa venuje životnému prostrediu (napr. Domov, Avatar, Je s nami koniec?, Wall-E, Nepríjemná pravda...). Družine poviem, v akom smere tému ochrany prírody film rozvíjal.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 20,
+                "id": "PATH2-PART2-CHAP1-TASK4"
+              },
+              {
+                "name": "Potravinové míle",
+                "description": "Pozbieram desať obalov z potravín, ktoré doma konzumujeme. Spočítam, koľko tisíc kilometrov museli precestovať k nám domov. Spoločne s družinou zistím možnosti nakupovať potraviny lokálnejšie – napr. mlieko alebo vajíčka od miestneho gazdu.",
+                "validators": [
+                  "me",
+                  "parent"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH2-PART2-CHAP1-TASK5"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Ochranca prírody.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH2-PART2-CHAP1-TASK6"
+              }
+            ],
+            "id": "PATH2-PART2-CHAP1"
+          },
+          {
+            "name": "Rodinný kruh",
+            "tasks": [
+              {
+                "name": "Spoločný čas",
+                "description": "Prediskutujem s rodičmi, ako by sme mohli spolu aktívne prežiť vybraný čas a náš plán zrealizujeme.",
+                "validators": [
+                  "parent"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH2-PART2-CHAP3-TASK1"
+              },
+              {
+                "name": "Skautom i doma",
+                "description": "Počas dvoch týždňov sa každý deň ponúknem, že pomôžem s nejakou domácou prácou. Rodič mi to potvrdí.",
+                "validators": [
+                  "parent"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH2-PART2-CHAP3-TASK2"
+              },
+              {
+                "name": "Prekvapenie",
+                "description": "Na Deň matiek, Deň otcov alebo iný sviatok s družinou vytvoríme malé prekvapenie pre našich rodičov (predstavenie, list, výtvor...).",
+                "validators": [
+                  "parent",
+                  "leader"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH2-PART2-CHAP3-TASK3"
+              },
+              {
+                "name": "Pekné pravidlá",
+                "description": "S rodičmi som vytvoril pravidlá harmonickej domácnosti pre našu rodinu a kreatívne som ich znázornil.",
+                "validators": [
+                  "parent"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH2-PART2-CHAP3-TASK4"
+              },
+              {
+                "name": "V jednoduchosti je sila",
+                "description": "Umyjem doma riad.",
+                "validators": [
+                  "parent"
+                ],
+                "required": false,
+                "points": 10,
+                "id": "PATH2-PART2-CHAP3-TASK5"
+              }
+            ],
+            "id": "PATH2-PART2-CHAP2"
+          },
+          {
+            "name": "Život s prírodou",
+            "tasks": [
+              {
+                "name": "5 zmyslov",
+                "description": "Nájdem v prírode veci, ktoré potešia každý z mojich piatich zmyslov – zrak, čuch, chuť, hmat i sluch. Ku každému zmyslu nájdem tri veci a každý zo zážitkov si zapíšem do zápisníka.",
+                "validators": [
+                  "me"
+                ],
+                "points": 40,
+                "id": "PATH2-PART2-CHAP4-TASK1"
+              },
+              {
+                "name": "Zamyslenie",
+                "description": "Nájdem si svoje obľúbené miesto v prírode a strávim tam hodinu osamote. Budem sa snažiť vnímať čo najviac, zapíšem si dojmy, pozorovania a zážitky do zápisníka.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH2-PART2-CHAP4-TASK2"
+              },
+              {
+                "name": "Večné príbehy",
+                "description": "Po porade s radcom si prečítam knihu o živote v prírode (Malý strom, Volanie divočiny, Biely tesák, Zálesák Rolf, Chlapci od Bobrej rieky...).",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH2-PART2-CHAP4-TASK3"
+              },
+              {
+                "name": "Moje miesto",
+                "description": "Svoje obľúbené miesto v prírode ľubovoľným spôsobom umelecky zobrazím (namaľujem obraz, odfotím a vhodne upravím fotky, napíšem o ňom báseň alebo pieseň...).",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH2-PART2-CHAP4-TASK4"
+              }
+            ],
+            "id": "PATH2-PART2-CHAP4"
+          },
+          {
+            "name": "Spoznávanie náboženstiev",
+            "tasks": [
+              {
+                "name": "Posvätné miesto",
+                "description": "Navštívim s družinou alebo sám 2 posvätné miesta iných náboženstiev alebo foriem kresťanstva a zotrvám na nich v chvíli ticha a prosby za pokoj, toleranciu a mier.",
+                "validators": [
+                  "me"
+                ],
+                "points": 80,
+                "id": "PATH2-PART2-CHAP5-TASK1"
+              },
+              {
+                "name": "Svetové náboženstvá",
+                "description": "Zistím aspoň 5 zaujímavostí o 2 náboženstvách – ich sviatkoch, osobnostiach, o náboženských symboloch a podobne. Predstavím tieto zaujímavosti svojmu oddielu.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH2-PART2-CHAP5-TASK2"
+              },
+              {
+                "name": "Nový pohľad",
+                "description": "Porozprávam sa sám alebo spoločne s družinou s človekom inej viery o jeho vierovyznaní. Zistím od neho informácie napríklad o slávení sviatkov, typoch bohoslužieb, tradícii, histórii a pod.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH2-PART2-CHAP5-TASK3"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Znalec náboženstiev.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH2-PART2-CHAP5-TASK4"
+              }
+            ],
+            "id": "PATH2-PART2-CHAP5"
+          },
+          {
+            "name": "Na jednej vlne s ostatnými",
+            "tasks": [
+              {
+                "name": "Zlepšenie",
+                "description": "Opýtam sa rodiča, radcu a kamaráta, čo sa im na mojom správaní a komunikácii páči a čo, naopak, nie. Z tejto spätej väzby si vyvodím jedno predsavzatie ako sa zlepšiť a budem sa ho snažiť dodržiavať.",
+                "validators": [
+                  "me"
+                ],
+                "points": 70,
+                "id": "PATH2-PART2-CHAP6-TASK1"
+              },
+              {
+                "name": "Učiteľ",
+                "description": "Naučím mladšieho jednoduchú zručnosť (uzol, tipy pre KPZ, starostlivosť o obuv...).",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH2-PART2-CHAP6-TASK2"
+              },
+              {
+                "name": "Aktívne počúvanie",
+                "description": "Vyberiem si jedného človeka, s ktorým sa často stretávam, a pri troch stretnutiach sa ho budem snažiť aktívne počúvať. To, čo som sa dozvedel, si zapíšem do zápisníka.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH2-PART2-CHAP6-TASK3"
+              },
+              {
+                "name": "Uvádzač programu",
+                "description": "Aspoň 3-krát zrozumiteľne vysvetlím svojej družine alebo oddielu pravidlá nejakej hry.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH2-PART2-CHAP6-TASK4"
+              },
+              {
+                "name": "Slovný boj",
+                "description": "V družine si zahráme hru Slovný boj.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 10,
+                "id": "PATH2-PART2-CHAP6-TASK5"
+              }
+            ],
+            "id": "PATH2-PART2-CHAP6"
+          },
+          {
+            "name": "Pripravený na každý deň",
+            "tasks": [
+              {
+                "name": "Pripravený na všetko",
+                "description": "Vytvorím si svoju každodennú výbavu a snažím sa ju pravidelne nosiť so sebou.",
+                "validators": [
+                  "me"
+                ],
+                "points": 70,
+                "id": "PATH2-PART2-CHAP7-TASK1"
+              },
+              {
+                "name": "Poštový holub",
+                "description": "Kamarátovi alebo niekomu z rodiny napíšem pekný list. Bez pomoci ho prinesiem na poštu, všetko vybavím a pošlem ho.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH2-PART2-CHAP7-TASK2"
+              },
+              {
+                "name": "Lístky pre každého",
+                "description": "Počas družinovej výpravy po dohode s radcom vybavím lístky na vlak alebo autobus pre celú družinu.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 20,
+                "id": "PATH2-PART2-CHAP7-TASK3"
+              }
+            ],
+            "id": "PATH2-PART2-CHAP7"
+          },
+          {
+            "name": "Dedičstvo skautingu",
+            "tasks": [
+              {
+                "name": "Miesto spomienky",
+                "description": "S družinou v prírode, klubovni alebo na inom vhodnom mieste vytvoríme náš skautský pamätník venovaný nejakej skautskej osobnosti alebo udalosti.",
+                "validators": [
+                  "leader"
+                ],
+                "points": 80,
+                "id": "PATH2-PART2-CHAP8-TASK1"
+              },
+              {
+                "name": "Pomníky skautingu",
+                "description": "Nájdem aspoň dve ďalšie miesta skautských pamätníkov z celého sveta a predstavím ich družine.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH2-PART2-CHAP8-TASK2"
+              },
+              {
+                "name": "Poďakovanie za službu",
+                "description": "S družinou nájdem a navštívim hrob nejakého skauta. Vhodným spôsobom (Gilwellským kruhom, večierkou, vlastným ďakovným textom...) mu prejavím úctu a vďaku za jeho službu skautingu.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH2-PART2-CHAP8-TASK3"
+              },
+              {
+                "name": "Môj podpis",
+                "description": "Vytvorím si vlastný jednoduchý symbol, ktorý budem používať ako svoj skautský podpis. Pri vytváraní sa inšpirujem podpismi iných skautov.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH2-PART2-CHAP8-TASK4"
+              },
+              {
+                "name": "Výprava na Ivančenu",
+                "description": "S družinou alebo oddielom navštívim mohylu Ivančena v Českej republike. Vynesiem na ňu vlastný kameň.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 100,
+                "id": "PATH2-PART2-CHAP8-TASK5"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Skautská história.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH2-PART2-CHAP8-TASK6"
+              }
+            ],
+            "challenge": {
+              "name": "výzva 36 hodín služby",
+              "points": null
+            },
+            "id": "PATH2-PART2-CHAP8"
+          }
+        ],
+        "id": "PATH2-PART2"
+      },
+      {
+        "name": "Zdravie a sila\nCesta púšťou",
+        "color": {
+          "red": 242,
+          "green": 210,
+          "blue": 92
+        },
+        "requiredPoints": 440,
+        "chapters": [
+          {
+            "name": "Táborový život",
+            "tasks": [
+              {
+                "name": "Čistota nadovšetko",
+                "description": "Počas celého tábora dodržiavam správne hygienické návyky: umývanie zubov, rúk a celého tela. Postarám sa, aby som mal vždy k dispozícii čisté oblečenie.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "points": 50,
+                "id": "PATH2-PART3-CHAP1-TASK1"
+              },
+              {
+                "name": "Pripravený na dobrodružstvo",
+                "description": "Na letný skautský tábor som sa sám pobalil. Premyslel som si, koľko oblečenia a aké vybavenie potrebujem na bezproblémové prežitie celého tábora.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH2-PART3-CHAP1-TASK2"
+              },
+              {
+                "name": "Skautský stavač",
+                "description": "Zúčastnil som sa stavania aspoň jednej väčšej táborovej stavby (brána, kuchyňa, típí, podsada...).",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH2-PART3-CHAP1-TASK3"
+              },
+              {
+                "name": "Príkladné obydlie",
+                "description": "Počas celého letného tábora som so spolubývajúcim v našom stane udržiaval poriadok. Môj príbytok získal aspoň 5-krát maximálny počet bodov.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH2-PART3-CHAP1-TASK4"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Táborník.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH2-PART3-CHAP1-TASK5"
+              }
+            ],
+            "id": "PATH2-PART3-CHAP1"
+          },
+          {
+            "name": "Športovanie",
+            "tasks": [
+              {
+                "name": "Športovec",
+                "description": "Po dobu jedného mesiaca aspoň raz do týždňa vykonávam nejakú športovú aktivitu, pri ktorej sa zapotím (beh, plávanie, futbal, korčuľovanie...). Telesná výchova v škole sa sem neráta.",
+                "validators": [
+                  "me"
+                ],
+                "points": 100,
+                "id": "PATH2-PART3-CHAP2-TASK1"
+              },
+              {
+                "name": "Športový organizátor",
+                "description": "Pre družinu zorganizujem športovú aktivitu. Sám si nachystám pomôcky, pravidlá a miesto.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH2-PART3-CHAP2-TASK2"
+              },
+              {
+                "name": "Fair playeri",
+                "description": "Na internete alebo v novinách nájdem ešte tri príklady, kedy hráči alebo tímy prejavili svoj charakter dodržaním pravidiel fair play. Predstavím ich družine.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH2-PART3-CHAP2-TASK3"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu zo športových odboriek.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH2-PART3-CHAP2-TASK4"
+              }
+            ],
+            "id": "PATH2-PART3-CHAP2"
+          },
+          {
+            "name": "Na vrchole svojich síl",
+            "tasks": [
+              {
+                "name": "Bez hraníc",
+                "description": "Vytvorím si zoznam svojich silných a slabých telesných schopností. Vyberiem si jednu a stanovím si konkrétny cieľ, ako ju ďalej rozvíjať.",
+                "validators": [
+                  "me"
+                ],
+                "points": 70,
+                "id": "PATH2-PART3-CHAP3-TASK1"
+              },
+              {
+                "name": "Nikdy sa nevzdať",
+                "description": "Na internete alebo v literatúre nájdem inšpiratívny príbeh o človeku, ktorý napriek telesnému postihnutiu dosiahol veľký úspech. Prezentujem ho družine.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 20,
+                "id": "PATH2-PART3-CHAP3-TASK2"
+              },
+              {
+                "name": "Nové disciplíny",
+                "description": "Po dohode s vodcom alebo učiteľom telesnej výchovy si vyberiem aspoň tri ďalšie disciplíny, v ktorých si odmeriam svoj výkon. Napríklad: skok do diaľky, hod guľou, lezenie na lane, beh cez prekážky.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH2-PART3-CHAP3-TASK3"
+              },
+              {
+                "name": "Nohy ako gazela",
+                "description": "Urobím si Cooperov test telesnej kondície. O svojom výsledku sa porozprávam s radcom.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH2-PART3-CHAP3-TASK4"
+              }
+            ],
+            "id": "PATH2-PART3-CHAP3"
+          },
+          {
+            "name": "Starostlivosť o zdravie",
+            "tasks": [
+              {
+                "name": "Si tým, čo ješ",
+                "description": "Spolu s družinou vytvorím vyvážený týždenný jedálniček a po dohode s rodičmi sa ho budem snažiť plniť.",
+                "validators": [
+                  "leader",
+                  "parent"
+                ],
+                "points": 80,
+                "id": "PATH2-PART3-CHAP4-TASK1"
+              },
+              {
+                "name": "Pitný režim",
+                "description": "Počas dvoch týždňov som každý deň vypil aspoň 2 litre čistej vody.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH2-PART3-CHAP4-TASK2"
+              },
+              {
+                "name": "Bez cukru",
+                "description": "Počas dvoch týždňov nebudem jesť nič, čo obsahuje pridaný cukor. Skontrolujem vždy zloženie. Med je povolený.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH2-PART3-CHAP4-TASK3"
+              }
+            ],
+            "challenge": {
+              "name": "výzva 24 hodín na strome",
+              "points": null
+            },
+            "id": "PATH2-PART3-CHAP4"
+          }
+        ],
+        "id": "PATH2-PART3"
+      },
+      {
+        "name": "Schopnosti a zručnosti\nCesta pralesom",
+        "color": {
+          "red": 138,
+          "green": 191,
+          "blue": 85
+        },
+        "requiredPoints": 700,
+        "chapters": [
+          {
+            "name": "Čítanie a denník",
+            "tasks": [
+              {
+                "name": "Knižné sny",
+                "description": "Spíšem si zoznam 20 kníh, ktoré si chcem prečítať.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 20,
+                "id": "PATH2-PART4-CHAP2-TASK1"
+              },
+              {
+                "name": "Môj deň",
+                "description": "Počas 14 dní si každý deň večer zapíšem záznam do denníka.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH2-PART4-CHAP2-TASK2"
+              },
+              {
+                "name": "Nové obzory",
+                "description": "Prečítam si dve knihy, každú z iného žánru. Zapíšem si z nich zaujímavé myšlienky a tie potom predstavím svojej družine.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH2-PART4-CHAP2-TASK3"
+              },
+              {
+                "name": "Spomienky pre budúcnosť",
+                "description": "S družinou sa dohodnem, akú formu kroniky vytvoríme a zadovážime si ju. Zaznamenám jednu našu akciu.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH2-PART4-CHAP2-TASK4"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Čitateľ alebo Kronikár.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH2-PART4-CHAP2-TASK5"
+              }
+            ],
+            "id": "PATH2-PART4-CHAP1"
+          },
+          {
+            "name": "Varenie v malíčku",
+            "tasks": [
+              {
+                "name": "Výprava za dobrotami",
+                "description": "Na výprave s družinou pripravím v trojici aspoň dve jednoduché jedlá na prírodnom ohni.",
+                "validators": [
+                  "leader"
+                ],
+                "points": 90,
+                "id": "PATH2-PART4-CHAP3-TASK1"
+              },
+              {
+                "name": "Seton",
+                "description": "Vyskúšam s družinou pripraviť jedlo formou Setonovho hrnca. Rozdelíme si úlohy tak, aby mal každý niečo na starosti.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH2-PART4-CHAP3-TASK2"
+              },
+              {
+                "name": "Šéfkuchár doma",
+                "description": "Rodičov prekvapím aspoň jedným jednoduchým jedlom.",
+                "validators": [
+                  "parent"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH2-PART4-CHAP3-TASK3"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Kuchár alebo Cukrár.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH2-PART4-CHAP3-TASK4"
+              }
+            ],
+            "id": "PATH2-PART4-CHAP3"
+          },
+          {
+            "name": "Slávnostný oheň",
+            "tasks": [
+              {
+                "name": "Vatra horí",
+                "description": "Poznám symboliku slávnostného ohňa a rituál zapaľovania. Pri slávnostnom ohni sa správam úctivo. Zapojím sa s družinou do aspoň jednej aktivity alebo scénky počas neho.",
+                "validators": [
+                  "leader"
+                ],
+                "points": 30,
+                "id": "PATH2-PART4-CHAP4-TASK1"
+              },
+              {
+                "name": "Pomocná ruka",
+                "description": "Zúčastním sa stavby slávnostného ohňa.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH2-PART4-CHAP4-TASK2"
+              },
+              {
+                "name": "Zábavný večer",
+                "description": "Spev, hry a divadlo vždy patrili k slávnostnému ohňu. Vymyslím 3 nové aktivity alebo hry k slávnostnému ohňu, ktoré si s oddielom alebo družinou zahráme.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH2-PART4-CHAP4-TASK3"
+              },
+              {
+                "name": "Fakle",
+                "description": "Po dohode so skautom zodpovedným za slávnostný oheň vyrobím s kamarátom fakľu určenú na zapálenie ohňa.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH2-PART4-CHAP4-TASK4"
+              }
+            ],
+            "id": "PATH2-PART4-CHAP4"
+          },
+          {
+            "name": "Spánok v prírode",
+            "tasks": [
+              {
+                "name": "Noci von",
+                "description": "S kamarátom z družiny som prespal dve noci pod holým nebom alebo vo vlastnoručne vyrobenom prístrešku.",
+                "validators": [
+                  "leader"
+                ],
+                "points": 70,
+                "id": "PATH2-PART4-CHAP5-TASK1"
+              },
+              {
+                "name": "Stan",
+                "description": "S kamarátom vo dvojici vyberieme na tábore alebo výprave pre stan vhodné miesto a spolu ho správne postavíme.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH2-PART4-CHAP5-TASK2"
+              },
+              {
+                "name": "Uzol",
+                "description": "Naučím sa viazať uzol na uťahovanie kolíkov.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 20,
+                "id": "PATH2-PART4-CHAP5-TASK3"
+              },
+              {
+                "name": "Výbava na spanie",
+                "description": "Doplnil som svoju skautskú výbavu o  predmety potrebné na prípravu prístrešku – celtu, kolíky, lano.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH2-PART4-CHAP5-TASK4"
+              }
+            ],
+            "id": "PATH2-PART4-CHAP5"
+          },
+          {
+            "name": "Rastliny",
+            "tasks": [
+              {
+                "name": "Znalec rastlín",
+                "description": "Dokážem v prírode rozoznať 10 rôznych druhov kvetov a rastlín, ktoré mi vyberie radca alebo vodca. Aspoň pri piatich poznám aj ich liečivé účinky.",
+                "validators": [
+                  "leader"
+                ],
+                "points": 50,
+                "id": "PATH2-PART4-CHAP6-TASK1"
+              },
+              {
+                "name": "Darček",
+                "description": "Jednému zo svojich rodičov som na jeho sviatok pripravil kyticu lúčnych kvetov.",
+                "validators": [
+                  "parent"
+                ],
+                "required": false,
+                "points": 20,
+                "id": "PATH2-PART4-CHAP6-TASK2"
+              },
+              {
+                "name": "Sušiak",
+                "description": "Vyrobil som drevený rám na sušenie liečivých rastlín. Vysušil som v ňom aspoň 5 rôznych bylín.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH2-PART4-CHAP6-TASK3"
+              },
+              {
+                "name": "Čaj podľa seba",
+                "description": "Pripravil som vlastnú čajovú zmes z rôznych sušených liečivých bylín a lesných plodov. Družine som predstavil jej zloženie a všetkých ponúkol.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH2-PART4-CHAP6-TASK4"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Bylinkár alebo Botanik.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH2-PART4-CHAP6-TASK5"
+              }
+            ],
+            "id": "PATH2-PART4-CHAP6"
+          },
+          {
+            "name": "Šok a krvácanie",
+            "tasks": [
+              {
+                "name": "Bu-bu-bu",
+                "description": "Viem, aké prejavy má šok a čo ho môže spôsobiť. S kamarátom v družine som predviedol ukážkovú protišokovú polohu a zabezpečenie 5T.",
+                "validators": [
+                  "leader"
+                ],
+                "points": 60,
+                "id": "PATH2-PART4-CHAP7-TASK1"
+              },
+              {
+                "name": "Návšteva odborníka",
+                "description": "Zúčastním sa s družinou diskusie alebo aktivity s odborníkom v prvej pomoci a spýtam sa ho otázky, ktoré ma zaujímajú.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH2-PART4-CHAP7-TASK2"
+              },
+              {
+                "name": "Zdravotník",
+                "description": "V družine mám funkciu zdravotníka aspoň pol roka. Príkladne sa starám o vybavenie lekárničky a na akciách a výpravách pomáham pri prvej pomoci radcovi.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH2-PART4-CHAP7-TASK3"
+              },
+              {
+                "name": "Krvavá poviedka",
+                "description": "Napíšem krátky vymyslený príbeh o zranení a poskytnutí prvej pomoci. V otázkach na záver poukážem na to, čo urobili záchrancovia správne a kedy urobili chybu.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH2-PART4-CHAP7-TASK4"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Prvá pomoc.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH2-PART4-CHAP7-TASK5"
+              }
+            ],
+            "id": "PATH2-PART4-CHAP7"
+          },
+          {
+            "name": "Bezvedomie a resuscitácia",
+            "tasks": [
+              {
+                "name": "30:2",
+                "description": "Predvediem s kamarátom správne celý postup pri bezvedomí a resuscitácií. Uložím ho do stabilizovanej polohy po úspešnom oživení.",
+                "validators": [
+                  "leader"
+                ],
+                "points": 100,
+                "id": "PATH2-PART4-CHAP8-TASK1"
+              },
+              {
+                "name": "Schéma",
+                "description": "Vytvorím na veľký papier celú prehľadnú schému, ako postupovať pri bezvedomí a resuscitácii. Nafotím k nej aj ukážkové obrázky a vyvesím ju v klubovni.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH2-PART4-CHAP8-TASK2"
+              },
+              {
+                "name": "Príklad",
+                "description": "Nájdem vo svete príklad obetavej záchrany ľudského života so šťastným koncom a podelím sa oň so svojou družinou.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH2-PART4-CHAP8-TASK3"
+              },
+              {
+                "name": "Kurz",
+                "description": "Zúčastním sa kurzu prvej pomoci a úspešne zvládnem jeho obsah.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 100,
+                "id": "PATH2-PART4-CHAP8-TASK4"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Prvá pomoc.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH2-PART4-CHAP8-TASK5"
+              }
+            ],
+            "id": "PATH2-PART4-CHAP8"
+          },
+          {
+            "name": "Odhad počasia",
+            "tasks": [
+              {
+                "name": "Oblaky",
+                "description": "Dokážem správne určiť 3 základné typy oblakov a poznám aspoň 5 prírodných úkazov, podľa ktorých viem predpovedať počasie.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH2-PART4-CHAP10-TASK1"
+              },
+              {
+                "name": "Fučí",
+                "description": "Zostrojím malý merač rýchlosti vetra (anemometer) alebo veterný rukáv do klubovne alebo na tábor. Odhadol som rýchlosť vetra podľa Beaufortovej stupnice.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH2-PART4-CHAP10-TASK2"
+              },
+              {
+                "name": "Rosnička",
+                "description": "V družine mám funkciu meteorológa a počas 4 mesiacov vždy pred výpravou zisťujem, aké bude počasie a podľa toho dám odporúčanie radcovi, aby upravil program.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH2-PART4-CHAP10-TASK3"
+              },
+              {
+                "name": "Meteostanica",
+                "description": "Navštívim podľa možností s družinou meteorologickú stanicu a porozprávam sa s pracovníkmi o tom, aké je to byť profesionálny meteorológ.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 100,
+                "id": "PATH2-PART4-CHAP10-TASK4"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Meteorológ.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH2-PART4-CHAP10-TASK5"
+              }
+            ],
+            "id": "PATH2-PART4-CHAP9"
+          },
+          {
+            "name": "Tajné správy",
+            "tasks": [
+              {
+                "name": "Povely",
+                "description": "Poznám základné signálové skautské povely – príprava, nástup, všetci k vodcovi a iné oddielové signály. Na výprave tieto povely s dovolením radcu sám vydávam.",
+                "validators": [
+                  "leader"
+                ],
+                "points": 50,
+                "id": "PATH2-PART4-CHAP11-TASK1"
+              },
+              {
+                "name": "Morzeovka",
+                "description": "Pošlem a prijmem správu v rozsahu aspoň 25 písmen svetelnou alebo zvukovou morzeovkou s maximálne dvoma chybami.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH2-PART4-CHAP11-TASK2"
+              },
+              {
+                "name": "Šifrovací pretek",
+                "description": "Počas družinovky sa zúčastním šifrovacieho preteku, kedy vyskúšame aspoň 6 druhov šifier.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 20,
+                "id": "PATH2-PART4-CHAP11-TASK3"
+              },
+              {
+                "name": "Tajná správa",
+                "description": "Vymyslím vlastnú tajnú šifru a vyhlásim v oddiele alebo zbore súťaž, kto ju dokáže prelomiť a rozlúštiť pripravený text.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH2-PART4-CHAP11-TASK4"
+              }
+            ],
+            "id": "PATH2-PART4-CHAP11"
+          },
+          {
+            "name": "Odtlačky zvierat",
+            "tasks": [
+              {
+                "name": "Odtlačky",
+                "description": "Preukážem radcovi alebo vodcovi znalosť odtlačkov zvierat bežne sa vyskytujúcich v našom okolí.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH2-PART4-CHAP13-TASK1"
+              },
+              {
+                "name": "Odliatok",
+                "description": "Spoločne so svojou družinou vytvorím aspoň 5 sadrových odliatkov minimálne 3 rôznych druhov zvierat.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH2-PART4-CHAP13-TASK2"
+              },
+              {
+                "name": "Stopárska výprava",
+                "description": "Vydám sa s kamarátom na 2 stopárske výpravy, na ktorých sledujem rôzne odtlačky, zapisujem si ich do zápisníka a s družinou sa podelím o svoje nálezy.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH2-PART4-CHAP13-TASK3"
+              },
+              {
+                "name": "Moja noha",
+                "description": "Vytvorím sadrový odliatok vlastného chodidla a vysvetlím družine, ako som pri tomto experimente postupoval.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH2-PART4-CHAP13-TASK4"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Stopár.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH2-PART4-CHAP13-TASK5"
+              }
+            ],
+            "id": "PATH2-PART4-CHAP12"
+          }
+        ],
+        "id": "PATH2-PART4"
+      }
+    ],
+    "id": "PATH2"
+  },
+  {
+    "name": "Posledný vrchol",
+    "requiredPoints": 2300,
+    "parts": [
+      {
+        "name": "Charakter\nBúrka",
+        "color": {
+          "red": 80,
+          "green": 162,
+          "blue": 217
+        },
+        "chapters": [
+          {
+            "name": "Priatelia pre život",
+            "tasks": [
+              {
+                "name": "Čapované kofolo",
+                "description": "Vyhradím si dostatok času a pozvem priateľa na kofolu. Spoločne si zaspomíname na prežité dobrodružstvá a príhody.",
+                "validators": [
+                  "me"
+                ],
+                "points": 20,
+                "id": "PATH3-PART1-CHAP1-TASK1"
+              },
+              {
+                "name": "Spájač priateľov",
+                "description": "Zorganizujem stretnutie svojich priateľov a tých, ktorí sa medzi sebou nepoznajú, navzájom zoznámim. Verejne alebo inou formou sa im poďakujem za ich priateľstvo.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH3-PART1-CHAP1-TASK2"
+              },
+              {
+                "name": "Stále verný",
+                "description": "Vo vybranom priateľstve sa zlepším o 2 body vo svojom teste priateľstva.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH3-PART1-CHAP1-TASK3"
+              },
+              {
+                "name": "Feedback",
+                "description": "Spýtam sa svojho dobrého priateľa, ktoré veci si na mne cení a v ktorých by mi odporučil sa zlepšiť. Snažím sa jeho feedback zapracovať.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH3-PART1-CHAP1-TASK4"
+              },
+              {
+                "name": "Výzva",
+                "description": "Splním výzvu Uzol dobrého skutku.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART1-CHAP1-TASK5"
+              }
+            ],
+            "id": "PATH3-PART1-CHAP1"
+          },
+          {
+            "name": "Empatia a taktnosť",
+            "tasks": [
+              {
+                "name": "Neobľúbený",
+                "description": "Pre človeka z triedy alebo oddielu či zboru, ktorý je menej obľúbený ako ostatní, pripravím prekvapenie alebo ho inak poteším.",
+                "validators": [
+                  "me"
+                ],
+                "points": 50,
+                "id": "PATH3-PART1-CHAP2-TASK1"
+              },
+              {
+                "name": "Odpustenie",
+                "description": "V prípade, že ma niekto nahneval a doteraz je to nevyriešené, stretnem sa s týmto človekom, porozprávame sa o probléme a skúsim mu odpustiť.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 100,
+                "id": "PATH3-PART1-CHAP2-TASK2"
+              },
+              {
+                "name": "Cudzie životy",
+                "description": "Počas jedného týždňa sa budem denne zaujímať o to, ako svoj deň prežil jeden z rodičov alebo jeden môj kamarát.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH3-PART1-CHAP2-TASK3"
+              },
+              {
+                "name": "Výzva",
+                "description": "Splním výzvu Modrý život s dôrazom hlavne na slišné rozprávanie a čestnosť.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART1-CHAP2-TASK4"
+              }
+            ],
+            "id": "PATH3-PART1-CHAP2"
+          },
+          {
+            "name": "Zatiahnutie na hlbinu",
+            "tasks": [
+              {
+                "name": "Hlboká kniha a film",
+                "description": "Rozšírim si duchovný rozmer prečítaním aspoň 30 strán knihy alebo pozrením filmu s hlbšou myšlienkou. S kamarátom sa podelím o moje zistenia a otázky, ktoré mi napadli.",
+                "validators": [
+                  "me"
+                ],
+                "points": 70,
+                "id": "PATH3-PART1-CHAP3-TASK1"
+              },
+              {
+                "name": "Hlbina",
+                "description": "Navštívim aspoň jedno miesto, kde dokážem zatiahnúť na hlbinu\na zotrvám na ňom.",
+                "validators": [
+                  "me"
+                ],
+                "points": 40,
+                "id": "PATH3-PART1-CHAP3-TASK2"
+              },
+              {
+                "name": "Debata",
+                "description": "Spoločne s družinou zorganizujem pre oddiel debatu alebo workshop na tému „Aký je ideálny človek dnešnej doby?“ alebo si zvolím spoločne s radcom inú tému.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART1-CHAP3-TASK3"
+              },
+              {
+                "name": "Školská hodina",
+                "description": "Aktívne sa zapájam do priebehu vyučovania aspoň na 3 hodinách nábožestva v škole alebo sa zúčastním jedného kola biblickej olympiády.",
+                "validators": [
+                  "me",
+                  "parent"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH3-PART1-CHAP3-TASK4"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Miništrant alebo Pútnik.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "points": "XY",
+                "id": "PATH3-PART1-CHAP3-TASK5"
+              }
+            ],
+            "id": "PATH3-PART1-CHAP3"
+          },
+          {
+            "name": "Slová vďaky",
+            "tasks": [
+              {
+                "name": "Slová vďaky",
+                "description": "Počas dvoch týždňov si nájdem 15 minút denne, kedy sa poďakujem za tento deň a pekné chvíle, ktoré mi priniesol. Nájdem si čas, ktorý mi vyhovuje a dovoľuje mi sústrediť sa.",
+                "validators": [
+                  "me"
+                ],
+                "points": 80,
+                "id": "PATH3-PART1-CHAP4-TASK1"
+              },
+              {
+                "name": "Vlastná",
+                "description": "Napíšem si vlastnú formu slov vďaky alebo modlitby a začlením ju do svojho denného režimu.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH3-PART1-CHAP4-TASK2"
+              },
+              {
+                "name": "Objavovanie",
+                "description": "Vyskúšam novú formu slov vďaky alebo modlitby, ktorá ma zaujala. Poradím sa s rodičom alebo radcom, čo by mi odporučili, a počas jedného týždňa ju praktizujem.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART1-CHAP4-TASK3"
+              },
+              {
+                "name": "Burza vďaky",
+                "description": "Nájdem aspoň 4 predpísané modlitby náboženstiev alebo duchovných textov. Spoločne s družinou spravím v klubovni burzu slov vďaky a modlitieb a každý člen si bude môcť vybrať tú, ktorá ho najviac oslovila.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH3-PART1-CHAP4-TASK4"
+              },
+              {
+                "name": "VPM",
+                "description": "Vyberiem si a splním niektorú úlohu z VPM Ľaliový kríž pre skautov a skautky.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART1-CHAP4-TASK5"
+              }
+            ],
+            "id": "PATH3-PART1-CHAP4"
+          },
+          {
+            "name": "Skauti vo svete",
+            "tasks": [
+              {
+                "name": "Akcia",
+                "description": "Zúčastním sa medzinárodnej skautskej akcie a naučím aspoň troch zahraničných skautov nejakú slovenskú skautskú hru.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 100,
+                "id": "PATH3-PART1-CHAP5-TASK1"
+              },
+              {
+                "name": "Darček",
+                "description": "Pre iného skauta alebo oddiel zo zahraničia spoločne s družinou pripravíme darček a pošleme mu ho poštou.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH3-PART1-CHAP5-TASK2"
+              },
+              {
+                "name": "Sieťou a vzduchom",
+                "description": "Zúčastním sa akcie JOTA-JOTI.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH3-PART1-CHAP5-TASK3"
+              },
+              {
+                "name": "Cudzia odborka",
+                "description": "Nájdem si odborku alebo podobný program z ponuky nejakej zahraničnej skautskej organizácie a splním z nej aspoň jeden bod.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART1-CHAP5-TASK4"
+              },
+              {
+                "name": "Zahraničný svedok",
+                "description": "Zúčastním sa prednášky alebo diskusie so skautom, ktorý bude rozprávať o svojich zážitkoch zo zahraničia.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART1-CHAP5-TASK5"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Svetové priateľstvo.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART1-CHAP5-TASK6"
+              }
+            ],
+            "id": "PATH3-PART1-CHAP5"
+          },
+          {
+            "name": "Vedenie iných",
+            "tasks": [
+              {
+                "name": "Radcovanie",
+                "description": "Som aktívny radca a pripravujeme zaujímavé družinovky pre svojich členov počas jedného skautského roka.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 1200,
+                "id": "PATH3-PART1-CHAP6-TASK1"
+              },
+              {
+                "name": "Dobrá rada nadovšetko",
+                "description": "Všímam si a spíšem po 3 veci, ktoré sa z môjho pohľadu radcovi daria a nedaria pri vedení družiny. Podelím sa s ním o svoje postrehy, vypočujem si jeho pohľad a pokúsime sa nájsť priestor na zlepšenie.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART1-CHAP6-TASK2"
+              },
+              {
+                "name": "Ideál",
+                "description": "S vodcom sa porozprávam o tom, aké vlastnosti by mal mať ideálny vodca. Sám porozmýšľam nad tým, či niektoré z nich spĺňam alebo sa k nim aspoň približujem.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH3-PART1-CHAP6-TASK3"
+              },
+              {
+                "name": "Vzdelaný",
+                "description": "Absolvujem radcovský kurz alebo líderskú rangerskú školu . Počas celého vzdelávania som aktívny a splním všetky podmienky absolvovania. Táto úloha sa uznáva aj spätne.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART1-CHAP6-TASK4"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Organizátor hier.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART1-CHAP6-TASK5"
+              }
+            ],
+            "id": "PATH3-PART1-CHAP6"
+          },
+          {
+            "name": "Pravda v spletí názorov",
+            "tasks": [
+              {
+                "name": "Aktuálne dianie",
+                "description": "Počas dvoch týždňov sa každý deň informujem o dianí doma i vo svete pomocou aspoň 3 médií (televízne noviny, spravodajské weby, printové médiá). O novinkách som sa vždy porozprával s rodičom.",
+                "validators": [
+                  "parent"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH3-PART1-CHAP7-TASK1"
+              },
+              {
+                "name": "Všade samé hoaxy",
+                "description": "Nájdem aspoň 2 príklady hoaxov, ktoré sa šírili medzi ľuďmi. Overím, do akej miery spĺňali znaky uvedené v kapitole. Svoje zoznamy porovnáme v družine.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH3-PART1-CHAP7-TASK2"
+              },
+              {
+                "name": "Kritická kniha",
+                "description": "Prečítam si knihu alebo príručku o kritickom myslení a nástrahách internetu a rôznych médií.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH3-PART1-CHAP7-TASK3"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Novinár.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART1-CHAP7-TASK4"
+              }
+            ],
+            "id": "PATH3-PART1-CHAP7"
+          }
+        ],
+        "id": "PATH3-PART1"
+      },
+      {
+        "name": "Služba\nDedina",
+        "color": {
+          "red": 220,
+          "green": 68,
+          "blue": 101
+        },
+        "chapters": [
+          {
+            "name": "Budúca rodina",
+            "tasks": [
+              {
+                "name": "Rodinný výlet",
+                "description": "Vyberiem sa na dva výlety s rodičmi alebo starými rodičmi na miesto, ktoré je pre nich významné a počas výletu sa s nimi rozprávam o spoločných témach.",
+                "validators": [
+                  "parent"
+                ],
+                "points": 50,
+                "id": "PATH3-PART2-CHAP1-TASK1"
+              },
+              {
+                "name": "Video",
+                "description": "Natočím video vlog so starými rodičmi, kde mi povedia kuriozity zo svojej mladosti a histórie našej rodiny, ich obľúbené vtipy, zaspievajú piesne,...",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH3-PART2-CHAP1-TASK2"
+              },
+              {
+                "name": "Báseň",
+                "description": "Napíšem báseň o mojej skautskej rodine (družine alebo oddiele), kde na každého vymyslím jednoduchý charakteristický rým, pričom samozrejme nikoho neurazím.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH3-PART2-CHAP1-TASK3"
+              },
+              {
+                "name": "Strážca detí",
+                "description": "Starším kamarátom alebo rodine pomôžem so starostlivosťou o mladšie dieťa aspoň 3 krát.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH3-PART2-CHAP1-TASK4"
+              },
+              {
+                "name": "Predkovia",
+                "description": "Vytvorím rodostrom svojej rodiny do tretej generácie (prastarí rodičia).",
+                "validators": [
+                  "parent"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH3-PART2-CHAP1-TASK5"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Babysitter alebo Genealóg.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART2-CHAP1-TASK6"
+              }
+            ],
+            "id": "PATH3-PART2-CHAP1"
+          },
+          {
+            "name": "Tolerancia a rešpekt",
+            "tasks": [
+              {
+                "name": "Hlas pravdy",
+                "description": "Aspoň trikrát jasne a s rešpektom vyjadrím svoj nesúhlas, keď na skautingu alebo v triede narazím na diskriminujúci či urážlivý názor alebo komentár.",
+                "validators": [
+                  "me"
+                ],
+                "points": 70,
+                "id": "PATH3-PART2-CHAP2-TASK1"
+              },
+              {
+                "name": "Podobnosť a rozdielnosť",
+                "description": "Skontaktujem sa so zahraničným skautom iného vierovyznania a kultúry a vymením si s ním aspoň 3 dlhšie správy.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH3-PART2-CHAP2-TASK2"
+              },
+              {
+                "name": "Férový svet",
+                "description": "Vymyslím konkrétny nápad a predstavím ho vodcovi, ako by bolo možné uľahčiť činnosť v skautingu (napr. pohyb v klubovni) človeku s postihnutím.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH3-PART2-CHAP2-TASK3"
+              },
+              {
+                "name": "Fér vo filme",
+                "description": "S vodcom oddielu sa dohodnem na organizácii filmového večera, na ktorom si pozrieme film venujúci sa téme tolerancie či nebezpečenstva šikany. Po filme sa taktiež zúčastním spoločnej diskusie.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART2-CHAP2-TASK4"
+              }
+            ],
+            "id": "PATH3-PART2-CHAP2"
+          },
+          {
+            "name": "Mladý občan",
+            "tasks": [
+              {
+                "name": "Občan",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Občan.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "points": 60,
+                "id": "PATH3-PART2-CHAP3-TASK1"
+              },
+              {
+                "name": "Oslava hrdosťou",
+                "description": "Spoločne s priateľom oslávim vybraný štátny sviatok.",
+                "validators": [
+                  "me"
+                ],
+                "points": 40,
+                "id": "PATH3-PART2-CHAP3-TASK2"
+              },
+              {
+                "name": "Znalec ústavy",
+                "description": "Prečítam si Ústavu SR a v družine alebo s vodcom prediskutujem moje otázky.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH3-PART2-CHAP3-TASK3"
+              },
+              {
+                "name": "Politická diskusia",
+                "description": "Sledujem aspoň 2 politické diskusie a snažím sa kriticky zhodnotiť výroky diskutujúcich. Porozprávam sa s rodičmi o mojich zisteniach.",
+                "validators": [
+                  "me",
+                  "parent"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART2-CHAP3-TASK4"
+              }
+            ],
+            "id": "PATH3-PART2-CHAP3"
+          },
+          {
+            "name": "Práca a vzdelanie",
+            "tasks": [
+              {
+                "name": "Rodič ako vzor",
+                "description": "Viem, čomu sa moji rodičia v zamestnaní venujú. Zistím o tom viac návštevou na ich pracovisku, rozhovorom s nimi, prípadne s ich kolegami.",
+                "validators": [
+                  "parent"
+                ],
+                "points": 60,
+                "id": "PATH3-PART2-CHAP4-TASK1"
+              },
+              {
+                "name": "DOD",
+                "description": "Zúčastním sa dňa otvorených dverí na strednej škole, ktorá ma zaujala.",
+                "validators": [
+                  "me",
+                  "parent"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART2-CHAP4-TASK2"
+              },
+              {
+                "name": "Z terénu",
+                "description": "Skontaktujem sa so žiakom strednej školy, ktorá ma zaujala, a opýtam sa ho na jeho skúsenosti a názory na ňu.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH3-PART2-CHAP4-TASK3"
+              },
+              {
+                "name": "Skauting, pomôž!",
+                "description": "Vyberiem si odborku, ktorá sa týka môjho vyhliadnutého povolania a splním z nej jeden bod.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH3-PART2-CHAP4-TASK4"
+              },
+              {
+                "name": "Cesty mojich hrdinov",
+                "description": "Spolu s družinou si spravíme aktivitu, kde spojíme významné osobnosti s ich vzdelaním, ktoré získali a prácou, ktorou sa nakoniec preslávili.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH3-PART2-CHAP4-TASK5"
+              }
+            ],
+            "id": "PATH3-PART2-CHAP4"
+          },
+          {
+            "name": "História magistra vitae",
+            "tasks": [
+              {
+                "name": "Naša história",
+                "description": "S družinou nájdeme a spíšeme si historické záznamy o našom oddiele: rok a okolnosti založenia, zoznam bývalých oddielových vodcov...",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH3-PART2-CHAP5-TASK1"
+              },
+              {
+                "name": "Múzeum",
+                "description": "Navštívim Skautské múzeum v Ružomberku.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 100,
+                "id": "PATH3-PART2-CHAP5-TASK2"
+              },
+              {
+                "name": "S ľaliou v srdci",
+                "description": "Prečítam si knihu S ľaliou v srdci alebo inú knihu, ktorá mapuje históriu skautingu (napr. Skautské století).",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH3-PART2-CHAP5-TASK3"
+              },
+              {
+                "name": "Pamäť národa",
+                "description": "Vyberiem si a splním niektorú úlohu z voľného programového modulu Pamäť národa.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH3-PART2-CHAP5-TASK4"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odboriek Historik alebo Skautská história.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART2-CHAP5-TASK5"
+              }
+            ],
+            "id": "PATH3-PART2-CHAP5"
+          },
+          {
+            "name": "Spoločnosť a náboženstvo",
+            "tasks": [
+              {
+                "name": "Patróni",
+                "description": "Vymodeluj jedného z patrónov Európy (z dreva, hliny, papiera) s jeho charakteristickými znakmi a ukážem ho družine.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART2-CHAP6-TASK1"
+              },
+              {
+                "name": "Posvätné miesto",
+                "description": "Navštívil som miesto zamerané na niektorého z patrónov Európy.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH3-PART2-CHAP6-TASK2"
+              },
+              {
+                "name": "Spoznaj viac",
+                "description": "Pozrel som si film alebo prečítal knihu o náboženstvách v Európe a ich vplyve v pozitívnom aj negatívnom zmysle.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH3-PART2-CHAP6-TASK3"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Znalec náboženstiev alebo Pútnik.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART2-CHAP6-TASK4"
+              }
+            ],
+            "id": "PATH3-PART2-CHAP6"
+          },
+          {
+            "name": "Život na úrovni",
+            "tasks": [
+              {
+                "name": "Stolovanie",
+                "description": "Pre svoju rodinu alebo družinu som podľa návodu v kapitole dôsledne prestrel stôl na minimálne trojchodové jedlo.",
+                "validators": [
+                  "leader",
+                  "parent"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH3-PART2-CHAP7-TASK1"
+              },
+              {
+                "name": "Seriál",
+                "description": "Pozriem si aspoň tri diely seriálu Etiketa s Ladislavom Špačkom.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH3-PART2-CHAP7-TASK2"
+              },
+              {
+                "name": "Rečník",
+                "description": "Pripravím si reč na tému, ktorá ma zaujíma. Vystúpim s ňou pred publikom (družina, oddiel, trieda...) a dám si pozor na správne využitie prezentačných zručností.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH3-PART2-CHAP7-TASK3"
+              },
+              {
+                "name": "Podstatný rozdiel",
+                "description": "Zistím, aký je rozdiel medzi etikou a etiketou a z každej oblastí zistím 2 nové informácie.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 20,
+                "id": "PATH3-PART2-CHAP7-TASK4"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Tanečník spoločenských tancov.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART2-CHAP7-TASK5"
+              }
+            ],
+            "id": "PATH3-PART2-CHAP7"
+          }
+        ],
+        "id": "PATH3-PART2"
+      },
+      {
+        "name": "Zdravie a sila\nPrevis",
+        "color": {
+          "red": 242,
+          "green": 210,
+          "blue": 92
+        },
+        "chapters": [
+          {
+            "name": "Vo forme aj bez fitka",
+            "tasks": [
+              {
+                "name": "Bobrík",
+                "description": "Získam červeného Bobríka plávania.",
+                "validators": [
+                  "leader"
+                ],
+                "points": 60,
+                "id": "PATH3-PART3-CHAP1-TASK1"
+              },
+              {
+                "name": "7x3",
+                "description": "Po dobu dvoch týždňov cvičím 7-minútový tréning aspoň 3x týždenne.",
+                "validators": [
+                  "me",
+                  "parent"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH3-PART3-CHAP1-TASK2"
+              },
+              {
+                "name": "Topenie nanečisto",
+                "description": "S družinou si precvičím záchranu topiaceho na plavárni. Vopred sa s plavárňou dohodneme.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH3-PART3-CHAP1-TASK3"
+              },
+              {
+                "name": "Cvičebný plán",
+                "description": "S pomocou skúseného (trénera, staršieho rovera) si vytvorím jednoduchý cvičebný plán. Plním ho aspoň 2 týždne.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH3-PART3-CHAP1-TASK4"
+              },
+              {
+                "name": "Trident",
+                "description": "Odmeriam si svoje skóre v rámci výzvy Trident. Následne ho zlepším o aspoň 100 bodov, resp. dosiahnem potrebnú úroveň výzvy.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 100,
+                "id": "PATH3-PART3-CHAP1-TASK5"
+              },
+              {
+                "name": "Rozcvička",
+                "description": "Zoberiem si na starosť organizáciu jednej rannej rozcvičky na skautskej akcii.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 20,
+                "id": "PATH3-PART3-CHAP1-TASK6"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Plavec, Športovec či Atlét.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART3-CHAP1-TASK7"
+              }
+            ],
+            "id": "PATH3-PART3-CHAP1"
+          },
+          {
+            "name": "Rovnakí a predsa rozdielni",
+            "tasks": [
+              {
+                "name": "Iniciácia",
+                "description": "Poprosím radcu/radkyňu alebo vodcu/vodkyňu, aby mojej družine počas tábora pripravil iniciačnú skúšku.",
+                "validators": [
+                  "leader"
+                ],
+                "points": 70,
+                "id": "PATH3-PART3-CHAP2-TASK1"
+              },
+              {
+                "name": "Inšpiratívni",
+                "description": "Zoznámim sa so životom a s kariérou úspešného človeka opačného pohlavia a predstavím ho družine. Spolu s radcom prediskutujem, čo pozitívne si môžem zobrať ako inšpiráciu.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART3-CHAP2-TASK2"
+              },
+              {
+                "name": "Výmena",
+                "description": "Počas tábora sa zúčastním mužsko-ženského dňa s tým rozdielom, že ženy budú vykonávať mužské činnosti a muži ženské. Na konci dňa diskutujem s ostatnými o danom dni – najmä o tom, aké činnosti boli komu pridelené a prečo.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 100,
+                "id": "PATH3-PART3-CHAP2-TASK3"
+              }
+            ],
+            "id": "PATH3-PART3-CHAP2"
+          },
+          {
+            "name": "Zmeny prichádzajú",
+            "tasks": [
+              {
+                "name": "Neodvratná budúcnosť",
+                "description": "Zistím, aké telesné a psychické zmeny ma pravdepodobne čakajú v nasledujúcich rokoch. S družinou sme si porovnali svoje súčasné fotografie s fotografiami spred 5 rokov.",
+                "validators": [
+                  "me"
+                ],
+                "points": 70,
+                "id": "PATH3-PART3-CHAP3-TASK1"
+              },
+              {
+                "name": "Ľúbim sa?",
+                "description": "Mám sa rád a denne si to počas 30 dní poviem pred zrkadlom.",
+                "validators": [
+                  "me"
+                ],
+                "points": 80,
+                "id": "PATH3-PART3-CHAP3-TASK2"
+              },
+              {
+                "name": "Odborník",
+                "description": "Nájdem v mojom okolí osobu, ktorá mi dokáže poradiť ohľadne prípadných problémov so sebaprijatím. Informáciu o tomto človeku a kontakt naňho zdieľam s oddielom.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH3-PART3-CHAP3-TASK3"
+              },
+              {
+                "name": "História krásy",
+                "description": "Zistím, ako sa ideál o ľudskom tele a kráse menil v priebehu vekov (cez pravej, stredovek, renesanciu až po dnes) a vytvorím model pravekej Venuše.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH3-PART3-CHAP3-TASK4"
+              },
+              {
+                "name": "Cyklický denník",
+                "description": "Pre dievčatá: Vediem si denník 3 mesiace a pozrujem svoje správanie a reakcie v jednotlivých fázach mesiaca (kedy som najkreatívnejšia, ktoré dni sú pre mňa fyzicky náročne, kedy dokážem dobre vychádzať s ľuďmi okolo, ...).",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 100,
+                "id": "PATH3-PART3-CHAP3-TASK5"
+              }
+            ],
+            "id": "PATH3-PART3-CHAP3"
+          },
+          {
+            "name": "Život bez závislosti",
+            "tasks": [
+              {
+                "name": "Online pôst",
+                "description": "Zrieknem sa používania sociálnych sietí a počítačových hier na týždeň. Získaný čas využijem produktívne na svoj osobný rozvoj.",
+                "validators": [
+                  "me",
+                  "parent"
+                ],
+                "points": 80,
+                "id": "PATH3-PART3-CHAP4-TASK1"
+              },
+              {
+                "name": "Nebezpečenstvo tráv",
+                "description": "Vyberiem si 2 drogy a zistí o nich čo najviac informácií – najmä o ich negatívnych účinkoch na organizmus. Rodičovi svoje poznatky odprezentujem.",
+                "validators": [
+                  "parent"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART3-CHAP4-TASK2"
+              },
+              {
+                "name": "Nezávislý workshop",
+                "description": "Zúčastním sa prednášky alebo workshopu, ktorý je zameraný na tému drog alebo iných závislostí.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH3-PART3-CHAP4-TASK3"
+              },
+              {
+                "name": "Svetlo nádeje",
+                "description": "Predstavím družine životný príbeh človeka, ktorý bojoval so závislosťami, no podarilo sa mu ich prekonať.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH3-PART3-CHAP4-TASK4"
+              }
+            ],
+            "id": "PATH3-PART3-CHAP4"
+          },
+          {
+            "name": "S časom opreteky",
+            "tasks": [
+              {
+                "name": "Ideálny deň",
+                "description": "Naplánujem si deň, v ktorom bude mať ideálne zastúpenie spánok, práca i aktívny oddych. Porovnám svoj deň s družinou a zrealizujem ho „naostro“.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART3-CHAP5-TASK1"
+              },
+              {
+                "name": "Vyšší level",
+                "description": "Počas jedného mesiaca budem používať diár alebo mobilnú aplikáciu, ktorá pomáha s riadením času alebo poriadkom v živote.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH3-PART3-CHAP5-TASK2"
+              },
+              {
+                "name": "Do tretice všetko dobré",
+                "description": "Počas dvoch týždňov si každý večer pripravím 3 jednoduché ciele, ktoré sa budem nasledujúci deň snažiť splniť. Každý večer si tieto ciele aj spätne vyhodnotím.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH3-PART3-CHAP5-TASK3"
+              },
+              {
+                "name": "Úspešná inšpirácia",
+                "description": "Zistím, aký denný režim má úspešný človek v mojom okolí alebo môj vzor. Jeden návyk zaradím aj do svojho dňa.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH3-PART3-CHAP5-TASK4"
+              },
+              {
+                "name": "Darwin",
+                "description": "Naplánujem si a prežijem deň presne ako Charles Darwin.",
+                "validators": [
+                  "me",
+                  "parent"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH3-PART3-CHAP5-TASK5"
+              }
+            ],
+            "id": "PATH3-PART3-CHAP5"
+          },
+          {
+            "name": "Šaty robia človeka",
+            "tasks": [
+              {
+                "name": "Podľa predpisu",
+                "description": "Upravím si skautskú rovnošatu podľa 15. kapitoly organizačného poriadku Rovnošatový predpis.",
+                "validators": [
+                  "parent"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH3-PART3-CHAP6-TASK1"
+              },
+              {
+                "name": "Darca šiat",
+                "description": "Pretriedim si svoj šatník a vyradené oblečenie darujem charite alebo ľuďom, ktorí ho potrebujú.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH3-PART3-CHAP6-TASK2"
+              },
+              {
+                "name": "Pôvod šatníka",
+                "description": "Vyberiem si dva kúsky oblečenia zo svojho šatníka a preštudujem si ich históriu. Zistím, kde vznikli, za akých podmienok, koľko precestovali kým prišli ku mne.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH3-PART3-CHAP6-TASK3"
+              },
+              {
+                "name": "Kapsula",
+                "description": "Počas jedného ročného obdobia upravím svoje oblečenie podľa pravidiel kapsulového šatníka.",
+                "validators": [
+                  "me",
+                  "parent"
+                ],
+                "required": false,
+                "points": 100,
+                "id": "PATH3-PART3-CHAP6-TASK4"
+              },
+              {
+                "name": "Rovnošatový deň",
+                "description": "Jeden celý pracovný deň budem mať na sebe oblečenú skautskú rovnošatu.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH3-PART3-CHAP6-TASK5"
+              }
+            ],
+            "id": "PATH3-PART3-CHAP6"
+          }
+        ],
+        "id": "PATH3-PART3"
+      },
+      {
+        "name": "Schopnosti a zručnosti\nZáchranka",
+        "color": {
+          "red": 138,
+          "green": 191,
+          "blue": 85
+        },
+        "chapters": [
+          {
+            "name": "Bežné ochorenia a lekárnička",
+            "tasks": [
+              {
+                "name": "Malý dr. House",
+                "description": "Viem, ako predchádzať a prakticky postupovať pri horúčke, bolesti hlavy, hnačke, zvracaní a alergickej reakcii, s aj bez použitia liekov.",
+                "validators": [
+                  "leader"
+                ],
+                "points": 80,
+                "id": "PATH3-PART4-CHAP1-TASK1"
+              },
+              {
+                "name": "Lekárnik",
+                "description": "Pre družinu pripravím, prípadne doplním, kompletnú lekárničku a viem prakticky využiť všetky jej súčasti.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH3-PART4-CHAP1-TASK2"
+              },
+              {
+                "name": "Hlavný hygienik",
+                "description": "Počas tábora alebo víkendovej akcie som si zobral na starosť dodržiavanie hygienických pravidiel a kreatívnym spôsobom som motivoval mladších, aby ich dodržiavali.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH3-PART4-CHAP1-TASK3"
+              },
+              {
+                "name": "Zdravotný kritik",
+                "description": "Nájdem vo vybranom filme alebo seriáli, venovanému téme zdravotníctva, 2 príklady nesprávne poskytnutej prvej pomoci. Svoje zistenia aj s odporúčaniami predstavím rodičom alebo kamarátom.",
+                "validators": [
+                  "me",
+                  "parent"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH3-PART4-CHAP1-TASK4"
+              },
+              {
+                "name": "Kurz",
+                "description": "Zúčasním sa kurzu prvej pomoci.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART4-CHAP1-TASK5"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Prvá pomoc.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART4-CHAP1-TASK6"
+              }
+            ],
+            "id": "PATH3-PART4-CHAP1"
+          },
+          {
+            "name": "Krízové podmienky",
+            "tasks": [
+              {
+                "name": "Krízová výprava",
+                "description": "S družinou sa zúčastním výpravy, na ktorej si precvičíme správanie v krízových podmienkach. Výpravu pre nás pripraví radca.",
+                "validators": [
+                  "leader"
+                ],
+                "points": 70,
+                "id": "PATH3-PART4-CHAP2-TASK1"
+              },
+              {
+                "name": "Signál",
+                "description": "S kamarátom z družiny si „nanečisto“ vyskúšam vysielanie a prijímanie alpského núdzového signálu.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH3-PART4-CHAP2-TASK2"
+              },
+              {
+                "name": "Výsadok",
+                "description": "Zúčastním sa cvičného výsadku vo väčšej skupine (aspoň 3 ľudia).",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH3-PART4-CHAP2-TASK3"
+              },
+              {
+                "name": "Balzam",
+                "description": "Otestujem praktické využitie balzamu na pery v 3 rôznych netradičných situáciách.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 20,
+                "id": "PATH3-PART4-CHAP2-TASK4"
+              },
+              {
+                "name": "Skutočný príbeh",
+                "description": "Prečítam si skutočný príbeh o prežití v krízových podmienkach alebo si pozriem film s touto tematikou. Družine ukážem, ktoré skautské zručnosti hrdinovia filmu použili.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART4-CHAP2-TASK5"
+              },
+              {
+                "name": "Dôležité čísla",
+                "description": "Vyrobím a do klubovne umiestnim prehľadnú a kvalitnú informačnú tabuľku s telefónnymi číslami na záchranné zložky.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH3-PART4-CHAP2-TASK6"
+              }
+            ],
+            "id": "PATH3-PART4-CHAP2"
+          },
+          {
+            "name": "Starostlivosť o výstroj",
+            "tasks": [
+              {
+                "name": "Moja výbava",
+                "description": "Postarám sa o svoju skautskú výbavu, v prípade potreby ju doplním a opravím, aby bola celá v skvelom stave – topánky, batoh, smartfón, nôž, a iné.",
+                "validators": [
+                  "me"
+                ],
+                "points": 50,
+                "id": "PATH3-PART4-CHAP3-TASK1"
+              },
+              {
+                "name": "Reštaurátor",
+                "description": "Nájdem staršiu používanú sekeru (v oddiele, zbore, rodine) a prinavrátim jej život – nabrúsim ju, opravím, prípadne vymením porisko a ošetrím ochranným náterom.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH3-PART4-CHAP3-TASK2"
+              },
+              {
+                "name": "Táborová príprava",
+                "description": "Pomôžem pri príprave výbavy a náradia na letný tábor.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH3-PART4-CHAP3-TASK3"
+              },
+              {
+                "name": "Adopcia",
+                "description": "Počas letného tábora si „adoptujem“ jeden kus náradia: každý deň ho skontrolujem, odložím na správne miesto, prípadne opravím.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH3-PART4-CHAP3-TASK4"
+              },
+              {
+                "name": "Kvalita sa pozná",
+                "description": "Pomôžem zorganizovať workshop, na ktorom s mladšími skautmi vyskúšame kvalitné a nekvalitné nástroje.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART4-CHAP3-TASK5"
+              }
+            ],
+            "id": "PATH3-PART4-CHAP3"
+          },
+          {
+            "name": "Pochúťky na úrovni",
+            "tasks": [
+              {
+                "name": "Kulinárske pokusy",
+                "description": "Pripravím dve náročnejšie jedlá – nátierku, polievku alebo hlavné jedlo.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "points": 60,
+                "id": "PATH3-PART4-CHAP4-TASK1"
+              },
+              {
+                "name": "Jedálniček v malíčku",
+                "description": "Na družinovú výpravu pripravím jedálniček, zložený z aspoň troch jedál, z toho jedno varené v prírode. Pripravím odhadovaný rozpočet a nákup surovín rozdelím medzi členov družiny.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH3-PART4-CHAP4-TASK2"
+              },
+              {
+                "name": "Zaváranie",
+                "description": "Vyskúšam si zaváranie lesných plodov s rodičom alebo kamarátom.",
+                "validators": [
+                  "me",
+                  "parent"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART4-CHAP4-TASK3"
+              },
+              {
+                "name": "Hostina v lejaku",
+                "description": "Jedno jednoduché jedlo spolu s kamarátom pripravím v náročnejších podmienkach (dážď, sneženie, noc,...).",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH3-PART4-CHAP4-TASK4"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Kuchár.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART4-CHAP4-TASK5"
+              }
+            ],
+            "id": "PATH3-PART4-CHAP4"
+          },
+          {
+            "name": "Popáleniny a uhryznutia",
+            "tasks": [
+              {
+                "name": "Nehorľavé základy",
+                "description": "Dokážem správne a prakticky ošetriť rôzne druhy popálenín.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART4-CHAP5-TASK1"
+              },
+              {
+                "name": "Protipožiarna ochrana",
+                "description": "Na víkendovej akcii zabezpečím kompletnú prevenciu pred požiarom a popálením – vysvetlím, ako narábať s ohňom a ako postupovať pri popáleninách.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH3-PART4-CHAP5-TASK2"
+              },
+              {
+                "name": "Vlčiacky hasič",
+                "description": "Pomôžem družine vĺčat a včielok splniť niektorú z úloh alebo aj celkovo získať odborku Hasič.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH3-PART4-CHAP5-TASK3"
+              },
+              {
+                "name": "Antikliešť",
+                "description": "Dokážem ošetriť uhryznutie kliešťom a v spolupráci so zdravotníkom som odstránil aspoň 2 kliešťov.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH3-PART4-CHAP5-TASK4"
+              },
+              {
+                "name": "Liečiteľ uhryznutí",
+                "description": "Pre družinu alebo triedu pripravím kreatívny plagát s prvou pomocou pri uhryznutí kliešťom a hadom, ktorý zároveň informuje čo nerobiť.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART4-CHAP5-TASK5"
+              }
+            ],
+            "id": "PATH3-PART4-CHAP5"
+          },
+          {
+            "name": "Úrazy a obväzovanie",
+            "tasks": [
+              {
+                "name": "Zdravotnícky učiteľ",
+                "description": "Mladším skautom alebo vĺčatám a včielkam predvediem ošetrenie zlomeniny a vyvrtnutia členku. Pripravím pre nich súťaž, v ktorej si overia svoje vedomosti.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH3-PART4-CHAP6-TASK1"
+              },
+              {
+                "name": "Felčiar",
+                "description": "Prakticky zvládnem všetky druhy obvinov a typy uviazania.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH3-PART4-CHAP6-TASK2"
+              },
+              {
+                "name": "Experiment",
+                "description": "Zrealizujem experiment s rôznymi typmi leukoplastov a rýchloobväzov. Zistím, ktorý mi najviac vyhovuje.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH3-PART4-CHAP6-TASK3"
+              }
+            ],
+            "id": "PATH3-PART4-CHAP6"
+          },
+          {
+            "name": "Zauzlené ruky",
+            "tasks": [
+              {
+                "name": "Väzbár",
+                "description": "Ovládam tri väzby viazaných stavieb a stočenie lana.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART4-CHAP7-TASK1"
+              },
+              {
+                "name": "Inžinier",
+                "description": "Viedol som na tábore stavbu jednej viazanej stavby. Môj tím pozostával z aspoň dvoch ďalších skautov.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 100,
+                "id": "PATH3-PART4-CHAP7-TASK2"
+              },
+              {
+                "name": "Inovátor",
+                "description": "Navrhnem novú, netradičnú viazanú stavbu vhodnú na tábor. Vytvorím návrh a postavím prototyp zo špajlí.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH3-PART4-CHAP7-TASK3"
+              },
+              {
+                "name": "Gentlemen",
+                "description": "Naučím sa spamäti zaviazať kravatu.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH3-PART4-CHAP7-TASK4"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Viazanie.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART4-CHAP7-TASK5"
+              }
+            ],
+            "id": "PATH3-PART4-CHAP7"
+          },
+          {
+            "name": "Divadlo a hudba",
+            "tasks": [
+              {
+                "name": "Akcia!",
+                "description": "„Zrežírujem“ jednu scénku pred hrou alebo aktivitou, ktorá hráčov namotivuje. Pripravím hercov, jednoduchý scenár, kostýmy a hudobný sprievod.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART4-CHAP8-TASK1"
+              },
+              {
+                "name": "Kapelník",
+                "description": "Použijem akýkoľvek hudobný nástroj na sprievod ku piesni, ktorú v oddiele zahráme. S ostatnými hudobníkmi sa vopred dohodnem.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH3-PART4-CHAP8-TASK2"
+              },
+              {
+                "name": "Kostým",
+                "description": "Vytvorím si prepracovaný kostým, ktorý využijem v rámci skautskej etapovej hry.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH3-PART4-CHAP8-TASK3"
+              },
+              {
+                "name": "Hymna",
+                "description": "Nováčika naučím spievať skautskú hymnu.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 60,
+                "id": "PATH3-PART4-CHAP8-TASK4"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Herec, Spevák alebo Hudobník.",
+                "validators": [
+                  "leader",
+                  "me"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART4-CHAP8-TASK5"
+              }
+            ],
+            "id": "PATH3-PART4-CHAP8"
+          },
+          {
+            "name": "Zálesácke zručnosti",
+            "tasks": [
+              {
+                "name": "Zachytávač vody",
+                "description": "Vyskúšam zachytiť aspoň 200 ml vody 3 rôznymi spôsobmi (zachytenie dažďa, zber rosy, kondenzácia).",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART4-CHAP9-TASK1"
+              },
+              {
+                "name": "Bowdrill",
+                "description": "Pripravím si sadu na bowdrill a pokúsim sa založiť ňu oheň (doštička, vrták, luk).",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 90,
+                "id": "PATH3-PART4-CHAP9-TASK2"
+              },
+              {
+                "name": "Všestranný oheň",
+                "description": "Založím oheň minimálne troma rôznymi spôsobmi (zápalky, zapaľovač, lupa, kresadlo, bow drill,...).",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH3-PART4-CHAP9-TASK3"
+              },
+              {
+                "name": "Zdroje prežitia ",
+                "description": "Na tábore alebo výprave nazbieram aspoň dva plné ešusy lesných plodov, jedlých rastlín či plodov stromov.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 20,
+                "id": "PATH3-PART4-CHAP9-TASK4"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Zálesák.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART4-CHAP9-TASK5"
+              }
+            ],
+            "id": "PATH3-PART4-CHAP9"
+          },
+          {
+            "name": "Nočná obloha",
+            "tasks": [
+              {
+                "name": "Súhvezdia ",
+                "description": "Na nočnej oblohe dokážem určiť aspoň 8 súhvezdí a 3 známe hviezdy alebo nebeské telesá.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 80,
+                "id": "PATH3-PART4-CHAP10-TASK1"
+              },
+              {
+                "name": "Nočná orientácia",
+                "description": "Poznám aspoň 2 spôsoby orientovania sa podľa nočnej oblohy a jeden z nich som naučil kamaráta.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART4-CHAP10-TASK2"
+              },
+              {
+                "name": "Moja hviezda",
+                "description": "Zistím, kde a za akú sumu sa dá registrovať a kúpiť vlastná hviezda. Družine predstavím najzaujímavejšie názvy hviezd slávnych a bohatých ľudí.",
+                "validators": [
+                  "leader"
+                ],
+                "required": false,
+                "points": 30,
+                "id": "PATH3-PART4-CHAP10-TASK3"
+              },
+              {
+                "name": "Hu-húú",
+                "description": "Spoločne s rodinou alebo družinou som pripravil celonočné pozorovanie hviezd, kedy sme sledovali Mesiac, hviezdy a súhvezdia.",
+                "validators": [
+                  "parent",
+                  "leader"
+                ],
+                "required": false,
+                "points": 100,
+                "id": "PATH3-PART4-CHAP10-TASK4"
+              },
+              {
+                "name": "Odborka ",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Hvezdár.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART4-CHAP10-TASK5"
+              }
+            ],
+            "id": "PATH3-PART4-CHAP10"
+          },
+          {
+            "name": "Huby",
+            "tasks": [
+              {
+                "name": "Atlas húb",
+                "description": "Pomocou hubárskeho atlasu identifikujem v lese aspoň 6 rôznych húb.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": 70,
+                "id": "PATH3-PART4-CHAP11-TASK1"
+              },
+              {
+                "name": "Spracovanie",
+                "description": "Nazbierané huby pod dohľadom skúseného hubára správne spracujem – očistím, nakrájam a vysuším, resp. zamrazím.",
+                "validators": [
+                  "parent"
+                ],
+                "required": false,
+                "points": 50,
+                "id": "PATH3-PART4-CHAP11-TASK2"
+              },
+              {
+                "name": "Delikatesa",
+                "description": "Zistím, ktorými hubami sa na Slovensku najčastejšie ľudia otrávia a nájdem 2 konkrétne tragické príbehy.",
+                "validators": [
+                  "me"
+                ],
+                "required": false,
+                "points": 40,
+                "id": "PATH3-PART4-CHAP11-TASK3"
+              },
+              {
+                "name": "Odborka",
+                "description": "Vyberiem si a splním niektorú úlohu z odborky Hubár.",
+                "validators": [
+                  "me",
+                  "leader"
+                ],
+                "required": false,
+                "points": "XY",
+                "id": "PATH3-PART4-CHAP11-TASK4"
+              }
+            ],
+            "id": "PATH3-PART4-CHAP11"
+          }
+        ],
+        "id": "PATH3-PART4"
+      }
+    ],
+    "id": "PATH3"
+  }
+]

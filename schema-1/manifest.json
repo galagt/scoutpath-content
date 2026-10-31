@@ -1,0 +1,946 @@
+{
+  "schemaVersion": 1,
+  "version": 1,
+  "files": {
+    "challenges/24_hodin_na_strome.png": {
+      "sha256": "d526bb3533146549ad42be9b4d37d34e2167cc9a6de94ea60899e20728bb44ce",
+      "size": 35689
+    },
+    "challenges/36_hodin_sluzby.png": {
+      "sha256": "ca60f21a577b22a882871bae5cd835e8305e7d39a2aef998197136a7367cc26a",
+      "size": 76023
+    },
+    "challenges/badges.json": {
+      "sha256": "9517e77a86ccc92860143d26aabc04f586bbdd74e775d98118d1ff6ceecccfbb",
+      "size": 31218
+    },
+    "challenges/betlehemske_svetlo.png": {
+      "sha256": "d42b7956125c2bc0d979e6cd109b4ccdfdfb4211b70be69cf6679ddb6ce9c24f",
+      "size": 29767
+    },
+    "challenges/biely_stit.png": {
+      "sha256": "ca30c51a66827b8f623ac7972cc92addad54af9f8507812eda66c0b8e172841e",
+      "size": 36242
+    },
+    "challenges/intertriatlon.png": {
+      "sha256": "7733a4c0c8e44a26ca95a49a167dad577681fbdfceda11979cba658bcf9ffc46",
+      "size": 47475
+    },
+    "challenges/klub_500.png": {
+      "sha256": "7e0d416ef452c8a5ae2f715870174027473f24a01c69cbfc039fe28c98bc62d0",
+      "size": 38119
+    },
+    "challenges/kniznica.png": {
+      "sha256": "fb89f9bf50acb00f6ee5e67a13c6833f57879568b30a9bcba6b9942089a214be",
+      "size": 30861
+    },
+    "challenges/kroky_mieru.png": {
+      "sha256": "6262d05ab306f33f31a0fc3e8640eb2c8687a21f08e174d362264f356afccd25",
+      "size": 23539
+    },
+    "challenges/krotitel_cukru.png": {
+      "sha256": "6400c1ae53522ebbb5ad0a46b5b66000f48d1a98b96c3ba87fc4eb1bfa824ae8",
+      "size": 45789
+    },
+    "challenges/krotitel_displejov.png": {
+      "sha256": "ae123b8e37411276e172b2b4458aa7e5f35934ffb259755b32e04c893bea3643",
+      "size": 45893
+    },
+    "challenges/kvapka_krvi.png": {
+      "sha256": "f425f814c59a4ad9a80a3904c8a2b26286b161923a1402979b47b712ceb201b8",
+      "size": 31944
+    },
+    "challenges/maly_ironman.png": {
+      "sha256": "a7963576145f31691fdb2eb5e1b1bd24ce859cbc4d20bea56817a3700bf436b7",
+      "size": 49445
+    },
+    "challenges/manemus.png": {
+      "sha256": "6aea27bc4820d4ca4e6d868e6f4ededf7d7308b297e6eedbc4fe8e9a742a7b3f",
+      "size": 61757
+    },
+    "challenges/modry_zivot.png": {
+      "sha256": "bddaf5ab051e80b251cc84f82f3edf1fe698c530300c67153bc586cea9030579",
+      "size": 32051
+    },
+    "challenges/putovanie.png": {
+      "sha256": "d11a1e5aa14645965a1e209e9a996fe6419bc9450acf2658e88387bd5f46f5ce",
+      "size": 40529
+    },
+    "challenges/roveri100.png": {
+      "sha256": "9d0a3d28c21e00b3d2a4c8ecb2a07d55bf8c295bc131d47852f60ff4dab0b2a3",
+      "size": 46955
+    },
+    "challenges/rytierske_stuzky.png": {
+      "sha256": "930d6c2a10c70df956da17df21ae940795ba32619897d70d0689ec6c020f5b45",
+      "size": 39070
+    },
+    "challenges/skolsky_prospech.png": {
+      "sha256": "2ad68f66cd5cbdb4ebf7dc185ddaa99403850d0c19161fe8f2d9d4fde2bea595",
+      "size": 47044
+    },
+    "challenges/storocnicova_vyzva.png": {
+      "sha256": "419aa088edde9497d70a2b7f6b6571073f645e51ab3d58dedd61f41407b35822",
+      "size": 38341
+    },
+    "challenges/tajomstvo_vianocnej_ponozky.png": {
+      "sha256": "b07f28b4b168c95c041cc8f947ff46dfe18bf5d93e0ce1e06c88119e0f2a40d9",
+      "size": 29031
+    },
+    "challenges/tri_orlie_pera.png": {
+      "sha256": "c74adab5308f415b38a731bb8420be7f58d7f7daba0c3a6500e7ffa63a650ab7",
+      "size": 38134
+    },
+    "challenges/tri_vrcholy.png": {
+      "sha256": "f231cc1fe7a0ebf8adf9cd8d397719afbc34302d0d707b385ead8d828e3cb3fa",
+      "size": 39834
+    },
+    "challenges/trident.png": {
+      "sha256": "ef65476fea04584183c84df5abb4a472430941e16ee042cdaa931d352871fa71",
+      "size": 40133
+    },
+    "challenges/uzol_dobreho_skutku.png": {
+      "sha256": "907cf602d4cd39e642f2a56016e0ac5e2669c54f461053681e8916f971f92631",
+      "size": 36060
+    },
+    "challenges/vlci_dych_a_gazelie_nohy.png": {
+      "sha256": "ea704bba84beef1d2cf556f3b83a484e821394d6bc94400a70e4b4b8c246db0a",
+      "size": 39640
+    },
+    "challenges/vysadok.png": {
+      "sha256": "eef5dd9565e88be6e378be0c8906d5b7d965f4470ff68bc4bd2163be36667c6d",
+      "size": 35910
+    },
+    "challenges/zeleny_zivot.png": {
+      "sha256": "54b12f32fecafacc3b5bcd69bcb52681bb286f4ff3c24f3ba85b1d1f0827eeb2",
+      "size": 79053
+    },
+    "challenges/zlaty_zivot.png": {
+      "sha256": "18668db613f0b0c099d706dd1f15a4c69cecffe7391a2ee76755f36f0b771d6f",
+      "size": 34764
+    },
+    "highest_awards/badges.json": {
+      "sha256": "738072c270c2f2936522f17bdd5ceacd2fc3d528155eb92b4bcbc7727668f065",
+      "size": 2857
+    },
+    "highest_awards/medvedi_skaut.png": {
+      "sha256": "e452bfc24cd94eeaaa23f2d8aee229f4c18d15b81693370be32de8385e39fd40",
+      "size": 45066
+    },
+    "highest_awards/orli_skaut.png": {
+      "sha256": "9b32fa9f5e6cae5ccb7c82a2ac2f7bbfc5fe9e9ce8a1717be4ac97fa201d5a71",
+      "size": 29211
+    },
+    "highest_awards/vlci_skaut.png": {
+      "sha256": "eb32cea52129805345d99a7f71fdfa22dd15232287288cdb282d7931048fec06",
+      "size": 45140
+    },
+    "merits/archeolog_green.png": {
+      "sha256": "e4fe5d8574a3e6a2ea3c8417f8a88632500e348beeafd20cae52bd8bc8b3294d",
+      "size": 34801
+    },
+    "merits/archeolog_red.png": {
+      "sha256": "5c17cbb08dd959cadf5ff70d9458660f55ad15505e4dd4d1957005d30d81e045",
+      "size": 34357
+    },
+    "merits/atlet_green.png": {
+      "sha256": "af6e3f91915099be35065480a7add07d3fe08ebfdb5c3d3bfa417208df68f1ed",
+      "size": 22566
+    },
+    "merits/atlet_red.png": {
+      "sha256": "598980b32a6b98d024351a1c3820ab2cbfd5f50d03c8305b4d80d09707e456f6",
+      "size": 22500
+    },
+    "merits/babysitter_green.png": {
+      "sha256": "fe54f7048650e8841bde12c7f002a9816310d0c4f535c8468034df298cab7166",
+      "size": 31240
+    },
+    "merits/babysitter_red.png": {
+      "sha256": "c03a6979a38c7be5e527d053db3daa12da4993f3692677f5afc629e0ee270bcb",
+      "size": 30785
+    },
+    "merits/badges.json": {
+      "sha256": "56634d60e916ad49ff008254ee2f45a05432f7e85f3b211f3f9a775911b501cb",
+      "size": 419817
+    },
+    "merits/basketbalista_green.png": {
+      "sha256": "ebe4f85c05d8c5639f4655ee817339823456099dd8f8a34d82040e6e4aed5763",
+      "size": 29739
+    },
+    "merits/basketbalista_red.png": {
+      "sha256": "46f80681c0014548eb9bd985b7de49ae031aeea2e26d1d332816bffb8165f091",
+      "size": 29456
+    },
+    "merits/bedmintonista_green.png": {
+      "sha256": "2553b027c8fe7d1b98afd59e1b1f38d4295d3e9ada21e4ece1af68d5a4eaf877",
+      "size": 24269
+    },
+    "merits/bedmintonista_red.png": {
+      "sha256": "ab4badc57cb9bcc5cf98d39b2d63758e7c2f119007d55f04cc534ddc650a7099",
+      "size": 23460
+    },
+    "merits/botanik_green.png": {
+      "sha256": "c39997aa3322a95e18fc374fc5ab9ac9b0b91a2c38adf1ae44b77ad2ddb4d87b",
+      "size": 31264
+    },
+    "merits/botanik_red.png": {
+      "sha256": "eab12a385c8daf41311c30bd601bd84b4cea6fc2a136510dfbe0b2129f63cbe6",
+      "size": 30925
+    },
+    "merits/bylinkar_green.png": {
+      "sha256": "90e9da25ea0d261fbbee66c975b706eee2690fa59e7bd32286318bfc958d3c72",
+      "size": 25675
+    },
+    "merits/bylinkar_red.png": {
+      "sha256": "fdb3eb8130101ed3e97fda01d687bed9a63ff8823f7a1c46f3519c3b80c06144",
+      "size": 25682
+    },
+    "merits/cajickar_red.png": {
+      "sha256": "445a4717c3b5ab01e78f3f50e9ccd2852bbb4795a2f1d8c7b9eba030b9ef498b",
+      "size": 18599
+    },
+    "merits/cestovatel_green.png": {
+      "sha256": "005bbb5a27d385d39e9b98f3837ec8a133a9f1626f9ac330cc3fb059689f8a2e",
+      "size": 17767
+    },
+    "merits/cestovatel_red.png": {
+      "sha256": "2db8d0db9257cef445008f53ef867ab935a13c4f2557facd54e47b9f10afa4a9",
+      "size": 17088
+    },
+    "merits/chatar_red.png": {
+      "sha256": "025caf484eaafbb1d4a7efbd2187ebedfa9ee84d64884e764ed732b8a0726c8a",
+      "size": 17297
+    },
+    "merits/chemik_green.png": {
+      "sha256": "0c2e1938e9c1fe299ece5542cfc63b9adf687bf69617dd2b446d991af82bbd8b",
+      "size": 19861
+    },
+    "merits/chemik_red.png": {
+      "sha256": "27a8a3f98203c4b5c08a73028a91c6ffa4155357899f584f8351432742aabe9c",
+      "size": 19619
+    },
+    "merits/chovatel_green.png": {
+      "sha256": "70b3a91b3a4a5a88b9cc4baa28b7abe36440ed1adc450f2b46b0af4fca12cdaf",
+      "size": 23523
+    },
+    "merits/chovatel_red.png": {
+      "sha256": "18e849a3c6f5328b75030e5cf7c8adab909af1a6a024276f5c4fe26833fda8af",
+      "size": 23118
+    },
+    "merits/citatel_green.png": {
+      "sha256": "661af1f255885522109a4d3931cfb14537e8852b2ac3f379044161318d362a3c",
+      "size": 27510
+    },
+    "merits/citatel_red.png": {
+      "sha256": "d0612feb83c93bc01659707873495336628919c3f09f823a14a17e7f417fe518",
+      "size": 27107
+    },
+    "merits/cukrar_green.png": {
+      "sha256": "aa7a3baa9ccc1e2d6720aa9199633fbe553683b7151ef97f618ae5161f2352bb",
+      "size": 21827
+    },
+    "merits/cukrar_red.png": {
+      "sha256": "6e6e8b1df71e5eb62718eabaf573f8dc796675b9f18b266c4eaeb28d9284a8bc",
+      "size": 22463
+    },
+    "merits/cyklista_green.png": {
+      "sha256": "99f84ddddf3828e593b34621a0a02b5d333d92bb3d1806ffdcfcbb82dc603c9d",
+      "size": 27128
+    },
+    "merits/cyklista_red.png": {
+      "sha256": "3691be1303103f5f393aac82cf1c2c103628da51cb7311b463dd79d3a0599c78",
+      "size": 26777
+    },
+    "merits/dobrovolnictvo_a_obcianstvo.png": {
+      "sha256": "7dbba54f18b24a98040627054783c6f84821885dd7680b4b96ca7904ed85a55f",
+      "size": 16721
+    },
+    "merits/ekonom_red.png": {
+      "sha256": "74c332bc1869fe394b5e1b1b93932f6dd44bcaa05f8c5dd4f92b863a76008ad1",
+      "size": 16723
+    },
+    "merits/filmar_green.png": {
+      "sha256": "b5a2f97c7d6071c8201ae34f3a619185dfda525a7340908c98515861aa268d43",
+      "size": 21130
+    },
+    "merits/filmar_red.png": {
+      "sha256": "1c4426f608497efbd519dab36c94c1492de63203a2bf2269c1cac002ccbbf761",
+      "size": 20899
+    },
+    "merits/florbalista_green.png": {
+      "sha256": "653566ebc47e40c9ef10054ac5b2ad558d843ff7ce77b2b8cc29cb09eeaf4d74",
+      "size": 26914
+    },
+    "merits/florbalista_red.png": {
+      "sha256": "b562a943e64b928827cc473505785da12ba6997b21beef21573841501d609546",
+      "size": 26524
+    },
+    "merits/folklorista_green.png": {
+      "sha256": "3aa9d84ece41408cbe0b6930e42387dc9cad7946857ee516e78eb44b2e133861",
+      "size": 39502
+    },
+    "merits/folklorista_red.png": {
+      "sha256": "35f5b2af66f2ad92453003f75a54aae87817b62341cd3d7fcdaed47dd4d55d43",
+      "size": 30751
+    },
+    "merits/fotograf_green.png": {
+      "sha256": "71b9b3f3bdc3ca6cbbf8a0344c17b993e9784b40164e6f82450d6acf700d0134",
+      "size": 25175
+    },
+    "merits/fotograf_red.png": {
+      "sha256": "97e113e9f9ff29a84d2561a7da0d0e0d509cc9984c8aaa600da0176723681311",
+      "size": 24574
+    },
+    "merits/futbalista_green.png": {
+      "sha256": "5e7706a77a37a6aeac97c3bb59ff7f4ce89a98c9752a6aaae702b356e843c82c",
+      "size": 27507
+    },
+    "merits/futbalista_red.png": {
+      "sha256": "a66c66ff3136913d0d7b3d8dd98a37df6268fae2dcfc62893e00f0c7931fc668",
+      "size": 26936
+    },
+    "merits/fyzik_green.png": {
+      "sha256": "5a02e7b57b9dd60ebc12e74780ea53f1a6a88e86945a44ef427ca21325b84696",
+      "size": 18280
+    },
+    "merits/fyzik_red.png": {
+      "sha256": "f1637f9751e361cdcb56b8f5e9778ff3d95106b961b476d1022b5bedea3e043a",
+      "size": 17590
+    },
+    "merits/gamer_green.png": {
+      "sha256": "62ee7a6df06332f206e4dee58da8b7df112455177f2b6cb08e1f6a483b996c64",
+      "size": 27268
+    },
+    "merits/gamer_red.png": {
+      "sha256": "c2311cb6f96396fc00cdd0964d936a11c77c74e0a4942f12c84194728f9071c0",
+      "size": 26873
+    },
+    "merits/genealog_green.png": {
+      "sha256": "abead11e5118bf606e88faf2c72a15f14e295f7d3ce06e80ef897441437bb840",
+      "size": 16165
+    },
+    "merits/genealog_red.png": {
+      "sha256": "cd414b5f05a276a54d689b3a71c8158c3815183afef3b4bf3987659895d49d8d",
+      "size": 16092
+    },
+    "merits/geocacher_green.png": {
+      "sha256": "a88a087e3ad20b295507763f4c6ec4f5479ead06b82442cfbd3500ba7128897f",
+      "size": 22038
+    },
+    "merits/geocacher_red.png": {
+      "sha256": "9926da3533a41e91fcc2e01f778167cadba4541be7d8f8f24cb588bb9aaa9118",
+      "size": 22282
+    },
+    "merits/geolog_green.png": {
+      "sha256": "6b84c0e07ecb18e8bf5abbb09733291666d5c5d065e1a12bd66d01ab23d10232",
+      "size": 19095
+    },
+    "merits/geolog_red.png": {
+      "sha256": "f12efaf7bead248042f31e1e37550d7945eabe14f5023be9e92ef87f7b94ef15",
+      "size": 19003
+    },
+    "merits/handmade_red.png": {
+      "sha256": "cd675818072f306e2ec935f927ffaa8920ae9242a409c4e988f3129bc15e186a",
+      "size": 25004
+    },
+    "merits/herec_green.png": {
+      "sha256": "88aa45cb63e0ba0c86ac32a95d115d2eecbbd272f6d81b28c1dda91fa3f54f3f",
+      "size": 21423
+    },
+    "merits/herec_red.png": {
+      "sha256": "c5922b34288875691f1c6bccc2124169f565d3613542452420cff747568cbcaa",
+      "size": 28722
+    },
+    "merits/herpetolog_green.png": {
+      "sha256": "db0374ab908c2feffec030bdf80d99a8d3c24099bcd309a92239261bdb4a15f3",
+      "size": 20499
+    },
+    "merits/herpetolog_red.png": {
+      "sha256": "e2fc83b81794b6cbaf292158ec6bec78069c429d351a8920376b5f4bccc2a19d",
+      "size": 20642
+    },
+    "merits/historik_green.png": {
+      "sha256": "844393254e993c7625fbfdc760dcd02fe8ad700086b8df73166dc08da702e4d3",
+      "size": 22026
+    },
+    "merits/historik_red.png": {
+      "sha256": "ada2d07bd829a4b3c8be9651d5c76d8f9dcc468a6a25845d7b0bb95e089aed5a",
+      "size": 21937
+    },
+    "merits/hokejista_green.png": {
+      "sha256": "e261b9fe7a5449d814bbe3b89b54d150bb841ae6dfdb03ce8a6201d25302f161",
+      "size": 24677
+    },
+    "merits/hokejista_red.png": {
+      "sha256": "41c17b35a4f8da055bd9ae2cc98dd1e3c3743b7b136dc3003280740b11c8a109",
+      "size": 23889
+    },
+    "merits/hrac_spolocenskych_hier_green.png": {
+      "sha256": "bdeec72d5dbcae5b89e622c286743b436f5c15bf4ddf5b7dbef263b4fd04990e",
+      "size": 17222
+    },
+    "merits/hrac_spolocenskych_hier_red.png": {
+      "sha256": "1afe241e0843bd020140fe84c7f1c6e529fefe90ed5044a3d41391849ad78b96",
+      "size": 17079
+    },
+    "merits/hubar_green.png": {
+      "sha256": "5594bca3f81ce0cee7fc52b3f27a8729b48b820441a4652fa0886257c8f47b06",
+      "size": 20658
+    },
+    "merits/hubar_red.png": {
+      "sha256": "a3f3472d436b200aca53162e5d04bfa4318e3d33e5b90e7161cc28e122fb0b7a",
+      "size": 20467
+    },
+    "merits/hudobnik_green.png": {
+      "sha256": "14dd926ef264dd2447b0529ad63774bc22f0974619d4a7f3d0808cf5361cd598",
+      "size": 17456
+    },
+    "merits/hudobnik_red.png": {
+      "sha256": "62b5817c68ecb89866a5fd0995f8a8674ef94897333dbea03da7648bd4ddcd96",
+      "size": 17364
+    },
+    "merits/hvezdar_green.png": {
+      "sha256": "317573a44aba5b78b0af8a22a0fa1376efd7122a31c31a87efba93e7ac5e9967",
+      "size": 21636
+    },
+    "merits/hvezdar_red.png": {
+      "sha256": "72a0e1624702f10665621051f32d97e99b81cabb6ac9cbe52958f0be4d0dadb7",
+      "size": 21284
+    },
+    "merits/hygienik_green.png": {
+      "sha256": "6d50b4e89cd28f576fc0b40b8a19066a997c294b8a69e7743909d54aaa19319a",
+      "size": 19788
+    },
+    "merits/hygienik_red.png": {
+      "sha256": "123d22ddcb945f1759cded3e5d6557e5f8adb5e5814c178282111ddf9e784f53",
+      "size": 19558
+    },
+    "merits/informatik_green.png": {
+      "sha256": "d53fdfc2c8d8c4be02616ff3dd1b9689658b2047a7c8ec348a85d8ea3646ba0d",
+      "size": 20051
+    },
+    "merits/informatik_red.png": {
+      "sha256": "bab386e0661211e6cb0aff7a34bfd4862aeef931f91a3953dbc2fe7cdf4f7a8d",
+      "size": 19007
+    },
+    "merits/jazdec_green.png": {
+      "sha256": "11b73c58485e3e621dec02598a3df6966c619cd238ee141dea69eb69670da60b",
+      "size": 21767
+    },
+    "merits/jazdec_red.png": {
+      "sha256": "cc7d412c535c433d37762228e3d1ef056785b26dc8f1fc8adc172086a02bd8a8",
+      "size": 21436
+    },
+    "merits/kavickar_red.png": {
+      "sha256": "1fc2d97c7a028cfe1a0ed498df10bd989d11115d0efacf2fb1be22b63cb8880c",
+      "size": 19068
+    },
+    "merits/kolednik_green.png": {
+      "sha256": "8837bdf0b5fbdcdf9e38c63b7ca40061670498639b4018ce2c722ffce079e835",
+      "size": 21425
+    },
+    "merits/korculiar_green.png": {
+      "sha256": "0284d15e2087953dd7b8744354d3a311145289b5610e5056f9df31def97452ef",
+      "size": 20188
+    },
+    "merits/korculiar_red.png": {
+      "sha256": "6f3402a47e05db8e1b4452be3105264fa2ef5bb9cf0539c72eb329d3b7f49c0d",
+      "size": 20285
+    },
+    "merits/kronikar_green.png": {
+      "sha256": "b7decda92cecbef776474c513fa777ed7c08ee8803e1101952728c377b81482c",
+      "size": 19510
+    },
+    "merits/kuchar_green.png": {
+      "sha256": "4fd47b2400a67cd58cfa666bad86539a8a98bc57e5ca421e955ee5edf876c309",
+      "size": 22395
+    },
+    "merits/kuchar_red.png": {
+      "sha256": "c06770a201e858bf3a635b792021cbd3a9e06267da843d7bd76f2faace98a42e",
+      "size": 22200
+    },
+    "merits/kultura_green.png": {
+      "sha256": "06465a5c192e05f7e88f1628e9a515d3f849ca4b965dc709b98583d366d36e02",
+      "size": 13860
+    },
+    "merits/kultura_red.png": {
+      "sha256": "59c810f8ea38cf38b139d3e7076ed7b781565c82ead34d8ec71ceb6838cac051",
+      "size": 13851
+    },
+    "merits/kutil_green.png": {
+      "sha256": "e62a3ba2e4cb79e0d744400fb4705d4cd41c9ea045a9a3cf732057e1676f6651",
+      "size": 15703
+    },
+    "merits/kutil_red.png": {
+      "sha256": "61b3e9b2f480c3724faf4ff34ae31b6d59c9af78eca8c0d7a42f72e28673977b",
+      "size": 15824
+    },
+    "merits/ladovy_medved_red.png": {
+      "sha256": "2d1516b28653a0016d9c00691c17a2e5520f09add756063144ea965efd78f766",
+      "size": 22698
+    },
+    "merits/lesnik_green.png": {
+      "sha256": "acd887c42a6e2cf1518c88fa2ae93b5f387947d90ad556ce31a9aa76b267d1b5",
+      "size": 24248
+    },
+    "merits/lesnik_red.png": {
+      "sha256": "985a8a8ccb41fd656722a48accc6ece4a862cfe885cfd6372705c2a40ba1f0df",
+      "size": 23719
+    },
+    "merits/lezec_green.png": {
+      "sha256": "955f01e1197f0beadcbee3c2588f473a063c5ae4651ad4cc19ffce481529ff63",
+      "size": 26757
+    },
+    "merits/lezec_red.png": {
+      "sha256": "bdcfc5b59ab3ed9391fffffb9d50df327ec8f6137732960b637509305e0b6a6e",
+      "size": 26487
+    },
+    "merits/lukostrelec_green.png": {
+      "sha256": "dfd7be17046ae06d93d37678a07c1a264175aa8b0e5cd7cf2b6d602ab6364228",
+      "size": 18938
+    },
+    "merits/lukostrelec_red.png": {
+      "sha256": "e4c2f1b9f886fb833d4083c73d61a5a6e9deac1e0676d8a381005b886ca3cc4d",
+      "size": 18957
+    },
+    "merits/lyziar_green.png": {
+      "sha256": "8c92f99f9e1e953c55ef3488f9bfed414cdcdbfed50bd73f00829974700c227a",
+      "size": 21070
+    },
+    "merits/lyziar_red.png": {
+      "sha256": "51d5ca2326d1807bd604faa47c1708bb5af9cee1fb3c29f0342e89a3bb8e40b8",
+      "size": 21036
+    },
+    "merits/matematik_green.png": {
+      "sha256": "3d6c372205321c779c754aadcce310b380a494221fb86f68182773349345002b",
+      "size": 17413
+    },
+    "merits/matematik_red.png": {
+      "sha256": "e98111717c88b70f9ded0fd89d15009c896b6f1fd165c841e9af13f7b4d4def5",
+      "size": 21067
+    },
+    "merits/mentor_red.png": {
+      "sha256": "f454280a1a4339f67d7e817cd0164db121db1d0f0c71eee140f6760c556db317",
+      "size": 21652
+    },
+    "merits/meteorolog_green.png": {
+      "sha256": "060cdf4e5013e379a899b2e282f2f7dfc3c2585895b0afc7a7c41d8ef1cc3956",
+      "size": 18626
+    },
+    "merits/meteorolog_red.png": {
+      "sha256": "a2ae58430ae57168eee8ebe10cc4af5f2bebe466407e32a7e4d35eef7a394114",
+      "size": 18598
+    },
+    "merits/ministrant_green.png": {
+      "sha256": "306d0db05b8bccc48c77bd0b1d29bf61b2e42941bba181b7da7dd9d13ce7419f",
+      "size": 18757
+    },
+    "merits/ministrant_red.png": {
+      "sha256": "05cd0e0f42b7b262c8826bd6e8c8aedee5bd66561ab21b5c821cf37639b9dce3",
+      "size": 18683
+    },
+    "merits/modelar_green.png": {
+      "sha256": "e0fe99784f346aa3c6f2a05107f5ef8f29c318e6956d29c7f44cfb3e154a5863",
+      "size": 25395
+    },
+    "merits/modelar_red.png": {
+      "sha256": "2cd679309726621a7cd3dd77ca0ce26bdd11fc0d15289cb32fdf240a166a48de",
+      "size": 25451
+    },
+    "merits/novinar_green.png": {
+      "sha256": "5f1d3d261643d15437fea7fb21057547d553e634270eac841a9393a33be590e7",
+      "size": 29271
+    },
+    "merits/novinar_red.png": {
+      "sha256": "9f5a9f1386988226997356bad676fed47742657b2b4b3a6a19638c189d2b2c4d",
+      "size": 29174
+    },
+    "merits/obcan_europskej_unie_green.png": {
+      "sha256": "b3dd2888909931a28f1c079e62200cb51c918c4c78a990112f5262804cf24b9e",
+      "size": 67280
+    },
+    "merits/obcan_europskej_unie_red.png": {
+      "sha256": "6f887ed3854e2320aeb533351e2cad31a494eff6ca29d521151a0a1ca7c9928d",
+      "size": 68300
+    },
+    "merits/obcan_green.png": {
+      "sha256": "1b4fe55030e62cc73b3f4454e698f86871df32211a11dbc4fa57510a339767b8",
+      "size": 21966
+    },
+    "merits/obcan_red.png": {
+      "sha256": "f31aeaea5968a8792181d70d91911a4f226c2d61a94d09e25b0888cef828fb64",
+      "size": 21956
+    },
+    "merits/ochranca_prirody_green.png": {
+      "sha256": "9cc956126d38f24859526443aafb1ef24c0cdddbd4e975264aaeeeeae3e4c57d",
+      "size": 22630
+    },
+    "merits/oddielovy_hospodar_red.png": {
+      "sha256": "8b3c31894ba191017a21d4867e86bab7791ba550b2c42f295fb9eee051b40234",
+      "size": 25555
+    },
+    "merits/oddielovy_tajomnik_red.png": {
+      "sha256": "ecb14e0d0289ead8a504d942aef48734e75460467e5ec4db884c8c2482c10070",
+      "size": 26258
+    },
+    "merits/organizator_hier_green.png": {
+      "sha256": "a2b16f6fc6eccccb71fa9eb179679dfcb8205adab18099d86749992337e2e6a2",
+      "size": 22093
+    },
+    "merits/organizator_hier_red.png": {
+      "sha256": "da66e61f2ccd4dcfe66439081ab7c27834d69ad437d450510d2f923b0759e120",
+      "size": 21350
+    },
+    "merits/orientacia_green.png": {
+      "sha256": "a0a7121b1cff670cf361e9a8f0cf20bb27a71f93964e7e35053e67c544828dbd",
+      "size": 24323
+    },
+    "merits/orientacia_red.png": {
+      "sha256": "2f051a81f75f5b65053e5e405d7f06561599d825576500a7144a519fefd7b826",
+      "size": 24042
+    },
+    "merits/ornitolog_green.png": {
+      "sha256": "bc8c6d64907303252b4cdff18f292b15875212998f3951007ff176e1db64038d",
+      "size": 21935
+    },
+    "merits/ornitolog_red.png": {
+      "sha256": "7ed44feb1c8ec6a81a8c7898bff64b2cc6b02b3ce09a4c42f93587126d78025e",
+      "size": 22080
+    },
+    "merits/plavec_green.png": {
+      "sha256": "2f67f09f0eabbe2c2a4226b0af927de401790dd5d8288f3a4437f2b2c618183e",
+      "size": 19492
+    },
+    "merits/plavec_red.png": {
+      "sha256": "f6a63513484a02e97d9c42ae93024e0d15ef69da04ea3bec12f2c059d0a28aa0",
+      "size": 19507
+    },
+    "merits/praca_s_drevom_green.png": {
+      "sha256": "d19307781ab743776dad74d6ac987eefa141a304f92338950ef1f88a67e859c1",
+      "size": 25624
+    },
+    "merits/praca_s_drevom_red.png": {
+      "sha256": "98d683028d7e3caf401bcf0e8c339ed459360d3a6c2fa56d6216f8cbbef398c7",
+      "size": 25340
+    },
+    "merits/pravnik_green.png": {
+      "sha256": "a9c22b77b672596b275d2275e388b60be0bee00cd43abc48abbf348967f9e045",
+      "size": 24845
+    },
+    "merits/pravnik_red.png": {
+      "sha256": "ed3b2f01fda242cf345f8ce5ac52f9b45b2bcf71033529b80c2c865381ffae03",
+      "size": 24296
+    },
+    "merits/priroda.png": {
+      "sha256": "56f49f1ed5093347e8f5a587f9f9cc665300023f6075e9c34f97f7e50809b619",
+      "size": 19301
+    },
+    "merits/prva_pomoc_green.png": {
+      "sha256": "bfe2b8df98d1cfaf6a370191aeb158a7562806827544ca35f594dcbc8571689b",
+      "size": 11997
+    },
+    "merits/prva_pomoc_red.png": {
+      "sha256": "7740419c61f473c70f0f0ef406510ecfde28167b3e56fb20ed55d1a6e2dee51d",
+      "size": 11723
+    },
+    "merits/putnik_green.png": {
+      "sha256": "1715ead4927636216723a8c70b2ec3bf737a7785ae6c6b4e519660564e1afedf",
+      "size": 21103
+    },
+    "merits/putnik_red.png": {
+      "sha256": "f33e8d6ff18795bfad72c058abd02b20385260d333a70826f54735521ccbc0a3",
+      "size": 20670
+    },
+    "merits/rozpravkar_green.png": {
+      "sha256": "2f6762354f0239478f2d145ca38cfe273e4877bb239ccf81c1a9ebffb1ee0ca8",
+      "size": 21235
+    },
+    "merits/rozpravkar_red.png": {
+      "sha256": "86e55a23b34bdecd75297cdf509970e1bbdf83ad85f6df09dd092164b2af335e",
+      "size": 21004
+    },
+    "merits/rucne_prace_green.png": {
+      "sha256": "3a7764461261ceb84f1abe9daa48b82447e05cde01d73e8d1810cca6987d2124",
+      "size": 23964
+    },
+    "merits/rucne_prace_red.png": {
+      "sha256": "fd2b260dd533d4030aff845efe2a34ecafacbd1c21de526fb62593e982cb94e3",
+      "size": 23501
+    },
+    "merits/rybar_green.png": {
+      "sha256": "4f84bb268bbc3ba7c2352b58ce65aabe889e8b4cdc52ee55584534723720ca4b",
+      "size": 18332
+    },
+    "merits/rybar_red.png": {
+      "sha256": "c4bc6bf9a0c53cd8a9c8e07adc1aebaf66a1c483d37c77db21ce2dc2954284f8",
+      "size": 18245
+    },
+    "merits/silove_sporty_green.png": {
+      "sha256": "23e3e8a1798ab016a95813e5fe6683e2cac1dada622a501e0a1b72585db36a0e",
+      "size": 28288
+    },
+    "merits/silove_sporty_red.png": {
+      "sha256": "10c94d9882a7f4417896decbdbcdef4f05375b4853b5e88c04bbd7a835f7dc60",
+      "size": 27811
+    },
+    "merits/skautska_historia_green.png": {
+      "sha256": "d0d74685a70c1204b9fbd8e4a7127d27ebf85f96f6d8f2166c5ce2790bc918cd",
+      "size": 25694
+    },
+    "merits/skautska_historia_red.png": {
+      "sha256": "3bfa1290d939a4b91814799ef0310f857708109a32318ea424e739c361a48fc1",
+      "size": 26371
+    },
+    "merits/skialpinista_green.png": {
+      "sha256": "c2fc6b9bfb7c5b7b39c6a23ed53de44fc33ad57ff534572b5d998514bb68f0d6",
+      "size": 18698
+    },
+    "merits/skialpinista_red.png": {
+      "sha256": "7e659f281d71abfa6cb50633c36b8d540f33961ffb47d2590cc402180828ecdd",
+      "size": 18555
+    },
+    "merits/slovencinar_green.png": {
+      "sha256": "cfbc4915229600c2506f476c50bf8ca3a93b522b055b528421817b18cbfcf247",
+      "size": 24159
+    },
+    "merits/slovencinar_red.png": {
+      "sha256": "7207f6e07bd7a427b6dda708735ab9302c04eec45ae59009f44f7e7dbdd50217",
+      "size": 23871
+    },
+    "merits/smartfonista_green.png": {
+      "sha256": "af5f29b7637952c8e91cc22a68811f582b5ecbf96782b304b5153f76b9087ce2",
+      "size": 16032
+    },
+    "merits/smartfonista_red.png": {
+      "sha256": "1a91d2e556757de10a9426a58f2c4a55443b56f44fa464dc89bf0ed821866574",
+      "size": 15790
+    },
+    "merits/socialne_siete_green.png": {
+      "sha256": "ea409418ee5d9d2c9c55307310b7869cc8ac34fbfb0bf8a098deb53fe8a75a0c",
+      "size": 25613
+    },
+    "merits/socialne_siete_red.png": {
+      "sha256": "fea21c5a50e9e8c0e3dce24b20956b728f84b67d3febb113a14fb9825dff2b58",
+      "size": 27208
+    },
+    "merits/speleolog_green.png": {
+      "sha256": "ce74d78b14be540191c684301d5bc9c5aa9aac1b8ccde9ebf1a42d08bd28c79f",
+      "size": 27182
+    },
+    "merits/speleolog_red.png": {
+      "sha256": "1bc4f58e1ba837865fcdce368d3dc0c19a5a8cf61183e9bac5f8ed7d5bc84478",
+      "size": 27149
+    },
+    "merits/spevak_green.png": {
+      "sha256": "430882d661ff03e24ca77f002faf7f9c43bf04eaa6555b88ccc47e0c3fcee247",
+      "size": 20232
+    },
+    "merits/spevak_red.png": {
+      "sha256": "b8665f1b2de3d542b49f1d6ba891a031051e681b8223ee1f70bd44614fde913d",
+      "size": 20252
+    },
+    "merits/spisovatel_green.png": {
+      "sha256": "fe8e6ade14dd011f6fb3f4e12707ce3df081ea58009ebf8f27061ae79c23a000",
+      "size": 20555
+    },
+    "merits/spisovatel_red.png": {
+      "sha256": "822c62290adb7fe83d5b9f5d9b414e6aa0d1d5336ec6444f07d28434c7e81606",
+      "size": 20651
+    },
+    "merits/sport.png": {
+      "sha256": "7ddc28e7a6d41d0c96c366df906d11328890e5ebb188cb8614f78fc48cec7d62",
+      "size": 15795
+    },
+    "merits/sportovec_green.png": {
+      "sha256": "60f74cb82e7dc0a62c3721e76c1574853478884dee958655e5d6023b9daffe9b",
+      "size": 26933
+    },
+    "merits/sportovec_red.png": {
+      "sha256": "d378f00fc82a0d10d0721018eac52bd98fc52cabc761ef6543403c7dcdc0abfd",
+      "size": 26701
+    },
+    "merits/sprievodca_green.png": {
+      "sha256": "b5dc6c224d46be60ea90072e5d65374666a77b0ebbd005d19d9be20c62dca394",
+      "size": 13694
+    },
+    "merits/sprievodca_red.png": {
+      "sha256": "3a97d7c4b9f399b92cf904342dcbc5780fb282195c4b319af7ebea4207e807a8",
+      "size": 13325
+    },
+    "merits/stolnotenista_green.png": {
+      "sha256": "031366637e3ee0bc5e79f0571d85466a6662149ef1216e6767e93a1913c882aa",
+      "size": 25174
+    },
+    "merits/stolnotenista_red.png": {
+      "sha256": "c4e40f4dae44032917bb6c80cf640394cbaa262c06e4df5a51e7c7ef2f1bd828",
+      "size": 24670
+    },
+    "merits/stopar_green.png": {
+      "sha256": "b78ec716211fc04393c17279fb2f756f6304643b28bde38e2c8861150c696e7e",
+      "size": 19000
+    },
+    "merits/stopar_red.png": {
+      "sha256": "e24f6d09ec6e05b30bf6c703a0ea942336ce362a0e4e60d44433d6e3e28c3aa1",
+      "size": 18804
+    },
+    "merits/svetove_priatelstvo_green.png": {
+      "sha256": "88d41f0c224a09c5bb5f863a5b8ef3dc53a5260b9dcb2442fe3ba70f876a810a",
+      "size": 25102
+    },
+    "merits/tabornik_green.png": {
+      "sha256": "37e3ebc6dbf3d47fd545599d39d823ef2c2c207eead05e85ef3016c4bd819986",
+      "size": 22923
+    },
+    "merits/tabornik_red.png": {
+      "sha256": "ba1bdd0730fb4d98ce4f55b69ae98e5b7162e66c95b75c2cb4ac7e63feb26966",
+      "size": 22624
+    },
+    "merits/tanecnik_spolocenskych_tancov_green.png": {
+      "sha256": "6c8f4aea0bd4e78b6e89f0c18d9738b4230d42b9263531caf1b0f313be6f887b",
+      "size": 21501
+    },
+    "merits/tanecnik_spolocenskych_tancov_red.png": {
+      "sha256": "5adb0576211f164286fa55691e42cbaf7faa2885b38e46e0799257bd99884eaa",
+      "size": 21362
+    },
+    "merits/tlmocnik_a_prekladatel_green.png": {
+      "sha256": "49c4fbda492c9b3ee936951b9a83d1365bf3f232ac551b42f25cff55486bfec6",
+      "size": 17195
+    },
+    "merits/tlmocnik_a_prekladatel_red.png": {
+      "sha256": "fa0e794680b1274f0d2a74c37bc7dbc0ab2ca00c1881b38d0a462217e86cc7f2",
+      "size": 16937
+    },
+    "merits/turista_green.png": {
+      "sha256": "40047270d03c768c446c2aed3006a1ad20ca705e9d82372da6713d1ebffc3ceb",
+      "size": 19783
+    },
+    "merits/turista_red.png": {
+      "sha256": "e9ea976441b02414ab33f4f89701ebe9d7794bb5c80668e3350423d77ea0e6ea",
+      "size": 19608
+    },
+    "merits/ultimate_frisbee_green.png": {
+      "sha256": "fbbba1f9b32d3f938aa0db4ce250eed6be9933459b54964a9689e0d7f55f9a50",
+      "size": 26066
+    },
+    "merits/ultimate_frisbee_red.png": {
+      "sha256": "54d971e2892a1f6a75f3a693d78882baf9feb0fddf75a6bb4d8d04a720908ea8",
+      "size": 25345
+    },
+    "merits/umenie_a_kultura.png": {
+      "sha256": "d119fdb45d2a48f9ce85326d8305c33ed91304ae8026a4e925acc9b2b99513e5",
+      "size": 18119
+    },
+    "merits/vcelar_red.png": {
+      "sha256": "801d23cafb6565e3cee19f2ae875a1da7c420c07fb06f7686f2a970bfa640c0f",
+      "size": 26145
+    },
+    "merits/viazanie_green.png": {
+      "sha256": "6bbc7d47c9d1f9a296aa0b96cf2c9d29305c114f9d70a10d8c552127d3452bf5",
+      "size": 30873
+    },
+    "merits/viazanie_red.png": {
+      "sha256": "c2710a75771daf3fe1315691ccc513a876a4842b8ae52b933c729ca5e83d1bc6",
+      "size": 30564
+    },
+    "merits/vodic_red.png": {
+      "sha256": "60cdbe682bdb78c47a760536bd45077b443204c6d4c419b8f3b918411f4ab4fd",
+      "size": 21582
+    },
+    "merits/vodna_turistika_green.png": {
+      "sha256": "d34d1a95d853e0cb4ddeb6bfa5d0fa552854e6b7573158db16311422ab4af7c9",
+      "size": 22583
+    },
+    "merits/vodna_turistika_red.png": {
+      "sha256": "b1ff31e1e956c328022e71273e040d2019b52cf55753fcb31c225daf9dfc72e9",
+      "size": 22595
+    },
+    "merits/volejbalista_green.png": {
+      "sha256": "b2912c2a7611d90cc7b8e73061df4ed3cccd68113dd946c1edb26f27baf46467",
+      "size": 32602
+    },
+    "merits/volejbalista_red.png": {
+      "sha256": "74b28ef7181c58bf59368491ca31256919b35c1c430787ab0bc053000cacfb2e",
+      "size": 31642
+    },
+    "merits/vytvarnik_green.png": {
+      "sha256": "185569ae92d7768d4f95751eaf8e8318f483e85d04899670b0bb368c88f1fcc2",
+      "size": 24048
+    },
+    "merits/vytvarnik_red.png": {
+      "sha256": "7ab58d26fbe8497f06a492a435e5d79476dfbabba951ff143f6841578ab392e2",
+      "size": 24034
+    },
+    "merits/zahradkar_green.png": {
+      "sha256": "5e51975eac7b7331e66adabf6b04d1ea7c7861d3bbd34a50c2b506d380ebfdbd",
+      "size": 17733
+    },
+    "merits/zahradkar_red.png": {
+      "sha256": "87bf7eb05f3c4f192b2af2b8a8cffb7a1df383bdb741925fc10828b4012e01cb",
+      "size": 17713
+    },
+    "merits/zahranicny_skauting_green.png": {
+      "sha256": "5bd1767942a1f766cd3839b3789dc3848c6b85504fedb32043bf15027f7e0971",
+      "size": 38373
+    },
+    "merits/zahranicny_skauting_red.png": {
+      "sha256": "6d0f83e75b9ae5a5e3e9ba72fc0c60b53620db81207f08983d52efdbfcedb504",
+      "size": 37774
+    },
+    "merits/zalesak_green.png": {
+      "sha256": "3c8eb6f251b60217e0eac9739a9e7ffd7e6fed702bcd3ae79dfcedc1371a4a71",
+      "size": 20511
+    },
+    "merits/zalesak_red.png": {
+      "sha256": "cd4dd11524e0830fbe3a23f14ffd59e06e7a5ec93e37bbd689816a58a2eebbea",
+      "size": 20192
+    },
+    "merits/zberatel_green.png": {
+      "sha256": "b345c41a4c1e3b492820311498ba9215b9f70c2bab847252b5a97478bd684d96",
+      "size": 26220
+    },
+    "merits/znalec_nabozenstiev_green.png": {
+      "sha256": "be3776d611e438308f5803ede409c2e0e5aa4eb68b099ce61134d00f57200b05",
+      "size": 16114
+    },
+    "merits/znalec_nabozenstiev_red.png": {
+      "sha256": "f78559b95c9b0136e8ba6bbe9ed335753ff48e98c751faf436df10f7fd492a0e",
+      "size": 16058
+    },
+    "merits/znalec_skautskej_legislativy_red.png": {
+      "sha256": "5fe2b11b6ee76f6cb9977bf9c307c2cca69f1a3d9a7cf18af7e3f66a5a007174",
+      "size": 20051
+    },
+    "merits/zoolog_green.png": {
+      "sha256": "43484e89537f9db7aac318f8d8be24f677e5b76706d011d6bb275ce10d9d1680",
+      "size": 30596
+    },
+    "merits/zoolog_red.png": {
+      "sha256": "61fdcfbd4a78d22f79f071f2368bc64bbf139dff226c59e14962bb7205f25add",
+      "size": 30772
+    },
+    "merits/zrucnosti.png": {
+      "sha256": "b4d7375de930997821701587c9102923eac2db2d2614b5422fe8b0654e22b616",
+      "size": 19021
+    },
+    "path/rangersky_horizont.json": {
+      "sha256": "4f5b0553d031f422135b7d93f0c52c15ee2b1b62637fbf5cc04993671f1ec013",
+      "size": 30504
+    },
+    "path/skauting-program-skautsky-chodnik-nasivka-nezname-cesty-173x200.png": {
+      "sha256": "cba202bf36183bc0697a03a76f67e75b461901a5f6880eca878ffb2dc36c97e1",
+      "size": 26372
+    },
+    "path/skauting-program-skautsky-chodnik-nasivka-posledny-vrchol-173x200.png": {
+      "sha256": "532aefc5d076df7bdce1a4a63e5a329a8b71daca05e4060658617ecef9ad3f02",
+      "size": 20862
+    },
+    "path/skauting-program-skautsky-chodnik-nasivka-prvy-skaut-173x200.png": {
+      "sha256": "1edbc9e7b409961c6ee4fe2a268184e3ff3f7d788d7b595a024e4aa42ef19d93",
+      "size": 21425
+    },
+    "path/skautsky_chodnik.json": {
+      "sha256": "2afe8146524269aa2bdda6b3ddfac42ba39a62584bed25b7ec75310c1cf1d9ee",
+      "size": 149553
+    }
+  }
+}

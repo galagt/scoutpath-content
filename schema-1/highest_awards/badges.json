@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Orlí skaut",
+    "age": "scouts",
+    "levels": [
+      {
+        "name": "",
+        "image": "orli_skaut.png",
+        "tasks": [
+          {
+            "description": "Skauti a skautky musia do svojich 20. narodenín splniť nasledujúce podmienky:",
+            "id": "NPO134-LEV1-TAS1"
+          },
+          {
+            "description": "zložená nováčikovská skúška,",
+            "id": "NPO134-LEV1-TAS2"
+          },
+          {
+            "description": "zložený skautský sľub,",
+            "id": "NPO134-LEV1-TAS3"
+          },
+          {
+            "description": "úspešné ukončenie skautských stupňov napredovania – Skautský chodník,",
+            "id": "NPO134-LEV1-TAS4"
+          },
+          {
+            "description": "úspešné ukončenie rangerských stupňov napredovania – Rangerský horizont,",
+            "id": "NPO134-LEV1-TAS5"
+          },
+          {
+            "description": "získanie 5 odboriek: Občan, Táborník, Kultúra, Prvá pomoc a Ochranca prírody,",
+            "id": "NPO134-LEV1-TAS6"
+          },
+          {
+            "description": "získanie výzvy Rytierske stužky,",
+            "id": "NPO134-LEV1-TAS7"
+          },
+          {
+            "description": "získanie 4. stupňa ocenenia 7 ľalií,",
+            "id": "NPO134-LEV1-TAS8"
+          },
+          {
+            "description": "predloženie Odporúčania vodcu.",
+            "id": "NPO134-LEV1-TAS9"
+          }
+        ],
+        "id": "NPO134-LEV1"
+      }
+    ],
+    "id": "NPO134"
+  },
+  {
+    "name": "Medvedí skaut",
+    "age": "scouts",
+    "levels": [
+      {
+        "name": "",
+        "image": "medvedi_skaut.png",
+        "tasks": [
+          {
+            "description": "Skauti a skautky musia do svojich 16. narodenín splniť nasledujúce podmienky:",
+            "id": "NPO135-LEV1-TAS1"
+          },
+          {
+            "description": "zložená nováčikovská skúška,",
+            "id": "NPO135-LEV1-TAS2"
+          },
+          {
+            "description": "zložený skautský sľub,",
+            "id": "NPO135-LEV1-TAS3"
+          },
+          {
+            "description": "úspešné ukončenie skautských stupňov napredovania – Skautský chodník,",
+            "id": "NPO135-LEV1-TAS4"
+          },
+          {
+            "description": "získanie 3 odboriek zeleného stupňa: Prvá pomoc, Táborník + jedna voliteľná odborka,",
+            "id": "NPO135-LEV1-TAS5"
+          },
+          {
+            "description": "získanie 2 výziev: Modrý život + jedna voliteľná výzva,",
+            "id": "NPO135-LEV1-TAS6"
+          },
+          {
+            "description": "získanie 2. stupňa ocenenia 7 ľalií.",
+            "id": "NPO135-LEV1-TAS7"
+          }
+        ],
+        "id": "NPO135-LEV1"
+      }
+    ],
+    "id": "NPO135"
+  }
+]
