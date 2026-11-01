@@ -30,9 +30,11 @@ are relative to the badge file's folder, exactly as in the app.
    app checks (types, unique badge and task ids, every image present) and
    raises the version by one.
 3. Commit both, open a PR (CI validates it), merge to `main`.
-4. CI writes `content.1 = {version, commit}` to `config/app` in Firestore.
-   Apps download the pack from this commit in the background and use it on
-   their next start.
+4. CI writes `content.1 = {version}` to `config/app` in Firestore. Apps
+   download the latest `schema-1/` from `main` in the background and use it
+   on their next start. (Without CI, set that number in the Firebase console
+   yourself.) GitHub may serve the old files for a few minutes after a push;
+   the app notices and tries again later.
 
 ## Rules
 

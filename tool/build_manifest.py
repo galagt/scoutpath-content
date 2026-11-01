@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """Validate a content folder and write or check its manifest.json.
 
-The ScoutPath app downloads `schema-<n>/` at the commit Firestore names and
-checks every file against `schema-<n>/manifest.json`, so the manifest must
+The ScoutPath app downloads the latest `schema-<n>/` from main and checks every file against `schema-<n>/manifest.json`, so the manifest must
 match the files exactly. The checks below mirror validateContent() in the
 app (lib/services/content/program_content.dart): a pack the app would reject
 fails here first.

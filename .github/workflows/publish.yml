@@ -1,9 +1,9 @@
 # Checks every content change, and on main announces the new version to the
-# app through Firestore (config/app -> content.<schema> = {version, commit}).
+# app through Firestore (config/app -> content.<schema> = {version}).
 #
-# The app downloads schema-<n>/ at exactly the commit written here, so a
-# version is live as soon as this job finishes, and the files behind it never
-# change afterwards.
+# Apps then download the latest schema-<n>/ from main. GitHub can serve the
+# old files for a few minutes after a push; the app notices (the manifest
+# version or file hashes do not match yet) and simply tries again later.
 #
 # Needs the FIREBASE_SERVICE_ACCOUNT_JSON secret in the "firebase" environment:
 # a service account key for project scoutpath-759d7 with the
@@ -64,11 +64,10 @@ jobs:
       - name: Update config/app
         env:
           ACCESS_TOKEN: ${{ steps.auth.outputs.access_token }}
-          COMMIT: ${{ github.sha }}
         run: |
           for manifest in schema-*/manifest.json; do
             schema=$(python3 -I -c 'import json,sys; print(json.load(open(sys.argv[1]))["schemaVersion"])' "$manifest")
             version=$(python3 -I -c 'import json,sys; print(json.load(open(sys.argv[1]))["version"])' "$manifest")
             python3 -I tool/set_content_version.py --project scoutpath-759d7 \
-              --schema "$schema" --version "$version" --commit "$COMMIT"
+              --schema "$schema" --version "$version"
           done
